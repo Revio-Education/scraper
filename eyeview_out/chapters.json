@@ -1,0 +1,524 @@
+[
+  {
+    "id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Units and Dimensions",
+    "created_at": "2026-06-10T12:27:35.070407+00:00"
+  },
+  {
+    "id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Motion in One Dimension",
+    "created_at": "2026-06-10T15:14:16.752055+00:00"
+  },
+  {
+    "id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Motion in Two Dimensions",
+    "created_at": "2026-06-10T15:18:57.384424+00:00"
+  },
+  {
+    "id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Laws of Motion",
+    "created_at": "2026-06-10T15:23:39.882492+00:00"
+  },
+  {
+    "id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Work Power and Energy",
+    "created_at": "2026-06-10T15:30:32.508751+00:00"
+  },
+  {
+    "id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Centre of Mass and Moementum",
+    "created_at": "2026-06-10T15:33:15.648254+00:00"
+  },
+  {
+    "id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Rotational Motion",
+    "created_at": "2026-06-10T15:37:19.315621+00:00"
+  },
+  {
+    "id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Gravitation",
+    "created_at": "2026-06-10T15:39:57.515644+00:00"
+  },
+  {
+    "id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Mechanical Properties of Solids",
+    "created_at": "2026-06-10T15:42:14.540826+00:00"
+  },
+  {
+    "id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Mechanical Properties of Fluids",
+    "created_at": "2026-06-10T15:45:06.208326+00:00"
+  },
+  {
+    "id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Thermal Properties of Matter",
+    "created_at": "2026-06-10T15:51:35.430496+00:00"
+  },
+  {
+    "id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Thermodynamics",
+    "created_at": "2026-06-10T15:59:46.653262+00:00"
+  },
+  {
+    "id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Kinetic Theory of Gases",
+    "created_at": "2026-06-10T16:02:16.818491+00:00"
+  },
+  {
+    "id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Oscillations",
+    "created_at": "2026-06-10T16:07:33.355286+00:00"
+  },
+  {
+    "id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Some Basic Concepts of Chemistry",
+    "created_at": "2026-06-11T06:12:54.331841+00:00"
+  },
+  {
+    "id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Structure of Atom",
+    "created_at": "2026-06-11T06:15:08.591686+00:00"
+  },
+  {
+    "id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Classification of Elements and Periodicity",
+    "created_at": "2026-06-11T06:17:06.353159+00:00"
+  },
+  {
+    "id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Chemical Bonding and Molecular Structure",
+    "created_at": "2026-06-11T06:19:09.755904+00:00"
+  },
+  {
+    "id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "States of Matter",
+    "created_at": "2026-06-11T12:32:46.600237+00:00"
+  },
+  {
+    "id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Thermodynamics",
+    "created_at": "2026-06-11T12:35:02.275788+00:00"
+  },
+  {
+    "id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Equilibrium",
+    "created_at": "2026-06-11T12:39:29.398392+00:00"
+  },
+  {
+    "id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Redox Reactions",
+    "created_at": "2026-06-11T12:42:23.605032+00:00"
+  },
+  {
+    "id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "The p-Block Elements (Group 13 & 14)",
+    "created_at": "2026-06-11T12:43:46.331651+00:00"
+  },
+  {
+    "id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Organic Chemistry – Some Basic Principles and Techniques",
+    "created_at": "2026-06-11T12:45:54.29846+00:00"
+  },
+  {
+    "id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Hydrocarbons",
+    "created_at": "2026-06-11T13:01:54.200649+00:00"
+  },
+  {
+    "id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "The Living World",
+    "created_at": "2026-06-11T13:22:06.160113+00:00"
+  },
+  {
+    "id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Plant Kingdom",
+    "created_at": "2026-06-11T13:25:13.861925+00:00"
+  },
+  {
+    "id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Morphology of Flowering Plants",
+    "created_at": "2026-06-11T13:32:40.572283+00:00"
+  },
+  {
+    "id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Anatomy of Flowering Plants",
+    "created_at": "2026-06-11T13:34:20.538356+00:00"
+  },
+  {
+    "id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Cell – The Unit of Life",
+    "created_at": "2026-06-11T13:47:41.955569+00:00"
+  },
+  {
+    "id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Biomolecules",
+    "created_at": "2026-06-11T13:49:09.912313+00:00"
+  },
+  {
+    "id": "aff31869-14bc-4eac-b6b7-0be091c5cb14",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Cell Cycle and Cell Division",
+    "created_at": "2026-06-11T13:51:08.885756+00:00"
+  },
+  {
+    "id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Transport in Plants",
+    "created_at": "2026-06-11T13:52:08.667422+00:00"
+  },
+  {
+    "id": "728270bd-046f-4198-b17a-b0d4f2ebab79",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Mineral Nutrition",
+    "created_at": "2026-06-11T13:53:21.882779+00:00"
+  },
+  {
+    "id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Photosynthesis in Higher Plants",
+    "created_at": "2026-06-11T13:57:41.398305+00:00"
+  },
+  {
+    "id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Respiration in Plants",
+    "created_at": "2026-06-11T13:58:54.622482+00:00"
+  },
+  {
+    "id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Plant Growth and Development",
+    "created_at": "2026-06-11T14:00:08.632833+00:00"
+  },
+  {
+    "id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Waves",
+    "created_at": "2026-06-10T16:11:30.522208+00:00"
+  },
+  {
+    "id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Biological Classification",
+    "created_at": "2026-06-11T13:23:33.527904+00:00"
+  },
+  {
+    "id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Electric Charges and Fields",
+    "created_at": "2026-06-22T03:11:13.326177+00:00"
+  },
+  {
+    "id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Electrostatic Potential and Capacitance",
+    "created_at": "2026-06-22T03:31:50.428988+00:00"
+  },
+  {
+    "id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Current Electricity",
+    "created_at": "2026-06-22T03:45:05.3753+00:00"
+  },
+  {
+    "id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Moving Charges and Magnetism",
+    "created_at": "2026-06-22T03:55:58.209864+00:00"
+  },
+  {
+    "id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Magnetism and Matter",
+    "created_at": "2026-06-22T06:48:55.879062+00:00"
+  },
+  {
+    "id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Neural Control and Coordination",
+    "created_at": "2026-06-22T06:56:36.746144+00:00"
+  },
+  {
+    "id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Breathing and Exchange of Gases",
+    "created_at": "2026-06-22T15:38:58.938307+00:00"
+  },
+  {
+    "id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Excretory Products and their Elimination",
+    "created_at": "2026-06-22T15:41:57.274205+00:00"
+  },
+  {
+    "id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Locomotion and Movement",
+    "created_at": "2026-06-22T15:46:20.734093+00:00"
+  },
+  {
+    "id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Chemical Coordination and Integration",
+    "created_at": "2026-06-22T15:48:32.072195+00:00"
+  },
+  {
+    "id": "d4da47e2-481c-462c-985a-09d570600055",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Body Fluids and Circulation",
+    "created_at": "2026-06-22T15:52:16.003519+00:00"
+  },
+  {
+    "id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Structural Organisation in Animals",
+    "created_at": "2026-06-22T15:54:02.262494+00:00"
+  },
+  {
+    "id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Animal Kingdom",
+    "created_at": "2026-06-22T15:59:57.195749+00:00"
+  },
+  {
+    "id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Reproduction in Organisms",
+    "created_at": "2026-06-22T16:40:05.083314+00:00"
+  },
+  {
+    "id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Human Reproduction",
+    "created_at": "2026-06-22T17:10:10.419507+00:00"
+  },
+  {
+    "id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Reproductive Health",
+    "created_at": "2026-06-22T17:13:04.02475+00:00"
+  },
+  {
+    "id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Principles of Inheritance and Variation",
+    "created_at": "2026-06-22T17:15:01.180845+00:00"
+  },
+  {
+    "id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Molecular Basis of Inheritance",
+    "created_at": "2026-06-22T17:17:46.185078+00:00"
+  },
+  {
+    "id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Evolution",
+    "created_at": "2026-06-22T17:20:02.990527+00:00"
+  },
+  {
+    "id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Human Health and Disease",
+    "created_at": "2026-06-22T17:21:54.359875+00:00"
+  },
+  {
+    "id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Microbes in Human Welfare",
+    "created_at": "2026-06-22T17:23:59.186672+00:00"
+  },
+  {
+    "id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Biotechnology: Principles and Processes",
+    "created_at": "2026-06-22T17:26:18.102774+00:00"
+  },
+  {
+    "id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Organisms and Populations",
+    "created_at": "2026-06-22T17:29:44.63734+00:00"
+  },
+  {
+    "id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Ecosystem",
+    "created_at": "2026-06-22T17:33:09.715926+00:00"
+  },
+  {
+    "id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Biodiversity and Conservation",
+    "created_at": "2026-06-22T17:35:04.299476+00:00"
+  },
+  {
+    "id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Environmental Issues",
+    "created_at": "2026-06-22T17:36:41.618994+00:00"
+  },
+  {
+    "id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "subject_id": "99b5733b-0d1f-4abe-9a72-36841a12a80d",
+    "name": "Biotechnology and its Applications",
+    "created_at": "2026-06-22T17:28:02.481258+00:00"
+  },
+  {
+    "id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Electromagnetic Induction",
+    "created_at": "2026-06-23T16:42:26.576925+00:00"
+  },
+  {
+    "id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Alternating Current",
+    "created_at": "2026-06-23T16:55:53.627907+00:00"
+  },
+  {
+    "id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Electromagnetic Waves",
+    "created_at": "2026-06-23T17:20:04.418543+00:00"
+  },
+  {
+    "id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Ray Optics and Optical Instruments",
+    "created_at": "2026-06-23T18:14:09.989184+00:00"
+  },
+  {
+    "id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Wave Optics",
+    "created_at": "2026-06-23T18:16:40.946275+00:00"
+  },
+  {
+    "id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Dual Nature of Radiation and Matter.",
+    "created_at": "2026-06-23T18:18:38.229428+00:00"
+  },
+  {
+    "id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Atoms",
+    "created_at": "2026-06-23T18:23:10.570856+00:00"
+  },
+  {
+    "id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Nuclei",
+    "created_at": "2026-06-23T18:25:15.714788+00:00"
+  },
+  {
+    "id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "subject_id": "dedbe13d-43d7-47b0-a8bb-7f6107a0e0e1",
+    "name": "Semiconductor Electronics: Materials, Devices and Simple Circuits",
+    "created_at": "2026-06-23T18:31:46.468677+00:00"
+  },
+  {
+    "id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "subject_id": "0760cc24-980c-4ab2-8010-25d0da37bf52",
+    "name": "Sexual Reproduction in Flowering Plants",
+    "created_at": "2026-06-24T11:49:47.399637+00:00"
+  },
+  {
+    "id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Solutions",
+    "created_at": "2026-06-30T16:26:56.566687+00:00"
+  },
+  {
+    "id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Electrochemistry",
+    "created_at": "2026-06-30T16:28:30.281326+00:00"
+  },
+  {
+    "id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Chemical Kinetics",
+    "created_at": "2026-06-30T16:29:49.294552+00:00"
+  },
+  {
+    "id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "d- and f-Block Elements",
+    "created_at": "2026-06-30T16:31:09.995183+00:00"
+  },
+  {
+    "id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Coordination Compounds",
+    "created_at": "2026-06-30T16:32:21.732481+00:00"
+  },
+  {
+    "id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Haloalkanes and Haloarenes",
+    "created_at": "2026-06-30T16:33:27.374007+00:00"
+  },
+  {
+    "id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Alcohols, Phenols and Ethers",
+    "created_at": "2026-06-30T16:34:56.958492+00:00"
+  },
+  {
+    "id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Aldehydes, Ketones and Carboxylic Acids",
+    "created_at": "2026-06-30T16:36:03.827279+00:00"
+  },
+  {
+    "id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Amines",
+    "created_at": "2026-06-30T16:37:09.705186+00:00"
+  },
+  {
+    "id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Biomolecules",
+    "created_at": "2026-06-30T16:38:38.037634+00:00"
+  },
+  {
+    "id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "subject_id": "baa04229-33ba-4de3-9ff6-b95e48257362",
+    "name": "Polymers",
+    "created_at": "2026-06-30T16:40:17.882892+00:00"
+  }
+]

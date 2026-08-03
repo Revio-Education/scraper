@@ -1,0 +1,4280 @@
+[
+  {
+    "id": "302eb95c-476a-49a2-ad22-62795ffbbd92",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Fundamental Quantities",
+    "created_at": "2026-06-10T12:28:02.721399+00:00"
+  },
+  {
+    "id": "8f618387-39b8-4b2a-b000-2e847e591219",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Derived Quantities",
+    "created_at": "2026-06-10T12:30:00.644608+00:00"
+  },
+  {
+    "id": "8e7562a1-4dd0-4c66-b1fe-bb4e230b61b2",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "SI Units",
+    "created_at": "2026-06-10T12:30:14.218281+00:00"
+  },
+  {
+    "id": "5b23a1f0-0c50-40ff-a7cb-b92819b26af1",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Error Analysis",
+    "created_at": "2026-06-10T12:30:23.076883+00:00"
+  },
+  {
+    "id": "8378dec5-a676-4ef6-8dee-7b4daa587fc6",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Unit Conversion",
+    "created_at": "2026-06-10T12:30:46.497805+00:00"
+  },
+  {
+    "id": "a3e493d7-57f5-4bb3-a437-2c47a58f38d9",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Dimensional Analysis",
+    "created_at": "2026-06-10T12:31:15.768722+00:00"
+  },
+  {
+    "id": "0bd6b23e-8d46-4460-8f06-602fb19a30d4",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Dimensional Formula",
+    "created_at": "2026-06-10T12:30:59.698585+00:00"
+  },
+  {
+    "id": "16232435-9a2d-4829-8bfd-806b671179a2",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Significant Figures",
+    "created_at": "2026-06-10T12:39:07.981502+00:00"
+  },
+  {
+    "id": "abc01f73-2bea-4a42-a3e3-2f1ea84fb9d0",
+    "chapter_id": "c0407c14-d5fe-464e-a638-5532c8312f20",
+    "name": "Errors in Measurement",
+    "created_at": "2026-06-10T12:39:24.970088+00:00"
+  },
+  {
+    "id": "d40bead3-bb79-4c29-a154-9143d7bf81c8",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Position and Displacement",
+    "created_at": "2026-06-10T15:15:10.183527+00:00"
+  },
+  {
+    "id": "5116cf58-8711-4cc6-84d8-c610b6e5cc04",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Distance vs Displacement",
+    "created_at": "2026-06-10T15:15:20.278358+00:00"
+  },
+  {
+    "id": "92319416-c47a-4c1a-9374-f7c3b0753666",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Speed and Velocity",
+    "created_at": "2026-06-10T15:15:28.666002+00:00"
+  },
+  {
+    "id": "5e91985b-d629-4650-a62f-5340622ef092",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Average Speed and Average Velocity",
+    "created_at": "2026-06-10T15:15:49.684168+00:00"
+  },
+  {
+    "id": "357a6bfc-9c0f-4325-a4ef-eb413ab83542",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Acceleration",
+    "created_at": "2026-06-10T15:15:59.548749+00:00"
+  },
+  {
+    "id": "dfddd307-5bfe-42b3-a695-311e5fc55e43",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Motion Under Gravity",
+    "created_at": "2026-06-10T15:16:12.695306+00:00"
+  },
+  {
+    "id": "57128466-6026-4a02-873b-e490a0e942f1",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Free Fall",
+    "created_at": "2026-06-10T15:16:26.322406+00:00"
+  },
+  {
+    "id": "5081a295-9d8a-425d-ae3e-99fa06abad23",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Position-Time Graphs",
+    "created_at": "2026-06-10T15:16:42.820853+00:00"
+  },
+  {
+    "id": "484d3304-7b64-4fb6-857c-afa63e2b05f9",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Relative Motion in One Dimension",
+    "created_at": "2026-06-10T15:16:52.934566+00:00"
+  },
+  {
+    "id": "6b100cf8-cd97-4784-b5dc-c6ae4b7f2d9f",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Velocity-Time Graphs",
+    "created_at": "2026-06-10T15:17:01.055659+00:00"
+  },
+  {
+    "id": "6769a21a-e88d-4cc2-846d-8d13bdb16346",
+    "chapter_id": "fc8923c5-5dbc-4e1c-9c82-44687098541b",
+    "name": "Equations of Motion",
+    "created_at": "2026-06-10T15:17:09.749813+00:00"
+  },
+  {
+    "id": "a0eff1bd-9688-4f98-a959-caa01f509609",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Uniform Circular Motion",
+    "created_at": "2026-06-10T15:19:44.892306+00:00"
+  },
+  {
+    "id": "8110077a-8162-4671-8d4f-a7c95cd90ecd",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Projectile on Inclined Plane",
+    "created_at": "2026-06-10T15:19:54.871074+00:00"
+  },
+  {
+    "id": "ba66a83c-2302-4415-bfc4-92d5b59d8f2d",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Oblique Projectile",
+    "created_at": "2026-06-10T15:20:07.482506+00:00"
+  },
+  {
+    "id": "6084e885-c2cd-495b-b787-8c38ab933141",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Horizontal Projectile",
+    "created_at": "2026-06-10T15:20:15.569671+00:00"
+  },
+  {
+    "id": "9c082ca0-f0d3-4a31-8717-aedcc76aeaa9",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Projectile Motion",
+    "created_at": "2026-06-10T15:20:23.838565+00:00"
+  },
+  {
+    "id": "d7084802-ab7c-4a65-abdf-5635c39217fa",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Relative Velocity in Two Dimensions",
+    "created_at": "2026-06-10T15:20:32.101272+00:00"
+  },
+  {
+    "id": "dbfc3506-4178-459f-a612-4a8172c4c737",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Unit Vectors",
+    "created_at": "2026-06-10T15:20:44.206459+00:00"
+  },
+  {
+    "id": "52f7c2df-b4b8-4ce7-8536-166390d01d2f",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Resolution of Vectors",
+    "created_at": "2026-06-10T15:20:52.521207+00:00"
+  },
+  {
+    "id": "542c8d3b-a422-4837-a596-53a02f69e12d",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Vector Addition and Subtraction",
+    "created_at": "2026-06-10T15:21:28.217451+00:00"
+  },
+  {
+    "id": "3916c0d4-5c12-401b-a9e9-61d3894674b0",
+    "chapter_id": "63412934-b138-4db3-9536-ac153f7fc7ed",
+    "name": "Scalars and Vectors",
+    "created_at": "2026-06-10T15:21:36.847499+00:00"
+  },
+  {
+    "id": "ec15566f-6795-48ce-ade6-8c2c30573aaf",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Inclined Plane Problems",
+    "created_at": "2026-06-10T15:23:54.943089+00:00"
+  },
+  {
+    "id": "b1cdb7c2-1c24-4f25-9168-ff9cc233244b",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Connected Bodies and Pulley Systems",
+    "created_at": "2026-06-10T15:24:04.712186+00:00"
+  },
+  {
+    "id": "e6d2dc91-03bc-4816-805e-38990ad43034",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Pseudo Force",
+    "created_at": "2026-06-10T15:24:16.14419+00:00"
+  },
+  {
+    "id": "f958c5ad-8ad5-41e4-be90-38dd5f1de9bf",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Force and Inertia",
+    "created_at": "2026-06-10T15:24:35.336337+00:00"
+  },
+  {
+    "id": "c820c8b8-a3c4-4cf8-ba66-e17d2619a3e6",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Newton's First Law",
+    "created_at": "2026-06-10T15:24:43.599375+00:00"
+  },
+  {
+    "id": "8482a389-599b-4270-ada0-d31fdca2688e",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Circular Motion and Forces",
+    "created_at": "2026-06-10T15:24:59.037882+00:00"
+  },
+  {
+    "id": "3032e673-b28d-42ea-b62c-6c7b73bd600b",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Kinetic Friction",
+    "created_at": "2026-06-10T15:25:07.718358+00:00"
+  },
+  {
+    "id": "7dd7de9a-fb8a-48ad-b882-ca9dc1acce1d",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Static Friction",
+    "created_at": "2026-06-10T15:25:16.906117+00:00"
+  },
+  {
+    "id": "64f500e5-92d9-4e79-91ca-68c0656a49ba",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Friction",
+    "created_at": "2026-06-10T15:25:26.019745+00:00"
+  },
+  {
+    "id": "cd839d9e-4535-483c-a521-64c7681dc438",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Free Body Diagrams",
+    "created_at": "2026-06-10T15:25:33.830627+00:00"
+  },
+  {
+    "id": "54ca5b67-4cc0-4993-9e72-764d67cce0bf",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Impulse",
+    "created_at": "2026-06-10T15:25:41.856799+00:00"
+  },
+  {
+    "id": "8daa4724-884b-4fb9-9ad4-9fd12d12b17e",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Conservation of Momentum",
+    "created_at": "2026-06-10T15:25:49.424578+00:00"
+  },
+  {
+    "id": "99984808-4772-4263-9781-b4239b2e1be5",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Newton's Third Law",
+    "created_at": "2026-06-10T15:25:57.338659+00:00"
+  },
+  {
+    "id": "b9508997-7ac0-4f21-9e70-2edce943f22d",
+    "chapter_id": "7176e366-c992-4047-8949-5e31a35e5e09",
+    "name": "Newton's Second Law",
+    "created_at": "2026-06-10T15:26:05.052007+00:00"
+  },
+  {
+    "id": "e3608aea-d562-4682-a4d6-5dfead54a75d",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Collisions",
+    "created_at": "2026-06-10T15:30:59.973633+00:00"
+  },
+  {
+    "id": "ebcbed08-eac2-4268-89cf-2c3137f355f6",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Power",
+    "created_at": "2026-06-10T15:31:12.751927+00:00"
+  },
+  {
+    "id": "b6332081-44ff-4152-b203-d74604252d94",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Conservation of Mechanical Energy",
+    "created_at": "2026-06-10T15:31:34.639176+00:00"
+  },
+  {
+    "id": "1bcf8430-fc92-4ec5-807b-13b07104b2ec",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Potential Energy",
+    "created_at": "2026-06-10T15:31:43.524864+00:00"
+  },
+  {
+    "id": "482036eb-e17e-47aa-9528-31edccd61905",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Work Done by Constant Force",
+    "created_at": "2026-06-10T15:31:55.872066+00:00"
+  },
+  {
+    "id": "7c0eecbc-1bcb-4f88-a14d-4c9da1ee5218",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Work-Energy Theorem",
+    "created_at": "2026-06-10T15:32:09.623722+00:00"
+  },
+  {
+    "id": "65d74813-aa1d-476a-b579-af36443f8b37",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Kinetic Energy",
+    "created_at": "2026-06-10T15:32:17.492396+00:00"
+  },
+  {
+    "id": "ba8ce1f9-19f1-493e-8d97-3c9f6e9514a1",
+    "chapter_id": "c74a2d49-5e1c-44db-9794-38233dc174bf",
+    "name": "Work Done by Variable Force",
+    "created_at": "2026-06-10T15:32:28.912966+00:00"
+  },
+  {
+    "id": "40a461dc-2897-41df-a7ff-7b4e6fd92f54",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Rocket Propulsion",
+    "created_at": "2026-06-10T15:34:01.998191+00:00"
+  },
+  {
+    "id": "7c60325a-aad0-45ff-a1b2-159a93b4bfdb",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Collision Problems",
+    "created_at": "2026-06-10T15:34:10.449969+00:00"
+  },
+  {
+    "id": "978204f6-603c-4a53-87d8-71ac7c54764a",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Center of Mass",
+    "created_at": "2026-06-10T15:34:47.834954+00:00"
+  },
+  {
+    "id": "f612c188-fb3b-4482-a755-5701de726414",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Conservation of Momentum",
+    "created_at": "2026-06-10T15:35:04.975675+00:00"
+  },
+  {
+    "id": "cfd75f09-e3d5-4a17-99ac-75011513d213",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Impulse",
+    "created_at": "2026-06-10T15:35:26.600062+00:00"
+  },
+  {
+    "id": "9360fa0e-4c1f-42ea-951d-9ae83dee5e30",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Linear Momentum",
+    "created_at": "2026-06-10T15:35:41.008042+00:00"
+  },
+  {
+    "id": "6cedb0b5-b57b-405e-9f63-5deb7f0a8233",
+    "chapter_id": "a3ae345f-1127-45d4-9b61-e614d9786b82",
+    "name": "Motion of Center of Mass",
+    "created_at": "2026-06-10T15:35:50.355491+00:00"
+  },
+  {
+    "id": "177987ef-1c3a-44ab-894d-4360cc9975cf",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Equilibrium of Rigid Bodies",
+    "created_at": "2026-06-10T15:37:37.807487+00:00"
+  },
+  {
+    "id": "e9b7b716-c29c-4b56-956c-f6782ff9c19e",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Rolling Motion",
+    "created_at": "2026-06-10T15:37:46.810616+00:00"
+  },
+  {
+    "id": "0a6a666a-6ec2-47f7-8efb-289450b4007a",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Rotational Dynamics",
+    "created_at": "2026-06-10T15:37:54.885401+00:00"
+  },
+  {
+    "id": "1eb79c90-d44e-4338-bab2-fd298f7a4e5e",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Conservation of Angular Momentum",
+    "created_at": "2026-06-10T15:38:02.883986+00:00"
+  },
+  {
+    "id": "3ca1b7e4-2752-4fb6-83a3-63c182ffec77",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Angular Momentum",
+    "created_at": "2026-06-10T15:38:12.256751+00:00"
+  },
+  {
+    "id": "66b13212-fffc-4ca9-a4bd-12c37b714e48",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Theorems of Moment of Inertia",
+    "created_at": "2026-06-10T15:38:21.39362+00:00"
+  },
+  {
+    "id": "244f1e4b-8de3-4434-a4cb-7b4e83d7b4ee",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Radius of Gyration",
+    "created_at": "2026-06-10T15:38:38.137369+00:00"
+  },
+  {
+    "id": "affa9573-6e49-4891-8780-26ba7aacce6e",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Moment of Inertia",
+    "created_at": "2026-06-10T15:38:49.540254+00:00"
+  },
+  {
+    "id": "e9158fcf-09fb-4d13-ab8b-ba9f25f3644c",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Torque",
+    "created_at": "2026-06-10T15:38:59.179996+00:00"
+  },
+  {
+    "id": "a873017b-f806-41c6-be37-454b1744f5c3",
+    "chapter_id": "b829d4be-266e-44af-b989-b356162f1b0f",
+    "name": "Angular Displacement, Velocity and Acceleration",
+    "created_at": "2026-06-10T15:39:07.845556+00:00"
+  },
+  {
+    "id": "e348531a-762d-4e5e-9c03-ad9802ed9107",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Geostationary and Polar Satellites",
+    "created_at": "2026-06-10T15:40:08.385422+00:00"
+  },
+  {
+    "id": "72f7f279-86c8-4acc-9655-eaa2adee244d",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Variation of Gravity (g)",
+    "created_at": "2026-06-10T15:40:17.203974+00:00"
+  },
+  {
+    "id": "e9215739-db51-47c9-acbd-bc76fadd937e",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Kepler's Laws of Planetary Motion",
+    "created_at": "2026-06-10T15:40:25.423342+00:00"
+  },
+  {
+    "id": "39f8d075-4355-4fcb-9f02-940ebdccd6aa",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Satellite Motion",
+    "created_at": "2026-06-10T15:40:32.968528+00:00"
+  },
+  {
+    "id": "1f427fc1-ae6f-4fd5-8579-16b181c1de15",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Escape Velocity",
+    "created_at": "2026-06-10T15:40:40.290235+00:00"
+  },
+  {
+    "id": "f0a63816-9319-4303-bb0f-68b7e32a33a4",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Gravitational Field",
+    "created_at": "2026-06-10T15:40:53.399993+00:00"
+  },
+  {
+    "id": "2c837104-9eb3-49e6-a4b0-8074418425d4",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Gravitational Potential and Potential Energy",
+    "created_at": "2026-06-10T15:41:01.001378+00:00"
+  },
+  {
+    "id": "838f816b-a6ff-4284-8bce-187a85014b79",
+    "chapter_id": "9f4fe884-33f5-4712-8896-99cb2d17e897",
+    "name": "Universal Law of Gravitation",
+    "created_at": "2026-06-10T15:41:07.992438+00:00"
+  },
+  {
+    "id": "518e27cc-706c-40a9-80e1-0d5b73e75cb5",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Elastic Energy",
+    "created_at": "2026-06-10T15:42:27.925421+00:00"
+  },
+  {
+    "id": "dcf2f36c-8355-43a4-ad86-4310258557db",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Stress and Strain",
+    "created_at": "2026-06-10T15:42:44.116077+00:00"
+  },
+  {
+    "id": "77ac728a-d43b-4cbd-8eca-4ddcaa4a4cbb",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Stress-Strain Curve",
+    "created_at": "2026-06-10T15:43:03.980793+00:00"
+  },
+  {
+    "id": "085912c1-3a60-48ac-b389-2c5e197c4483",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Elastic Moduli",
+    "created_at": "2026-06-10T15:43:11.483699+00:00"
+  },
+  {
+    "id": "2076100b-a041-4aba-9a12-7e48c86b12af",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Hooke's Law",
+    "created_at": "2026-06-10T15:43:18.877431+00:00"
+  },
+  {
+    "id": "f9699ebc-ba55-49e6-bcf9-e77dab70bbeb",
+    "chapter_id": "4601b71b-bd1f-4694-afed-61d31432801f",
+    "name": "Elastic Behaviour of Solids",
+    "created_at": "2026-06-10T15:44:06.626689+00:00"
+  },
+  {
+    "id": "751e0a0b-4264-48c2-8e6e-50ed360a3429",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Continuity Equation",
+    "created_at": "2026-06-10T15:46:16.522785+00:00"
+  },
+  {
+    "id": "2ee1521c-48b1-46de-a13a-5f0e327a2b21",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Bernoulli's Principle",
+    "created_at": "2026-06-10T15:46:25.183079+00:00"
+  },
+  {
+    "id": "a8496db5-7d8d-49eb-9854-17fa5dba3798",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Streamline Flow and Turbulent Flow",
+    "created_at": "2026-06-10T15:46:33.776623+00:00"
+  },
+  {
+    "id": "f2799cab-24b0-43e9-9f76-eead3f326b4c",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Viscosity",
+    "created_at": "2026-06-10T15:46:42.452635+00:00"
+  },
+  {
+    "id": "57d06bde-2e50-45f6-be95-ae91216259da",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Capillarity",
+    "created_at": "2026-06-10T15:47:02.163793+00:00"
+  },
+  {
+    "id": "070f767d-d9bd-4b3a-a193-15a1da02c3c5",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Surface Tension",
+    "created_at": "2026-06-10T15:47:09.915379+00:00"
+  },
+  {
+    "id": "aba48053-4b0e-45e4-bb20-9d05feeb1860",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Buoyancy and Archimedes' Principle",
+    "created_at": "2026-06-10T15:47:24.304208+00:00"
+  },
+  {
+    "id": "366545f2-965d-4477-93bb-f6ddef73439f",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Density and Relative Density",
+    "created_at": "2026-06-10T15:47:34.922098+00:00"
+  },
+  {
+    "id": "58d9a178-3df1-4434-a346-38a5d99fc86d",
+    "chapter_id": "99f6e183-1d14-4225-bbd2-df8bc5aa25b4",
+    "name": "Pressure and Pascal's Law",
+    "created_at": "2026-06-10T15:47:45.683661+00:00"
+  },
+  {
+    "id": "f252b134-b50b-4e65-bccf-7e74173a6613",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Wien's Displacement Law and Black Body Radiation",
+    "created_at": "2026-06-10T15:51:52.940966+00:00"
+  },
+  {
+    "id": "db911412-1a7d-4e2e-b68a-15838bdb63b7",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Stefan-Boltzmann Law",
+    "created_at": "2026-06-10T15:52:05.079378+00:00"
+  },
+  {
+    "id": "9754647a-ce27-4fee-8cdb-e98409014e0a",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Newton's Law of Cooling",
+    "created_at": "2026-06-10T15:52:13.31918+00:00"
+  },
+  {
+    "id": "151f5345-6a2e-4141-a9f1-1087310df4ab",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Thermal Conductivity",
+    "created_at": "2026-06-10T15:52:24.713807+00:00"
+  },
+  {
+    "id": "3f3ed06a-1e59-41f7-ac4c-a496c0f303bb",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Heat Transfer",
+    "created_at": "2026-06-10T15:52:36.160727+00:00"
+  },
+  {
+    "id": "b57951e3-22e5-42ba-ad7d-592baefc56f8",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Change of State and Latent Heat",
+    "created_at": "2026-06-10T15:52:50.231678+00:00"
+  },
+  {
+    "id": "c63faeda-b036-402a-b855-8dfea3c23e92",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Temperature and Thermal Expansion",
+    "created_at": "2026-06-10T15:53:04.999344+00:00"
+  },
+  {
+    "id": "948481ae-cfc9-4553-bc38-86943b198ee4",
+    "chapter_id": "68dc071b-5f4f-40e3-bca7-303d36e7b8c7",
+    "name": "Calorimetry",
+    "created_at": "2026-06-10T15:53:13.533459+00:00"
+  },
+  {
+    "id": "8df632a0-39c3-4b34-8e0c-bdf93679a598",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Carnot Engine and Carnot Cycle",
+    "created_at": "2026-06-10T15:59:51.54541+00:00"
+  },
+  {
+    "id": "32eb265d-6cc1-4cd6-b28d-02d7027ddfa9",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Second Law of Thermodynamics",
+    "created_at": "2026-06-10T16:00:01.626789+00:00"
+  },
+  {
+    "id": "dcf17c67-4781-4ad9-8cf2-2d4d118b6072",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Thermodynamic Systems and Processes",
+    "created_at": "2026-06-10T16:00:17.110975+00:00"
+  },
+  {
+    "id": "c808ab39-394c-4aa6-a91e-b9d8192ecd0d",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Zeroth Law of Thermodynamics",
+    "created_at": "2026-06-10T16:00:28.347123+00:00"
+  },
+  {
+    "id": "17064963-691a-487b-b921-2eb9dc375862",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "First Law of Thermodynamics",
+    "created_at": "2026-06-10T16:00:43.101928+00:00"
+  },
+  {
+    "id": "cb847be8-fee7-46c0-a8cc-f14803277529",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Specific Heat Capacity and Heat Relations",
+    "created_at": "2026-06-10T16:01:01.230364+00:00"
+  },
+  {
+    "id": "b9b9d371-137a-4cd5-a5f4-936d501e2c68",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Isothermal and Adiabatic Processes",
+    "created_at": "2026-06-10T16:01:10.294299+00:00"
+  },
+  {
+    "id": "38b31949-5c8f-414b-afd3-9a92025be837",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Heat Engines and Refrigerators",
+    "created_at": "2026-06-10T16:01:21.059738+00:00"
+  },
+  {
+    "id": "6d4b0244-1b2f-4d32-ab24-26075f0995e1",
+    "chapter_id": "47ef0006-7028-40b0-a79e-6e9cc96c5e67",
+    "name": "Work Done in Thermodynamic Processes",
+    "created_at": "2026-06-10T16:01:34.580056+00:00"
+  },
+  {
+    "id": "5d48d065-daa6-4340-bd51-56514388c650",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Specific Heat Capacities of Gases",
+    "created_at": "2026-06-10T16:02:42.699668+00:00"
+  },
+  {
+    "id": "fd9a1d9a-d392-4aa4-a733-17a61dfc3a08",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Law of Equipartition of Energy",
+    "created_at": "2026-06-10T16:02:54.528727+00:00"
+  },
+  {
+    "id": "5ffd9975-8743-4cec-865b-43776650d287",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Mean Free Path",
+    "created_at": "2026-06-10T16:03:09.519066+00:00"
+  },
+  {
+    "id": "8017d9a2-2d4e-4183-8062-199e623895b7",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Degrees of Freedom",
+    "created_at": "2026-06-10T16:03:19.50562+00:00"
+  },
+  {
+    "id": "8a9cd4c7-323e-47c1-93bc-22d60a3d1ce5",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Kinetic Interpretation of Temperature",
+    "created_at": "2026-06-10T16:03:35.739093+00:00"
+  },
+  {
+    "id": "59f97fa7-d69f-4626-9b3b-14c2e7453f0d",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Postulates of Kinetic Theory",
+    "created_at": "2026-06-10T16:03:45.82821+00:00"
+  },
+  {
+    "id": "b552f936-1d3d-44c2-af70-a1d9ac86942e",
+    "chapter_id": "49274fd6-3f12-47f4-a012-589710cb92f2",
+    "name": "Pressure of an Ideal Gas",
+    "created_at": "2026-06-10T16:03:54.091352+00:00"
+  },
+  {
+    "id": "24947cc4-d122-4660-95aa-f71a59a2c8a0",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Forced Oscillations and Resonance",
+    "created_at": "2026-06-10T16:08:02.081433+00:00"
+  },
+  {
+    "id": "1300a143-4b0d-4f3d-8088-7b5e92901753",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Damped Oscillations",
+    "created_at": "2026-06-10T16:08:10.325512+00:00"
+  },
+  {
+    "id": "e742166b-8059-4ae9-b143-c69971f3a8cd",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Pendulum",
+    "created_at": "2026-06-10T16:08:19.461943+00:00"
+  },
+  {
+    "id": "bd9b98b1-5d9f-42db-aed9-c69667715ff1",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Spring-Mass Systems",
+    "created_at": "2026-06-10T16:08:29.849187+00:00"
+  },
+  {
+    "id": "ba3010fe-1d55-40df-8f2d-226095125b4f",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Energy in SHM",
+    "created_at": "2026-06-10T16:08:37.908655+00:00"
+  },
+  {
+    "id": "56cee2bd-f530-458f-ad2d-d85d3cbf0f25",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Equations of SHM",
+    "created_at": "2026-06-10T16:08:45.877979+00:00"
+  },
+  {
+    "id": "5fa57b2b-a8fa-4f90-aac7-758ca10dd154",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Characteristics of SHM",
+    "created_at": "2026-06-10T16:09:05.200369+00:00"
+  },
+  {
+    "id": "d0caf974-c9fe-499a-80a4-59a8baa25dca",
+    "chapter_id": "49967d6f-edc6-430d-9656-1fb38f289936",
+    "name": "Simple Harmonic Motion (SHM)",
+    "created_at": "2026-06-10T16:09:13.728851+00:00"
+  },
+  {
+    "id": "9a7b9479-4c69-4765-8988-01be30ba08cd",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Intensity and Loudness of Sound",
+    "created_at": "2026-06-10T16:11:39.753763+00:00"
+  },
+  {
+    "id": "b16de1f5-05db-46e8-ac26-e8106e1264b9",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Beats",
+    "created_at": "2026-06-10T16:13:41.21981+00:00"
+  },
+  {
+    "id": "2330de1e-ed9f-4666-8207-14b01d16ddf1",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Doppler Effect",
+    "created_at": "2026-06-10T16:13:51.174523+00:00"
+  },
+  {
+    "id": "d2ce09ac-fbb0-418f-ba52-d1fce4d85e1b",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Sound Waves",
+    "created_at": "2026-06-10T16:14:01.065686+00:00"
+  },
+  {
+    "id": "91a8f610-cfd0-4095-a53c-24dcd698e1e8",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Vibrating Strings and Organ Pipes",
+    "created_at": "2026-06-10T16:14:12.121677+00:00"
+  },
+  {
+    "id": "f5cbea75-1bc0-4501-bfad-36e7308dff2f",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Standing Waves",
+    "created_at": "2026-06-10T16:14:22.728738+00:00"
+  },
+  {
+    "id": "38fbec6b-1f44-4363-bae1-c65490aedee7",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Superposition of Waves",
+    "created_at": "2026-06-10T16:14:31.799661+00:00"
+  },
+  {
+    "id": "4343cb81-fcfe-4ea2-9795-9755ad868b9a",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Wave Equation and Wave Parameters",
+    "created_at": "2026-06-10T16:14:40.3706+00:00"
+  },
+  {
+    "id": "e3ad5edd-ede5-42e4-a927-7d563c2bcbf5",
+    "chapter_id": "07303ed3-c0d4-4a5c-b42f-87ee485b28fe",
+    "name": "Wave Motion",
+    "created_at": "2026-06-10T16:14:48.874653+00:00"
+  },
+  {
+    "id": "db2135f8-a9f8-4a6b-acbc-782ea59b679c",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Mole Concept",
+    "created_at": "2026-06-11T06:13:21.29842+00:00"
+  },
+  {
+    "id": "d42de76a-150a-4761-9b50-c7ee5377e28c",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Atomic Mass and Molecular Mass",
+    "created_at": "2026-06-11T06:13:30.961677+00:00"
+  },
+  {
+    "id": "4d83c97a-4f6f-4f02-ae8e-a8d9c8e870db",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Concentration Terms",
+    "created_at": "2026-06-11T06:13:41.389409+00:00"
+  },
+  {
+    "id": "60a4924d-3067-40f8-8f56-27127a3e8379",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Limiting Reagent",
+    "created_at": "2026-06-11T06:13:48.702201+00:00"
+  },
+  {
+    "id": "72c0e042-31eb-487b-9a17-af75d552a8c6",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Stoichiometry",
+    "created_at": "2026-06-11T06:13:55.789861+00:00"
+  },
+  {
+    "id": "1f1b561c-b363-424a-9763-46fc74eace76",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Empirical and Molecular Formula",
+    "created_at": "2026-06-11T06:14:04.234274+00:00"
+  },
+  {
+    "id": "720dcdd0-d65a-42b9-97c1-fb2fefa918dc",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Percentage Composition",
+    "created_at": "2026-06-11T06:14:11.072623+00:00"
+  },
+  {
+    "id": "0acffe12-651d-4a0d-8a75-f50cf931e395",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Avogadro Number and Molar Mass",
+    "created_at": "2026-06-11T06:14:18.758154+00:00"
+  },
+  {
+    "id": "ed2fb9f9-5b21-4b4f-b43f-ebb620841f85",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Atomic Models",
+    "created_at": "2026-06-11T06:15:18.691303+00:00"
+  },
+  {
+    "id": "02803617-1768-43dc-acd5-71f8fe1ccf4c",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Electromagnetic Radiation",
+    "created_at": "2026-06-11T06:15:28.604678+00:00"
+  },
+  {
+    "id": "2814019f-586a-4be2-8476-5bcb9a72aa8b",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Electronic Configuration",
+    "created_at": "2026-06-11T06:15:39.374632+00:00"
+  },
+  {
+    "id": "3757bb2e-e56c-49d3-9604-1d272597ff4f",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Quantum Numbers",
+    "created_at": "2026-06-11T06:15:57.912296+00:00"
+  },
+  {
+    "id": "ccd43dc7-b7f4-41da-9e33-1852682f7917",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Quantum Mechanical Model",
+    "created_at": "2026-06-11T06:16:05.359406+00:00"
+  },
+  {
+    "id": "852a752e-2cd3-4a85-ab33-71650e179de2",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Hydrogen Spectrum",
+    "created_at": "2026-06-11T06:16:12.406184+00:00"
+  },
+  {
+    "id": "885d22a9-3b1a-4bb1-85c9-2b6bc0ead8ba",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Bohr Model of Atom",
+    "created_at": "2026-06-11T06:16:20.666135+00:00"
+  },
+  {
+    "id": "32adebbc-0712-4ef4-979e-6584f764e471",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Photoelectric Effect",
+    "created_at": "2026-06-11T06:16:31.651291+00:00"
+  },
+  {
+    "id": "3714ebe1-22ae-432d-965a-a3c9bd94ebb3",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Modern Periodic Table",
+    "created_at": "2026-06-11T06:17:18.097+00:00"
+  },
+  {
+    "id": "3e50d223-12f2-4d56-a2f4-5a07754973af",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Periodic Trends",
+    "created_at": "2026-06-11T06:17:26.606443+00:00"
+  },
+  {
+    "id": "f0344de7-dee4-45cc-aa58-541b81d019af",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Atomic Radius",
+    "created_at": "2026-06-11T06:17:37.107107+00:00"
+  },
+  {
+    "id": "b5527580-7076-486b-8397-6bfd50a9993c",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Ionization Enthalpy",
+    "created_at": "2026-06-11T06:17:46.643727+00:00"
+  },
+  {
+    "id": "c6387eef-8014-4a6e-83f4-27c00fe16756",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Electron Gain Enthalpy",
+    "created_at": "2026-06-11T06:17:56.876772+00:00"
+  },
+  {
+    "id": "9ad49320-cd91-452d-80a2-8cc1e811f3ab",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Electronegativity",
+    "created_at": "2026-06-11T06:18:08.284286+00:00"
+  },
+  {
+    "id": "c706ca44-3c27-4979-94bb-bf75b9dcbe37",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Ionic Bond",
+    "created_at": "2026-06-11T06:19:28.160663+00:00"
+  },
+  {
+    "id": "bf10bff4-faba-4a73-9a45-c214842acad2",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Bond Parameters",
+    "created_at": "2026-06-11T06:20:01.444006+00:00"
+  },
+  {
+    "id": "4b3f548d-fbfc-4017-bc56-b98f68f29a71",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Hydrogen Bonding",
+    "created_at": "2026-06-11T06:20:38.129835+00:00"
+  },
+  {
+    "id": "2c74ebed-4ea8-48ef-8ab3-9b98a1f2ded7",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Covalent Bond",
+    "created_at": "2026-06-11T06:20:51.698698+00:00"
+  },
+  {
+    "id": "2f7b8bb3-3c95-47a0-ab93-9687686a3c66",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Lewis Structures",
+    "created_at": "2026-06-11T06:20:59.375023+00:00"
+  },
+  {
+    "id": "c4b128ba-2229-41f3-b1b3-a67f10611fe9",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "VSEPR Theory",
+    "created_at": "2026-06-11T06:21:08.765893+00:00"
+  },
+  {
+    "id": "e2e21f96-5f80-48db-aaa2-06dda0be6a2e",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Hybridization",
+    "created_at": "2026-06-11T06:21:18.428183+00:00"
+  },
+  {
+    "id": "1b531ce7-4306-49df-ae19-20f8ca62e0db",
+    "chapter_id": "27c64c16-131c-44af-b5c0-860e8980914e",
+    "name": "Molecular Orbital Theory",
+    "created_at": "2026-06-11T06:21:26.657943+00:00"
+  },
+  {
+    "id": "c8caef93-82cd-42d8-aa32-106f1b4eabb3",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Intermolecular Forces",
+    "created_at": "2026-06-11T12:33:02.667683+00:00"
+  },
+  {
+    "id": "046806c8-12fc-417c-9ac9-c6bc154a44be",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Properties of Gases",
+    "created_at": "2026-06-11T12:33:12.134875+00:00"
+  },
+  {
+    "id": "412c2b79-1950-4cbd-a966-c82d7efb5a91",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Liquefaction of Gases",
+    "created_at": "2026-06-11T12:33:46.165372+00:00"
+  },
+  {
+    "id": "b47259c2-9877-4e18-bf27-e2cbd53e51a0",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Properties of Liquids",
+    "created_at": "2026-06-11T12:33:52.894717+00:00"
+  },
+  {
+    "id": "fe37a6b8-488d-4ce9-98f2-ad8748f28fa7",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Real Gases",
+    "created_at": "2026-06-11T12:34:00.264706+00:00"
+  },
+  {
+    "id": "4151e6c4-1dac-45f8-a4e4-bcfc5fede875",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Kinetic Theory of Gases",
+    "created_at": "2026-06-11T12:34:08.381629+00:00"
+  },
+  {
+    "id": "8388953c-8ede-44f7-881c-2e8627c3eb3c",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Ideal Gas Equation",
+    "created_at": "2026-06-11T12:34:15.77892+00:00"
+  },
+  {
+    "id": "d51e045f-49bb-4faa-b8b8-8a4a743a80f5",
+    "chapter_id": "b3a51b8f-75e6-49d0-aac3-d08d9f038725",
+    "name": "Gas Laws",
+    "created_at": "2026-06-11T12:34:22.34157+00:00"
+  },
+  {
+    "id": "35194223-c713-4856-b7d8-982bc6786837",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Gibbs Energy and Spontaneity",
+    "created_at": "2026-06-11T12:35:16.594537+00:00"
+  },
+  {
+    "id": "1179dd9a-de3a-4d2e-85ae-7c670b230252",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Entropy",
+    "created_at": "2026-06-11T12:35:29.178247+00:00"
+  },
+  {
+    "id": "6150ae09-c7d1-414d-a7fe-b61243316d26",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Hess's Law",
+    "created_at": "2026-06-11T12:35:50.52572+00:00"
+  },
+  {
+    "id": "af8f8f07-6e92-47dc-ac2f-c65b01a08a34",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Second Law of Thermodynamics",
+    "created_at": "2026-06-11T12:35:42.637892+00:00"
+  },
+  {
+    "id": "19b9e2ef-2987-4c07-96ca-c4853fac1006",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Thermochemistry",
+    "created_at": "2026-06-11T12:35:59.867438+00:00"
+  },
+  {
+    "id": "dcb17f88-e19d-442f-867a-02f0f64b084a",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Internal Energy and Enthalpy",
+    "created_at": "2026-06-11T12:36:13.120582+00:00"
+  },
+  {
+    "id": "7d6f5b79-c720-4cf2-80dc-9c372cf4eca5",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "System and Surroundings",
+    "created_at": "2026-06-11T12:36:27.379525+00:00"
+  },
+  {
+    "id": "09362f70-4988-4d8e-9b6d-324a6032b5ca",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "First Law of Thermodynamics",
+    "created_at": "2026-06-11T12:36:06.679487+00:00"
+  },
+  {
+    "id": "db0e3cda-d7ae-43f5-915b-b84b716ef7e5",
+    "chapter_id": "44363f41-1190-4c43-aad0-4bc8d581143f",
+    "name": "Types of Thermodynamic Processes",
+    "created_at": "2026-06-11T12:36:19.844995+00:00"
+  },
+  {
+    "id": "af53a891-ed3d-438d-81c5-7d006627900c",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Chemical Equilibrium",
+    "created_at": "2026-06-11T12:39:38.2927+00:00"
+  },
+  {
+    "id": "db3557c0-26a5-4ebc-b0af-49fdb1aba87e",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Law of Mass Action",
+    "created_at": "2026-06-11T12:39:47.146264+00:00"
+  },
+  {
+    "id": "8095ccdc-c5fe-4dc7-a7e7-ff52a0eafa23",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Equilibrium Constant",
+    "created_at": "2026-06-11T12:39:54.911615+00:00"
+  },
+  {
+    "id": "e33d23e0-2844-45c3-ad6f-8d27a3b721be",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Le Chatelier's Principle",
+    "created_at": "2026-06-11T12:40:04.03321+00:00"
+  },
+  {
+    "id": "df45bc70-1a8a-47b7-b441-970e1fa2b2d1",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Ionic Equilibrium",
+    "created_at": "2026-06-11T12:40:11.87881+00:00"
+  },
+  {
+    "id": "b010d283-26e9-41a5-a30d-c2e758835f05",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Acids and Bases",
+    "created_at": "2026-06-11T12:40:19.754347+00:00"
+  },
+  {
+    "id": "85a6f1f9-ab49-48ea-bb0e-ed01d548b13e",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "pH and pOH",
+    "created_at": "2026-06-11T12:40:26.714427+00:00"
+  },
+  {
+    "id": "f29364cc-35ef-423a-b3a3-17087469f751",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Buffer Solutions",
+    "created_at": "2026-06-11T12:40:33.050576+00:00"
+  },
+  {
+    "id": "385ad33c-e4bd-4bb0-8dc8-abb190099174",
+    "chapter_id": "1371a174-56c6-4faf-b529-a0c39f738f4c",
+    "name": "Solubility Equilibrium",
+    "created_at": "2026-06-11T12:40:39.960484+00:00"
+  },
+  {
+    "id": "2bdc6b51-6c95-4fa3-add7-00d926fe6c44",
+    "chapter_id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "name": "Oxidation and Reduction Concepts",
+    "created_at": "2026-06-11T12:42:35.914411+00:00"
+  },
+  {
+    "id": "09c897b8-8d51-493d-90f8-53c2ba6f1bbe",
+    "chapter_id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "name": "Oxidation Number Method",
+    "created_at": "2026-06-11T12:42:47.742889+00:00"
+  },
+  {
+    "id": "797ca0ef-0575-4224-93fb-363e45400bd1",
+    "chapter_id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "name": "Balancing Redox Reactions",
+    "created_at": "2026-06-11T12:42:56.072895+00:00"
+  },
+  {
+    "id": "84336a56-58c3-4856-9d11-8522a4db99f3",
+    "chapter_id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "name": "Redox Titrations",
+    "created_at": "2026-06-11T12:43:03.079894+00:00"
+  },
+  {
+    "id": "ec7f798a-283e-40c0-9f71-31d4eb066f1f",
+    "chapter_id": "dccec2da-e37b-4374-bdc8-8bac931a07b1",
+    "name": "Disproportionation and Comproportionation",
+    "created_at": "2026-06-11T12:43:11.014367+00:00"
+  },
+  {
+    "id": "d7e8747a-27ab-472c-83ea-f2d220b11c6c",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "General Electronic Configuration",
+    "created_at": "2026-06-11T12:43:54.510896+00:00"
+  },
+  {
+    "id": "d8bbcc4a-4499-4fde-b221-c399b812587c",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Periodic Trends in p-Block",
+    "created_at": "2026-06-11T12:44:05.311938+00:00"
+  },
+  {
+    "id": "c967b7cd-e9ea-496f-a65d-66a4ba16f095",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Group 13 Elements",
+    "created_at": "2026-06-11T12:44:12.508471+00:00"
+  },
+  {
+    "id": "fcdf6bc8-8636-480a-9ae3-33b4cd7c647c",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Important Compounds of Boron",
+    "created_at": "2026-06-11T12:44:21.061351+00:00"
+  },
+  {
+    "id": "73503864-e4ae-4127-8998-0b79f1724001",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Group 14 Elements",
+    "created_at": "2026-06-11T12:44:28.405792+00:00"
+  },
+  {
+    "id": "cbcfddd1-fd6f-40c4-8b23-4b83ff027cbe",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Allotropes of Carbon",
+    "created_at": "2026-06-11T12:44:36.208947+00:00"
+  },
+  {
+    "id": "2f0f54b6-2c5b-4742-a94c-5c8048dca976",
+    "chapter_id": "7a22009a-c6d9-428b-b9a4-356250c9dc30",
+    "name": "Important Compounds of Carbon and Silicon",
+    "created_at": "2026-06-11T12:44:43.071995+00:00"
+  },
+  {
+    "id": "9aee85bb-fbe7-4b3d-98f5-c2bb213dbe88",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Classification and Nomenclature of Organic Compounds",
+    "created_at": "2026-06-11T12:46:11.362663+00:00"
+  },
+  {
+    "id": "6fbcc275-9d7c-4db0-8af6-b609158d47be",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Structural Isomerism",
+    "created_at": "2026-06-11T12:46:19.488605+00:00"
+  },
+  {
+    "id": "d40cd78d-f418-4c97-854a-a1d5b429cf3a",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Electronic Effects",
+    "created_at": "2026-06-11T12:46:26.814185+00:00"
+  },
+  {
+    "id": "ba570b14-6602-421a-beca-587b4a99d768",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Reaction Intermediates",
+    "created_at": "2026-06-11T12:46:33.137803+00:00"
+  },
+  {
+    "id": "64e8f7db-b7c3-4e37-9266-0349827fca0c",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Types of Organic Reactions",
+    "created_at": "2026-06-11T12:46:42.694789+00:00"
+  },
+  {
+    "id": "022fc302-9e1f-44d7-8c91-2845fa6b71df",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Purification of Organic Compounds",
+    "created_at": "2026-06-11T12:46:49.953631+00:00"
+  },
+  {
+    "id": "a579f481-015e-4a00-98fd-ab9c202c27d8",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Qualitative Analysis of Organic Compounds",
+    "created_at": "2026-06-11T12:46:57.233968+00:00"
+  },
+  {
+    "id": "534e4682-6200-42d8-b64f-0001178772b8",
+    "chapter_id": "92cf1d89-79cf-4bcf-b70b-56a62d1ed44e",
+    "name": "Quantitative Analysis of Organic Compounds",
+    "created_at": "2026-06-11T12:47:04.282684+00:00"
+  },
+  {
+    "id": "6f6bd2db-145b-4f5a-aee9-668449b63ad5",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Alkanes",
+    "created_at": "2026-06-11T13:02:09.416315+00:00"
+  },
+  {
+    "id": "c73a79e4-f4a6-4715-9aea-3b335e62c30b",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Alkenes",
+    "created_at": "2026-06-11T13:02:16.889154+00:00"
+  },
+  {
+    "id": "8f8b0348-8701-4cfe-b9bc-b1cb7ac4cdad",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Alkynes",
+    "created_at": "2026-06-11T13:02:24.725043+00:00"
+  },
+  {
+    "id": "6aeb664e-9cda-44a1-bff3-a0739d053905",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Aromatic Hydrocarbons",
+    "created_at": "2026-06-11T13:02:33.59394+00:00"
+  },
+  {
+    "id": "7b14af75-86cf-41d0-a3ac-b32a4e4f06a8",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Preparation of Hydrocarbons",
+    "created_at": "2026-06-11T13:02:41.702547+00:00"
+  },
+  {
+    "id": "9ca82b2b-0206-48b5-a70c-93f1b8d6e78f",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Physical Properties of Hydrocarbons",
+    "created_at": "2026-06-11T13:02:48.60884+00:00"
+  },
+  {
+    "id": "419e5bdf-abf0-4e4a-b43e-06fef8d50015",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Chemical Reactions of Hydrocarbons",
+    "created_at": "2026-06-11T13:02:56.407868+00:00"
+  },
+  {
+    "id": "250f3328-0080-48a8-af29-a7c1c66aa608",
+    "chapter_id": "b193f5b1-da43-4a88-8e69-22d727594d9b",
+    "name": "Environmental Aspects of Hydrocarbons",
+    "created_at": "2026-06-11T13:03:03.891264+00:00"
+  },
+  {
+    "id": "a0862314-6881-422b-8295-1c54ed900423",
+    "chapter_id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "name": "Biodiversity",
+    "created_at": "2026-06-11T13:22:20.468436+00:00"
+  },
+  {
+    "id": "281c9ae3-2ba9-4dca-aa58-d49b27dc55c3",
+    "chapter_id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "name": "Taxonomy",
+    "created_at": "2026-06-11T13:22:28.872573+00:00"
+  },
+  {
+    "id": "0e95163d-ac86-4a7d-9ec0-3885b6ef2120",
+    "chapter_id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "name": "Taxonomic Categories",
+    "created_at": "2026-06-11T13:22:37.969037+00:00"
+  },
+  {
+    "id": "b9235265-ff29-4ca6-ba35-9fd942ca4a1a",
+    "chapter_id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "name": "Nomenclature and Classification",
+    "created_at": "2026-06-11T13:22:45.467421+00:00"
+  },
+  {
+    "id": "a801f3d7-ff84-499e-9523-c3d1880c1982",
+    "chapter_id": "e9a41817-b3f1-4392-b2ab-e99e4d800370",
+    "name": "Taxonomical Aids",
+    "created_at": "2026-06-11T13:22:53.38779+00:00"
+  },
+  {
+    "id": "941b50b8-e8ed-4f9f-8d6c-9ce417c7e2e1",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Five Kingdom Classification",
+    "created_at": "2026-06-11T13:23:46.136774+00:00"
+  },
+  {
+    "id": "afdb3abe-81f0-42b7-980a-67fac6ae9f1a",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Kingdom Monera",
+    "created_at": "2026-06-11T13:23:54.277876+00:00"
+  },
+  {
+    "id": "9924354b-597b-4f4b-9c17-2d7c4681bc74",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Kingdom Protista",
+    "created_at": "2026-06-11T13:24:02.395312+00:00"
+  },
+  {
+    "id": "5e4ab119-d0ce-4f59-a194-f3c821bf3aa9",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Kingdom Fungi",
+    "created_at": "2026-06-11T13:24:10.938575+00:00"
+  },
+  {
+    "id": "5a070e3d-4bed-4d95-a3c5-3ad73ff19eb2",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Kingdom Plantae",
+    "created_at": "2026-06-11T13:24:18.887281+00:00"
+  },
+  {
+    "id": "f96a6722-5f3a-41fa-9799-8f8a47bf1114",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Kingdom Animalia",
+    "created_at": "2026-06-11T13:24:26.291111+00:00"
+  },
+  {
+    "id": "a26d59fa-29cd-4486-bc6d-c65dd35f9de9",
+    "chapter_id": "19ac86fc-3e07-4d26-a3eb-d640743e610d",
+    "name": "Viruses, Viroids and Lichens",
+    "created_at": "2026-06-11T13:24:34.229743+00:00"
+  },
+  {
+    "id": "cbba938b-bd87-43e9-9d72-eb230a61a897",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Algae",
+    "created_at": "2026-06-11T13:25:22.788365+00:00"
+  },
+  {
+    "id": "8dfdadc8-cdf7-4e29-a2d0-5bd45ff6fc21",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Bryophytes",
+    "created_at": "2026-06-11T13:26:53.623905+00:00"
+  },
+  {
+    "id": "f2c0df72-b17e-4af4-bf61-f6f17d1bdc25",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Pteridophytes",
+    "created_at": "2026-06-11T13:27:01.650246+00:00"
+  },
+  {
+    "id": "324f696f-a907-46e1-b44e-836eabee70f1",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Gymnosperms",
+    "created_at": "2026-06-11T13:27:09.97593+00:00"
+  },
+  {
+    "id": "141a458a-9b50-44a4-b818-f185f9bc6b1c",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Angiosperms",
+    "created_at": "2026-06-11T13:27:17.485904+00:00"
+  },
+  {
+    "id": "16cb54f9-4edf-42ea-ba02-e3edbf87db5a",
+    "chapter_id": "16337372-4d47-47db-8bc3-47584e1f8a2c",
+    "name": "Plant Life Cycles",
+    "created_at": "2026-06-11T13:27:25.150855+00:00"
+  },
+  {
+    "id": "a2b54930-aea2-4542-9a21-9026793f33e1",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Topics",
+    "created_at": "2026-06-11T13:32:51.54847+00:00"
+  },
+  {
+    "id": "21dc01f4-7635-4981-97d1-b2131378c040",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Root",
+    "created_at": "2026-06-11T13:33:01.877563+00:00"
+  },
+  {
+    "id": "4726d5b5-11af-46ad-9b50-b6433dc87a89",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Stem",
+    "created_at": "2026-06-11T13:33:09.96304+00:00"
+  },
+  {
+    "id": "d822b97a-c4ff-4540-8d2c-1eb28c11505e",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Leaf",
+    "created_at": "2026-06-11T13:33:18.832858+00:00"
+  },
+  {
+    "id": "aca773fe-b215-4e7f-84b4-f7e025625a2f",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Inflorescence",
+    "created_at": "2026-06-11T13:33:27.933266+00:00"
+  },
+  {
+    "id": "5f37e8f9-78c5-405e-8911-d97a7e8eb9bd",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Flower",
+    "created_at": "2026-06-11T13:33:35.501793+00:00"
+  },
+  {
+    "id": "5e55cf16-b55b-4257-acd4-382b3b858a9b",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Fruit",
+    "created_at": "2026-06-11T13:33:42.284922+00:00"
+  },
+  {
+    "id": "c7bcebb3-cbde-4023-ac52-2cd13da5d5ac",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Seed",
+    "created_at": "2026-06-11T13:33:49.481792+00:00"
+  },
+  {
+    "id": "4c970d6f-39d1-46c4-878a-2b11165dc55a",
+    "chapter_id": "0a19f93d-8b5f-4cce-87b0-25b432165075",
+    "name": "Modifications of Plant Parts",
+    "created_at": "2026-06-11T13:33:56.343487+00:00"
+  },
+  {
+    "id": "046305ee-4d82-452c-9d88-6fcb357f268a",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Plant Tissues",
+    "created_at": "2026-06-11T13:34:33.396814+00:00"
+  },
+  {
+    "id": "78eedafc-5b65-465b-82af-53311dd9760b",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Tissue Systems",
+    "created_at": "2026-06-11T13:34:40.56295+00:00"
+  },
+  {
+    "id": "c4cbdd18-6ec3-42c4-a3ea-4f5da303c717",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Anatomy of Root",
+    "created_at": "2026-06-11T13:34:49.117813+00:00"
+  },
+  {
+    "id": "94abfbed-bbae-48b4-b6f8-ddf9088d927a",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Anatomy of Stem",
+    "created_at": "2026-06-11T13:34:55.774782+00:00"
+  },
+  {
+    "id": "fd098026-f687-43b0-8f80-0193218e3eb4",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Anatomy of Leaf",
+    "created_at": "2026-06-11T13:35:04.23178+00:00"
+  },
+  {
+    "id": "8d146b22-a8e3-4335-8256-0d9b7f316157",
+    "chapter_id": "391b4e38-a41b-486b-a90a-b529389c3bf4",
+    "name": "Secondary Growth",
+    "created_at": "2026-06-11T13:35:11.662437+00:00"
+  },
+  {
+    "id": "ad5617ab-c34d-4796-932a-98ab2e1d763c",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Cell Theory",
+    "created_at": "2026-06-11T13:47:57.615989+00:00"
+  },
+  {
+    "id": "fa285d42-9731-47f9-a2ce-bcefd763ea41",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Cell Structure",
+    "created_at": "2026-06-11T13:48:06.985666+00:00"
+  },
+  {
+    "id": "597b5999-faba-40df-a9e0-8f11c27276ac",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Cell Organelles",
+    "created_at": "2026-06-11T13:48:15.575544+00:00"
+  },
+  {
+    "id": "d0dbc7e6-6de4-4b4b-8ded-9a68e4352959",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Cell Membrane",
+    "created_at": "2026-06-11T13:48:23.472641+00:00"
+  },
+  {
+    "id": "2a7cdf26-45a8-4c56-8f86-d11fb3fb4d82",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Carbohydrates",
+    "created_at": "2026-06-11T13:49:21.124863+00:00"
+  },
+  {
+    "id": "8c3fdf8f-9821-496a-a9e8-64640ac3d8bf",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Enzymes",
+    "created_at": "2026-06-11T13:49:59.199815+00:00"
+  },
+  {
+    "id": "3e0bd13a-613f-4ba2-8e6a-12ec64a4f8df",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Metabolites",
+    "created_at": "2026-06-11T13:50:07.757038+00:00"
+  },
+  {
+    "id": "6edb31ae-14f0-47ad-b635-129e7ca84035",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Nucleus",
+    "created_at": "2026-06-11T13:48:31.372214+00:00"
+  },
+  {
+    "id": "b5d8ace2-cff0-4dab-b3bb-0d69208894d6",
+    "chapter_id": "25c439a2-ed91-4539-94c8-9c2ce7fc18f9",
+    "name": "Cell Division Overview",
+    "created_at": "2026-06-11T13:48:40.075663+00:00"
+  },
+  {
+    "id": "bca74b73-4350-4099-89a2-5a39b794efad",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Proteins",
+    "created_at": "2026-06-11T13:49:31.926915+00:00"
+  },
+  {
+    "id": "a3b9088e-4f2f-46dc-b5ce-45cdfd06ea47",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Lipids",
+    "created_at": "2026-06-11T13:49:41.590213+00:00"
+  },
+  {
+    "id": "2d7bcb97-6985-425e-89e5-21ecc049b92a",
+    "chapter_id": "46885e7f-b882-4f6a-8343-90a0b2155ef4",
+    "name": "Nucleic Acids",
+    "created_at": "2026-06-11T13:49:50.913499+00:00"
+  },
+  {
+    "id": "d954734d-24e5-4e11-9342-2b30ec81893d",
+    "chapter_id": "aff31869-14bc-4eac-b6b7-0be091c5cb14",
+    "name": "Cell Cycle",
+    "created_at": "2026-06-11T13:51:20.091373+00:00"
+  },
+  {
+    "id": "326f0785-3d1a-453d-b2f3-f8112ad0e9b2",
+    "chapter_id": "aff31869-14bc-4eac-b6b7-0be091c5cb14",
+    "name": "Mitosis",
+    "created_at": "2026-06-11T13:51:28.357963+00:00"
+  },
+  {
+    "id": "7876370e-ec73-46b4-ac82-eca6e2d1af6f",
+    "chapter_id": "aff31869-14bc-4eac-b6b7-0be091c5cb14",
+    "name": "Meiosis",
+    "created_at": "2026-06-11T13:51:37.373989+00:00"
+  },
+  {
+    "id": "58be5236-9fdb-4643-89cc-7608782ea1a6",
+    "chapter_id": "aff31869-14bc-4eac-b6b7-0be091c5cb14",
+    "name": "Significance of Cell Division",
+    "created_at": "2026-06-11T13:51:44.933318+00:00"
+  },
+  {
+    "id": "9dd93942-f700-464b-b4ed-437ae663a197",
+    "chapter_id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "name": "Water Relations",
+    "created_at": "2026-06-11T13:52:23.659809+00:00"
+  },
+  {
+    "id": "9e556454-f67f-4611-9e43-561a9b0865b5",
+    "chapter_id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "name": "Mineral Nutrition in Plants",
+    "created_at": "2026-06-11T13:52:31.235442+00:00"
+  },
+  {
+    "id": "82f90410-c35d-4260-9870-1762ef9e0ac4",
+    "chapter_id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "name": "Transport of Water",
+    "created_at": "2026-06-11T13:52:38.398387+00:00"
+  },
+  {
+    "id": "f16314bc-bf87-4071-8426-77d43b5879cd",
+    "chapter_id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "name": "Transpiration",
+    "created_at": "2026-06-11T13:52:48.297279+00:00"
+  },
+  {
+    "id": "bca346c9-cbce-4f94-861c-0eb1530fc022",
+    "chapter_id": "13259c05-fee4-42b9-bb7c-78628a2da5c6",
+    "name": "Phloem Transport",
+    "created_at": "2026-06-11T13:52:55.39921+00:00"
+  },
+  {
+    "id": "4ad13df1-b8ba-44bd-bc0a-e4fbbf0c6dd7",
+    "chapter_id": "728270bd-046f-4198-b17a-b0d4f2ebab79",
+    "name": "Essential Elements",
+    "created_at": "2026-06-11T13:53:33.223559+00:00"
+  },
+  {
+    "id": "0781fbe5-0990-4887-bd0a-fa5d7a39f5f4",
+    "chapter_id": "728270bd-046f-4198-b17a-b0d4f2ebab79",
+    "name": "Deficiency Symptoms",
+    "created_at": "2026-06-11T13:53:41.472815+00:00"
+  },
+  {
+    "id": "136ec078-915a-43ec-9cfe-c7d07aec1420",
+    "chapter_id": "728270bd-046f-4198-b17a-b0d4f2ebab79",
+    "name": "Nitrogen Metabolism",
+    "created_at": "2026-06-11T13:53:49.235249+00:00"
+  },
+  {
+    "id": "3ad6d0e4-7b59-4dad-be0b-6b802a4580a6",
+    "chapter_id": "728270bd-046f-4198-b17a-b0d4f2ebab79",
+    "name": "Biological Nitrogen Fixation",
+    "created_at": "2026-06-11T13:53:57.782921+00:00"
+  },
+  {
+    "id": "459874c6-1b1a-4104-9136-31c8c55e7285",
+    "chapter_id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "name": "Photosynthetic Pigments",
+    "created_at": "2026-06-11T13:57:53.541996+00:00"
+  },
+  {
+    "id": "08418bf0-ebd5-4fe9-a4b7-8fd990ee99d4",
+    "chapter_id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "name": "Light Reaction",
+    "created_at": "2026-06-11T13:58:01.244254+00:00"
+  },
+  {
+    "id": "c15eb5ff-c9f9-410e-bf50-e0ae6ed5319d",
+    "chapter_id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "name": "Dark Reaction",
+    "created_at": "2026-06-11T13:58:09.441235+00:00"
+  },
+  {
+    "id": "9f921854-4918-4a91-ad74-4ba86efd4a0f",
+    "chapter_id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "name": "Photorespiration",
+    "created_at": "2026-06-11T13:58:17.183345+00:00"
+  },
+  {
+    "id": "f3ef4465-b3ba-4d25-8832-7c611c76f605",
+    "chapter_id": "8ea1ff83-bd67-4ba6-933d-ccaba1471fb8",
+    "name": "C3, C4 and CAM Pathways",
+    "created_at": "2026-06-11T13:58:25.353593+00:00"
+  },
+  {
+    "id": "33df9b50-ee73-48cb-b2f2-ba7b99c5b545",
+    "chapter_id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "name": "Glycolysis",
+    "created_at": "2026-06-11T13:59:09.615247+00:00"
+  },
+  {
+    "id": "693b631c-8d0a-4e98-af7f-893f2acec057",
+    "chapter_id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "name": "Krebs Cycle",
+    "created_at": "2026-06-11T13:59:16.993673+00:00"
+  },
+  {
+    "id": "7989a7d5-00f2-4335-884c-ed99e2b6a40c",
+    "chapter_id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "name": "Electron Transport System",
+    "created_at": "2026-06-11T13:59:25.647863+00:00"
+  },
+  {
+    "id": "9b7f6842-dee2-4759-a377-ad24f8a304c1",
+    "chapter_id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "name": "Respiratory Quotient",
+    "created_at": "2026-06-11T13:59:32.79485+00:00"
+  },
+  {
+    "id": "dbdf5952-d32d-4401-98b0-e43a6fbd25b9",
+    "chapter_id": "e8da3f72-bfa8-48d6-8038-8735685d7da8",
+    "name": "Fermentation",
+    "created_at": "2026-06-11T13:59:40.407836+00:00"
+  },
+  {
+    "id": "d524750e-6f08-4de2-b3c5-c0ffbbb51ef6",
+    "chapter_id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "name": "Plant Growth",
+    "created_at": "2026-06-11T14:00:24.103416+00:00"
+  },
+  {
+    "id": "2ad468da-b505-4452-bc16-ab9dea510aca",
+    "chapter_id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "name": "Growth Regulators",
+    "created_at": "2026-06-11T14:00:33.401337+00:00"
+  },
+  {
+    "id": "5bb06068-33f6-4c69-8f53-308b95b3cc0d",
+    "chapter_id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "name": "Photoperiodism",
+    "created_at": "2026-06-11T14:00:42.640162+00:00"
+  },
+  {
+    "id": "552c23c5-f76f-4fa0-8b40-f6d68f615179",
+    "chapter_id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "name": "Vernalization",
+    "created_at": "2026-06-11T14:00:50.993052+00:00"
+  },
+  {
+    "id": "32e7d9b0-31ce-40fa-8440-a4e25cc404f0",
+    "chapter_id": "ce248dc0-f3fe-4f1b-b6d3-75d5c74e5b38",
+    "name": "Plant Development",
+    "created_at": "2026-06-11T14:00:58.298084+00:00"
+  },
+  {
+    "id": "94efa093-fa05-4325-b17a-49d3562ad1f5",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Isotopes",
+    "created_at": "2026-06-11T15:46:49.125544+00:00"
+  },
+  {
+    "id": "150c7a4e-53d1-4669-a5e5-07c5c6c202c8",
+    "chapter_id": "d00f16c2-8f13-45dc-89e9-7d17e5eac1f9",
+    "name": "Electronic Configuration",
+    "created_at": "2026-06-11T15:51:57.145201+00:00"
+  },
+  {
+    "id": "8da1f444-b664-48ca-8c57-d99d57349078",
+    "chapter_id": "1a432592-0ee3-4e7b-98b5-3411e3ff5e8d",
+    "name": "Dual Nature of Matter",
+    "created_at": "2026-06-11T16:03:07.50233+00:00"
+  },
+  {
+    "id": "20a1bdff-fa55-49e3-ab1c-7318a1e6fc54",
+    "chapter_id": "429f75b7-f4b8-464c-9291-2aaac8aa239f",
+    "name": "Disproportionation and Comproportionation",
+    "created_at": "2026-06-12T05:29:19.411817+00:00"
+  },
+  {
+    "id": "d8cee3f0-024d-46d1-b89e-0685a267e6b8",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Charge and Properties of Charge",
+    "created_at": "2026-06-22T03:11:34.190455+00:00"
+  },
+  {
+    "id": "e1438954-84c8-4d59-8ccb-b955710bf2ca",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Conductors, Insulators and Charging by Induction",
+    "created_at": "2026-06-22T03:11:47.604729+00:00"
+  },
+  {
+    "id": "369ac739-4ed5-48b1-9860-5af45544931b",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Coulomb's Law",
+    "created_at": "2026-06-22T03:11:58.056058+00:00"
+  },
+  {
+    "id": "62dc0d4b-83d3-4ff4-8b1d-608832224ac7",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Superposition Principle and Force Between Multiple Charges",
+    "created_at": "2026-06-22T03:12:10.657153+00:00"
+  },
+  {
+    "id": "855a6d46-68e9-430a-b59a-f91a99aa24aa",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field",
+    "created_at": "2026-06-22T03:12:20.171473+00:00"
+  },
+  {
+    "id": "90bf7a31-a7fc-4529-9a27-bddc63d1b82d",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field due to Point Charges and System of Charges",
+    "created_at": "2026-06-22T03:12:29.016676+00:00"
+  },
+  {
+    "id": "59430bb6-941f-4a59-8dda-371098beee86",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field Lines",
+    "created_at": "2026-06-22T03:12:38.805505+00:00"
+  },
+  {
+    "id": "5ca97b25-1681-4eb1-9f7a-36409a5f18bc",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Dipole",
+    "created_at": "2026-06-22T03:12:52.970498+00:00"
+  },
+  {
+    "id": "83999b3f-020a-4534-8fbe-0c943e2bc241",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field due to Electric Dipole",
+    "created_at": "2026-06-22T03:13:01.237253+00:00"
+  },
+  {
+    "id": "f9b55278-c3ee-422b-912f-e9422d443649",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Dipole in a Uniform Electric Field",
+    "created_at": "2026-06-22T03:13:11.186275+00:00"
+  },
+  {
+    "id": "43417c4d-5a6e-4fbf-9203-78673a5836f9",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Flux",
+    "created_at": "2026-06-22T03:13:21.253019+00:00"
+  },
+  {
+    "id": "4f97d11a-b861-42ea-a1e2-bd80bff6ba78",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Gauss's Law",
+    "created_at": "2026-06-22T03:13:30.48848+00:00"
+  },
+  {
+    "id": "dce246bd-fabf-4169-83ea-ef1c7d5984bf",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Applications of Gauss's Law",
+    "created_at": "2026-06-22T03:13:39.74409+00:00"
+  },
+  {
+    "id": "cec79e64-e822-4593-a2d7-a3feca02c7f3",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field due to Line Charge and Plane Sheet",
+    "created_at": "2026-06-22T03:13:47.468241+00:00"
+  },
+  {
+    "id": "53fabec4-dce8-4e8d-bf3f-bea11595ce58",
+    "chapter_id": "c2d8db11-781d-4b09-b602-72f96f8b8e33",
+    "name": "Electric Field due to Spherical Shell",
+    "created_at": "2026-06-22T03:13:55.713748+00:00"
+  },
+  {
+    "id": "15858828-1635-4925-99bc-b96cb47ee583",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Potential due to a Point Charge",
+    "created_at": "2026-06-22T03:32:23.366009+00:00"
+  },
+  {
+    "id": "7c4df54d-3d73-4d5a-817e-2d2cf23b705a",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Potential due to a System of Charges",
+    "created_at": "2026-06-22T03:32:40.035908+00:00"
+  },
+  {
+    "id": "8be23ee9-7adc-4618-bc55-60449aba26e7",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Equipotential Surfaces",
+    "created_at": "2026-06-22T03:32:53.558022+00:00"
+  },
+  {
+    "id": "83179a40-ccb1-45d6-a0ed-bf1eeae51b86",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Relation between Electric Field and Potential",
+    "created_at": "2026-06-22T03:33:02.464748+00:00"
+  },
+  {
+    "id": "fb5f71a4-d4ef-4b00-8963-745da3d4fb3b",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Potential Energy of a System of Charges",
+    "created_at": "2026-06-22T03:33:10.964378+00:00"
+  },
+  {
+    "id": "7566ee04-83db-4c7b-be76-0f9be1371983",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Potential Energy in an External Electric Field",
+    "created_at": "2026-06-22T03:33:20.865916+00:00"
+  },
+  {
+    "id": "87a9b83f-7474-4a24-a99c-8c71842ef028",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Conductors and Electrostatic Shielding",
+    "created_at": "2026-06-22T03:33:35.775158+00:00"
+  },
+  {
+    "id": "3b510bf6-33d7-4a22-88b6-ba06856c2824",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Dielectrics and Polarisation",
+    "created_at": "2026-06-22T03:33:52.288485+00:00"
+  },
+  {
+    "id": "cbbfc1ed-806a-4311-b523-fcb902c9651d",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Capacitors and Capacitance",
+    "created_at": "2026-06-22T03:34:00.775412+00:00"
+  },
+  {
+    "id": "65e35974-f3dc-4b91-874c-6b06eb8ccc91",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Parallel Plate Capacitor",
+    "created_at": "2026-06-22T03:34:08.315015+00:00"
+  },
+  {
+    "id": "596c505a-691d-4083-971e-05d60ffe298c",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Effect of Dielectric on Capacitance",
+    "created_at": "2026-06-22T03:34:15.285087+00:00"
+  },
+  {
+    "id": "ba75e09d-71e5-4044-8b3f-b2d4a477f59e",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Combination of Capacitors",
+    "created_at": "2026-06-22T03:34:21.737545+00:00"
+  },
+  {
+    "id": "e50fb378-69d8-486e-b06c-dd8362b1098e",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Energy Stored in a Capacitor",
+    "created_at": "2026-06-22T03:34:29.818364+00:00"
+  },
+  {
+    "id": "b8cc8cc4-9330-4b37-88c7-a014c095531d",
+    "chapter_id": "5b50d5b0-4f7e-4205-a05d-f996aa8c9ccc",
+    "name": "Van de Graaff Generator",
+    "created_at": "2026-06-22T03:34:37.092173+00:00"
+  },
+  {
+    "id": "adcd2039-4714-41ec-8b48-0b72bbe41f45",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Electric Current and Drift of Electrons",
+    "created_at": "2026-06-22T03:45:17.739216+00:00"
+  },
+  {
+    "id": "a550cc8a-22fb-4766-909d-1ad0dafc10cd",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Current Density and Drift Velocity",
+    "created_at": "2026-06-22T03:45:27.427246+00:00"
+  },
+  {
+    "id": "83df5d8b-07d3-4ad3-9dd6-626179d497f2",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Ohm's Law",
+    "created_at": "2026-06-22T03:45:35.261823+00:00"
+  },
+  {
+    "id": "17186be1-91b4-4f96-b6dc-7298ab1e53e1",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Electrical Resistance and Resistivity",
+    "created_at": "2026-06-22T03:45:43.538715+00:00"
+  },
+  {
+    "id": "fb994446-6f89-4b35-af77-1f9f011c110e",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Temperature Dependence of Resistivity",
+    "created_at": "2026-06-22T03:45:50.753262+00:00"
+  },
+  {
+    "id": "249711d6-5fe0-443c-99c2-ec3fdf058724",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "EMF and Internal Resistance",
+    "created_at": "2026-06-22T03:45:59.821521+00:00"
+  },
+  {
+    "id": "d8cdcfb3-16bd-4e44-bf2b-22278487e415",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Cells in Series and Parallel",
+    "created_at": "2026-06-22T03:46:08.143732+00:00"
+  },
+  {
+    "id": "05e092c9-9bfd-46d4-8a66-d84ff607ff54",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Kirchhoff's Laws",
+    "created_at": "2026-06-22T03:46:16.734516+00:00"
+  },
+  {
+    "id": "21a458d7-94a7-4012-9fb6-da89b85a9cf9",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Wheatstone Bridge",
+    "created_at": "2026-06-22T03:46:24.781629+00:00"
+  },
+  {
+    "id": "b06cbf41-d9d2-4e19-8e7d-89e3e847d40f",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Meter Bridge",
+    "created_at": "2026-06-22T03:46:32.415981+00:00"
+  },
+  {
+    "id": "a2228238-2336-4ba1-8ea4-603726c6a08a",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Potentiometer – Principle",
+    "created_at": "2026-06-22T03:46:41.664664+00:00"
+  },
+  {
+    "id": "282b31ef-0a83-4c33-bc77-73af421713bb",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Potentiometer – Comparison of EMF",
+    "created_at": "2026-06-22T03:46:49.459706+00:00"
+  },
+  {
+    "id": "e167591f-b410-4323-b77c-9b572899af4b",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Potentiometer – Measurement of Internal Resistance",
+    "created_at": "2026-06-22T03:46:58.144+00:00"
+  },
+  {
+    "id": "d4d9713f-de07-4b34-8b0d-4327e7f022e1",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Electrical Energy and Power",
+    "created_at": "2026-06-22T03:47:06.836868+00:00"
+  },
+  {
+    "id": "15ae9884-9a96-40e6-acb5-9909670b140c",
+    "chapter_id": "b0096285-5c62-40b6-a820-0f5160342cc3",
+    "name": "Combination of Resistors",
+    "created_at": "2026-06-22T03:47:14.151852+00:00"
+  },
+  {
+    "id": "3d8c5e52-278c-4cfe-8bc9-4265fd5f0676",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Magnetic Force on Moving Charges (Lorentz Force & Motion in Magnetic Field)",
+    "created_at": "2026-06-22T03:56:13.270081+00:00"
+  },
+  {
+    "id": "abee3694-bba5-43ad-afff-46a1b37a8dc2",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Biot–Savart Law",
+    "created_at": "2026-06-22T03:56:25.944939+00:00"
+  },
+  {
+    "id": "d3bb868b-e1c0-4f10-b729-3ed2893449df",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Magnetic Field due to Current-Carrying Conductors (Straight Wire, Circular Loop & Solenoid)",
+    "created_at": "2026-06-22T03:56:42.143669+00:00"
+  },
+  {
+    "id": "f63ce6a4-e379-42dd-bab8-355c4ff85b9f",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Ampere's Circuital Law",
+    "created_at": "2026-06-22T03:56:53.953213+00:00"
+  },
+  {
+    "id": "ba5598ca-69c9-48f7-85b7-10ed50f7c567",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Force Between Current-Carrying Conductors",
+    "created_at": "2026-06-22T03:57:02.547699+00:00"
+  },
+  {
+    "id": "7987a34f-d245-4ca7-95e9-74bd0eb3deeb",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Cyclotron",
+    "created_at": "2026-06-22T03:57:29.494105+00:00"
+  },
+  {
+    "id": "3aad12ef-d60d-4705-b699-3030c3aeb852",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Applications of Magnetic Force",
+    "created_at": "2026-06-22T03:57:36.23724+00:00"
+  },
+  {
+    "id": "8ad3fd22-36f2-406d-bce8-0179069cc75a",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Force and Torque on a Current Loop",
+    "created_at": "2026-06-22T03:57:09.339156+00:00"
+  },
+  {
+    "id": "d4abfee6-6268-474f-af12-8bd34169e1fa",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Moving Coil Galvanometer",
+    "created_at": "2026-06-22T03:57:16.716159+00:00"
+  },
+  {
+    "id": "debbabe6-e49b-4a92-bc8f-6bfdb5a8e51b",
+    "chapter_id": "fb6d65fb-992c-40f2-8c30-8759a8912af5",
+    "name": "Conversion of Galvanometer into Ammeter and Voltmeter",
+    "created_at": "2026-06-22T03:57:23.736462+00:00"
+  },
+  {
+    "id": "c73c90b4-86cf-4f4c-a15f-3dc25aab2f3f",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Bar Magnet and Magnetic Field Lines",
+    "created_at": "2026-06-22T06:49:08.351659+00:00"
+  },
+  {
+    "id": "bf37f265-d007-4ba8-a484-6c2e7c249c67",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Magnetic Dipole and Dipole Moment",
+    "created_at": "2026-06-22T06:49:19.263562+00:00"
+  },
+  {
+    "id": "ff936556-b3b6-417c-a1f4-8f9c36b1da48",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Torque on a Magnetic Dipole",
+    "created_at": "2026-06-22T06:49:27.393261+00:00"
+  },
+  {
+    "id": "2c763a1c-40ab-4765-b0dd-c7ae8f32305e",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Earth's Magnetism",
+    "created_at": "2026-06-22T06:49:36.11173+00:00"
+  },
+  {
+    "id": "6368c2db-dddd-4652-b820-ffb3025f15f5",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Magnetic Elements of Earth (Declination, Inclination & Horizontal Component)",
+    "created_at": "2026-06-22T06:49:44.491482+00:00"
+  },
+  {
+    "id": "d4f04076-d4be-46f1-a5d8-ad489028dbd7",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Dia, Para and Ferromagnetic Materials",
+    "created_at": "2026-06-22T06:49:52.273362+00:00"
+  },
+  {
+    "id": "455721ef-4685-4ebf-a987-710cb583659f",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Magnetization and Magnetic Intensity",
+    "created_at": "2026-06-22T06:50:01.760309+00:00"
+  },
+  {
+    "id": "00970a2b-73c0-4712-8f85-bd6cfb9abaf5",
+    "chapter_id": "830f71d4-06bf-451f-bfed-a3942e117fca",
+    "name": "Permanent Magnets and Electromagnets",
+    "created_at": "2026-06-22T06:50:08.007775+00:00"
+  },
+  {
+    "id": "9d08fe83-2807-4135-aaf7-c04ed0680554",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Neuron – Structure and Types",
+    "created_at": "2026-06-22T06:56:44.18917+00:00"
+  },
+  {
+    "id": "84d7a138-1beb-44b5-b2a5-4dc3fbee2edd",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Nerve Impulse and Conduction",
+    "created_at": "2026-06-22T06:56:49.407924+00:00"
+  },
+  {
+    "id": "6d57964e-9a5a-42e2-9878-b9d41c001454",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Synapse and Transmission of Nerve Impulse",
+    "created_at": "2026-06-22T06:56:55.812594+00:00"
+  },
+  {
+    "id": "77ceec83-350c-4e1b-ab6f-c28b74bb1eaf",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Central Nervous System (Brain and Spinal Cord)",
+    "created_at": "2026-06-22T06:57:02.730451+00:00"
+  },
+  {
+    "id": "281480a8-1ba4-4d96-8053-e65a2d5d1b8a",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Peripheral and Autonomic Nervous System",
+    "created_at": "2026-06-22T06:57:08.737924+00:00"
+  },
+  {
+    "id": "a83375dd-79db-47df-8994-304e3edde516",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Reflex Action and Reflex Arc",
+    "created_at": "2026-06-22T06:57:14.118423+00:00"
+  },
+  {
+    "id": "e5c95e93-10a7-4c19-a931-e374defa568a",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Sense Organs – Human Eye",
+    "created_at": "2026-06-22T06:57:20.267664+00:00"
+  },
+  {
+    "id": "5d1e989c-f446-40d8-aefa-8e4d9694b703",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Sense Organs – Human Ear",
+    "created_at": "2026-06-22T06:57:25.745937+00:00"
+  },
+  {
+    "id": "7b79d72c-ccd2-49e0-8c32-6239ad3ad306",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Mechanism of Vision and Hearing",
+    "created_at": "2026-06-22T06:57:30.955372+00:00"
+  },
+  {
+    "id": "c07f7deb-09de-4ffd-be25-a334c7927681",
+    "chapter_id": "391e90fc-423f-4b07-ba79-b0ce873e0f9c",
+    "name": "Common Disorders of the Nervous System and Sense Organs",
+    "created_at": "2026-06-22T06:57:36.985388+00:00"
+  },
+  {
+    "id": "e43fdce5-57a4-4759-b4cb-57c45142e44d",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Human Respiratory System",
+    "created_at": "2026-06-22T15:39:29.260086+00:00"
+  },
+  {
+    "id": "2fbcbe51-78df-429e-96d8-287ff4cc8911",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Mechanism of Breathing",
+    "created_at": "2026-06-22T15:40:19.081142+00:00"
+  },
+  {
+    "id": "35f90d63-b5d7-4be9-8793-222c7307ee8a",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Respiratory Volumes and Capacities",
+    "created_at": "2026-06-22T15:40:27.889251+00:00"
+  },
+  {
+    "id": "6291fb7c-3096-494f-99c9-c30d55c8b4b8",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Exchange of Gases",
+    "created_at": "2026-06-22T15:40:35.333894+00:00"
+  },
+  {
+    "id": "e49fb171-cce5-4c82-a7b3-be477ee509b6",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Transport of Oxygen",
+    "created_at": "2026-06-22T15:40:44.463817+00:00"
+  },
+  {
+    "id": "09e61844-c666-42bb-ab41-72934a760d9b",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Transport of Carbon Dioxide",
+    "created_at": "2026-06-22T15:40:51.456617+00:00"
+  },
+  {
+    "id": "4af1c8a6-d811-4c9e-a887-c3d0c2cad3d3",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Regulation of Respiration",
+    "created_at": "2026-06-22T15:40:59.085853+00:00"
+  },
+  {
+    "id": "7fc4276b-5e20-4265-accf-58b020064ee3",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Disorders of the Respiratory System",
+    "created_at": "2026-06-22T15:41:06.323969+00:00"
+  },
+  {
+    "id": "35eb473e-1109-4d35-8e7d-554b1070be9f",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Respiratory Pigments and Oxygen Dissociation Curve",
+    "created_at": "2026-06-22T15:41:13.303538+00:00"
+  },
+  {
+    "id": "530b066d-ce96-4c3b-a3c6-9904d755d7ef",
+    "chapter_id": "b88b59c1-237e-4fb4-94b9-d2e1c7304900",
+    "name": "Respiratory Quotient (RQ) and Respiratory Physiology",
+    "created_at": "2026-06-22T15:41:20.303854+00:00"
+  },
+  {
+    "id": "e1128eb6-664e-469f-8043-762f37df8d26",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Human Excretory System",
+    "created_at": "2026-06-22T15:42:40.556476+00:00"
+  },
+  {
+    "id": "e28d784e-dca3-40f9-9df0-523dced0487f",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Structure of Nephron",
+    "created_at": "2026-06-22T15:42:47.12749+00:00"
+  },
+  {
+    "id": "21c384f9-d051-4ecd-a8e8-29903309b22d",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Urine Formation (Ultrafiltration, Selective Reabsorption & Tubular Secretion)",
+    "created_at": "2026-06-22T15:43:01.709141+00:00"
+  },
+  {
+    "id": "7cafaeb8-ba07-4f36-a41a-40f388231f33",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Function of Renal Tubules and Collecting Duct",
+    "created_at": "2026-06-22T15:43:08.688141+00:00"
+  },
+  {
+    "id": "158377d4-b9d7-4d4e-94e6-722a91bce4f3",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Regulation of Kidney Function (ADH, RAAS, ANF)",
+    "created_at": "2026-06-22T15:43:15.843074+00:00"
+  },
+  {
+    "id": "107c2de5-63f2-4e10-8dcf-d460d5f74371",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Micturition and Role of the Kidney",
+    "created_at": "2026-06-22T15:43:22.820947+00:00"
+  },
+  {
+    "id": "3f075552-d455-46c5-bae7-5333f22d869d",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Counter Current Mechanism",
+    "created_at": "2026-06-22T15:43:29.064029+00:00"
+  },
+  {
+    "id": "6a4c896d-b27b-4efa-a402-9da2e860a841",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Disorders of the Excretory System",
+    "created_at": "2026-06-22T15:43:40.568378+00:00"
+  },
+  {
+    "id": "974e6fcf-86fc-430b-86cb-ae17f858cef9",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Artificial Kidney (Haemodialysis)",
+    "created_at": "2026-06-22T15:43:53.042114+00:00"
+  },
+  {
+    "id": "e3f8dd08-0b24-4ee5-899d-ce39b39047aa",
+    "chapter_id": "f3bd4187-568a-432d-96ed-b4c806f299b6",
+    "name": "Accessory Excretory Organs",
+    "created_at": "2026-06-22T15:44:07.00153+00:00"
+  },
+  {
+    "id": "2f4c769b-4551-4209-ad54-29e7a504571f",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Muscle Tissue, Structure and Sarcomere",
+    "created_at": "2026-06-22T15:46:30.38418+00:00"
+  },
+  {
+    "id": "8f85a93d-19fd-496e-9ed0-9fda3c413291",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Mechanism of Muscle Contraction",
+    "created_at": "2026-06-22T15:46:39.536746+00:00"
+  },
+  {
+    "id": "34cb96fc-42d5-464a-8f64-3a93f63fe3de",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Human Skeletal System",
+    "created_at": "2026-06-22T15:46:47.987237+00:00"
+  },
+  {
+    "id": "3ee87316-5243-446e-ac8d-68bde62f4270",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Joints and Types of Joints",
+    "created_at": "2026-06-22T15:46:56.334012+00:00"
+  },
+  {
+    "id": "7a68757b-5a01-4812-8453-f6c4cb3f090d",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Axial and Appendicular Skeleton",
+    "created_at": "2026-06-22T15:47:05.182724+00:00"
+  },
+  {
+    "id": "3260b94b-fa65-4060-9d48-5ff9b360be56",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Disorders of Muscular and Skeletal System",
+    "created_at": "2026-06-22T15:47:12.874931+00:00"
+  },
+  {
+    "id": "cfd89310-5333-45e1-b233-84336c0ece62",
+    "chapter_id": "2099afa7-e0c1-492a-9701-92a5d1d14b38",
+    "name": "Functions of Bones and Cartilage",
+    "created_at": "2026-06-22T15:47:20.435468+00:00"
+  },
+  {
+    "id": "c0c8e35c-289e-42f9-9651-d91457d42d88",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Endocrine Glands and Hormones",
+    "created_at": "2026-06-22T15:49:03.227012+00:00"
+  },
+  {
+    "id": "8eb19953-ad15-4500-9648-2e71a2b0d86f",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Hypothalamus, Pituitary and Pineal Glands",
+    "created_at": "2026-06-22T15:49:10.452615+00:00"
+  },
+  {
+    "id": "7711493e-ea92-4317-b837-afffe6c938ea",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Thyroid, Parathyroid and Thymus",
+    "created_at": "2026-06-22T15:49:17.602141+00:00"
+  },
+  {
+    "id": "f651cdd0-2893-478d-a22b-06193a16f369",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Pancreas, Adrenal Glands and Gonads",
+    "created_at": "2026-06-22T15:49:24.945132+00:00"
+  },
+  {
+    "id": "9f078d02-3235-43f7-9164-9128cd6072a0",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Mechanism of Hormone Action",
+    "created_at": "2026-06-22T15:49:31.398588+00:00"
+  },
+  {
+    "id": "d621c953-83ec-4293-bf50-99f81c82d323",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Feedback Regulation and Hormonal Coordination",
+    "created_at": "2026-06-22T15:49:37.886131+00:00"
+  },
+  {
+    "id": "ad569fa3-b38f-4459-81ce-bb4bd1cde979",
+    "chapter_id": "ace27973-9651-4a8f-85e7-2396732947b7",
+    "name": "Endocrine Disorders",
+    "created_at": "2026-06-22T15:49:43.999275+00:00"
+  },
+  {
+    "id": "124c70b1-299d-4e0c-be26-0ffd7f1dba86",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Blood and Lymph",
+    "created_at": "2026-06-22T15:52:28.829701+00:00"
+  },
+  {
+    "id": "df144f39-bde7-45f7-a593-f2b1b469c594",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Blood Groups and Coagulation",
+    "created_at": "2026-06-22T15:52:35.207335+00:00"
+  },
+  {
+    "id": "c30bc737-9714-4b36-9cb3-3babcae439de",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Human Circulatory System",
+    "created_at": "2026-06-22T15:52:43.569135+00:00"
+  },
+  {
+    "id": "2dcab746-30b4-4865-bb5a-0e336908228c",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Cardiac Cycle and Electrocardiogram (ECG)",
+    "created_at": "2026-06-22T15:52:55.687055+00:00"
+  },
+  {
+    "id": "d78a56ab-856e-4b0a-b34a-e242b2e2b5fa",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Double Circulation and Regulation of Cardiac Activity",
+    "created_at": "2026-06-22T15:53:06.60109+00:00"
+  },
+  {
+    "id": "8d66c788-adcd-4e17-8f3d-4cba83ca0587",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Lymphatic System and Circulation",
+    "created_at": "2026-06-22T15:53:18.28372+00:00"
+  },
+  {
+    "id": "f67f1e35-246b-4008-9bde-9ba1e4d8d7f3",
+    "chapter_id": "d4da47e2-481c-462c-985a-09d570600055",
+    "name": "Disorders of the Circulatory System",
+    "created_at": "2026-06-22T15:53:26.152922+00:00"
+  },
+  {
+    "id": "468e47b8-db06-4f77-9c43-8216db5ed12d",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Epithelial Tissue",
+    "created_at": "2026-06-22T15:56:26.365866+00:00"
+  },
+  {
+    "id": "36cb3b1d-06e5-4689-ae48-2b99e406e823",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Connective Tissue",
+    "created_at": "2026-06-22T15:56:33.450969+00:00"
+  },
+  {
+    "id": "ef44d869-89a6-4890-a0a2-187089fa0701",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Muscular Tissue",
+    "created_at": "2026-06-22T15:56:40.106752+00:00"
+  },
+  {
+    "id": "aa96d5a2-03cc-446f-9e1c-c659d1a0f44e",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Neural Tissue",
+    "created_at": "2026-06-22T15:56:47.254792+00:00"
+  },
+  {
+    "id": "87065470-b1ee-4b77-bc4f-311b8813a84c",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Earthworm – Morphology and Anatomy",
+    "created_at": "2026-06-22T15:56:53.985996+00:00"
+  },
+  {
+    "id": "2b61708a-6ceb-436a-b447-0b73963d6ea2",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "Cockroach – Morphology and Anatomy",
+    "created_at": "2026-06-22T15:57:00.671367+00:00"
+  },
+  {
+    "id": "c5237f7d-0e1f-4fb7-a43f-a15422ba5b33",
+    "chapter_id": "7aa90c10-1a0a-449d-87df-5bcbce2ff93f",
+    "name": "NCERT Facts and Comparative Features",
+    "created_at": "2026-06-22T15:57:06.95824+00:00"
+  },
+  {
+    "id": "6b95dfc6-9eed-44dc-b19b-cf66655ca502",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Basis of Classification & Levels of Organisation",
+    "created_at": "2026-06-22T16:00:07.107005+00:00"
+  },
+  {
+    "id": "06cd36c3-7157-471e-9660-a895d68fa649",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Porifera and Cnidaria (Coelenterata)",
+    "created_at": "2026-06-22T16:00:16.208042+00:00"
+  },
+  {
+    "id": "4792cf2a-0dbd-423d-84b2-4de2e2de250d",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Ctenophora and Platyhelminthes",
+    "created_at": "2026-06-22T16:00:25.296474+00:00"
+  },
+  {
+    "id": "1533ce6a-30a1-4bb9-a61a-9c8549b75499",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Aschelminthes (Nematoda) and Annelida",
+    "created_at": "2026-06-22T16:00:33.264896+00:00"
+  },
+  {
+    "id": "5245db64-6ed3-48dc-bf62-f78887c25afc",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Arthropoda",
+    "created_at": "2026-06-22T16:00:41.169881+00:00"
+  },
+  {
+    "id": "851691e7-d325-4273-ba92-ff62e41e1eeb",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Mollusca and Echinodermata",
+    "created_at": "2026-06-22T16:00:48.719058+00:00"
+  },
+  {
+    "id": "9a26714a-42c8-4b93-9e6b-6860c0a40a8f",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Hemichordata and Chordata",
+    "created_at": "2026-06-22T16:01:05.042363+00:00"
+  },
+  {
+    "id": "51c3e25b-d8e2-4a15-8f9e-6c6ff02e596b",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Protochordates (Urochordata & Cephalochordata)",
+    "created_at": "2026-06-22T16:01:13.356629+00:00"
+  },
+  {
+    "id": "c7ec017d-8fd9-48e9-9729-84d835426eb4",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Vertebrates – Pisces & Amphibia",
+    "created_at": "2026-06-22T16:01:22.120024+00:00"
+  },
+  {
+    "id": "6794df2e-f55a-4ec8-a8a9-2e4bcfd5d353",
+    "chapter_id": "482951ee-3392-48d9-9bca-b1d1a6188d27",
+    "name": "Vertebrates – Reptilia, Aves & Mammalia",
+    "created_at": "2026-06-22T16:01:29.507914+00:00"
+  },
+  {
+    "id": "78dc58dc-ef95-401f-b98d-b7ab62ec80bf",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Life Span, Reproduction and Types of Reproduction",
+    "created_at": "2026-06-22T16:40:17.2675+00:00"
+  },
+  {
+    "id": "a844bfe3-8fb6-4b46-a1b9-c37daa7dd46c",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Asexual Reproduction",
+    "created_at": "2026-06-22T16:40:26.479345+00:00"
+  },
+  {
+    "id": "00bf94d5-74be-421e-a120-5c6d94a4479a",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Sexual Reproduction",
+    "created_at": "2026-06-22T16:40:32.789526+00:00"
+  },
+  {
+    "id": "4bd0e356-97f0-4bf3-a16d-9cef2ed16475",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Pre-fertilisation, Fertilisation and Post-fertilisation Events",
+    "created_at": "2026-06-22T16:40:39.819177+00:00"
+  },
+  {
+    "id": "a138a9f1-21c2-4cf4-bcec-a2d70cdda509",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Embryogenesis and Development",
+    "created_at": "2026-06-22T16:40:46.457091+00:00"
+  },
+  {
+    "id": "acf1d867-dba4-4356-84ba-033e0bbf5725",
+    "chapter_id": "30780039-8a36-48ea-82ce-2e6bc371aa6b",
+    "name": "Vegetative Propagation and Special Modes of Reproduction",
+    "created_at": "2026-06-22T16:40:54.392584+00:00"
+  },
+  {
+    "id": "cc903d85-0adb-4827-8f40-4c1e45a72ca6",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Male Reproductive System",
+    "created_at": "2026-06-22T17:10:19.934249+00:00"
+  },
+  {
+    "id": "e63f3c3e-9f13-4d22-a50d-eceb989a4327",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Female Reproductive System",
+    "created_at": "2026-06-22T17:10:27.580637+00:00"
+  },
+  {
+    "id": "5a854b5d-c1ce-47d8-872e-f6ae9cb4b958",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Gametogenesis (Spermatogenesis & Oogenesis)",
+    "created_at": "2026-06-22T17:10:37.279401+00:00"
+  },
+  {
+    "id": "1bdae562-b850-4e2b-a6d8-c2695d6aed8a",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Menstrual Cycle",
+    "created_at": "2026-06-22T17:10:43.999206+00:00"
+  },
+  {
+    "id": "25ad6652-4e19-4099-a868-0c21361b8367",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Fertilisation and Implantation",
+    "created_at": "2026-06-22T17:10:51.004314+00:00"
+  },
+  {
+    "id": "8b25cc07-ab22-4b3d-88e5-08c3a03ad897",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Pregnancy, Embryonic Development and Parturition",
+    "created_at": "2026-06-22T17:10:58.087691+00:00"
+  },
+  {
+    "id": "5e47640a-408f-478d-b452-ac6bdf8a8695",
+    "chapter_id": "1391cbcb-63b4-4416-a3ed-bdf60a9aade8",
+    "name": "Lactation and Placenta",
+    "created_at": "2026-06-22T17:11:05.364039+00:00"
+  },
+  {
+    "id": "e71e2411-aa09-4788-9785-af8b3e908ced",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Reproductive Health and Population Explosion",
+    "created_at": "2026-06-22T17:13:11.085073+00:00"
+  },
+  {
+    "id": "ff299c13-cd4e-4a84-b8dd-f236e3908d29",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Contraceptive Methods",
+    "created_at": "2026-06-22T17:13:23.679164+00:00"
+  },
+  {
+    "id": "3f613641-008e-433b-89f4-1895f3cde72a",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Medical Termination of Pregnancy (MTP)",
+    "created_at": "2026-06-22T17:13:41.923698+00:00"
+  },
+  {
+    "id": "7ed217a0-f387-49df-9824-59c87ce825db",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Sexually Transmitted Infections (STIs)",
+    "created_at": "2026-06-22T17:13:49.36003+00:00"
+  },
+  {
+    "id": "17a8c3ec-44d0-4e58-9503-60a0693af2d4",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Infertility and Assisted Reproductive Technologies (ART)",
+    "created_at": "2026-06-22T17:13:55.898468+00:00"
+  },
+  {
+    "id": "6bdcdd4f-b052-4bda-b507-4d1943a7870e",
+    "chapter_id": "1e3718aa-95fd-453f-a935-af563c2faefe",
+    "name": "Amniocentesis and Social Issues",
+    "created_at": "2026-06-22T17:14:02.657868+00:00"
+  },
+  {
+    "id": "2237ca01-cfea-4d28-ab24-bc5677efda96",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Mendelian Inheritance",
+    "created_at": "2026-06-22T17:15:11.527268+00:00"
+  },
+  {
+    "id": "9a030ca5-0734-47cd-967b-35425b579b0c",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Extensions of Mendelian Genetics (Incomplete Dominance, Codominance, Multiple Alleles)",
+    "created_at": "2026-06-22T17:15:22.339807+00:00"
+  },
+  {
+    "id": "3daa8576-3dca-4b5f-95e6-cbfaeaa2cd93",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Chromosomal Theory of Inheritance",
+    "created_at": "2026-06-22T17:15:29.190572+00:00"
+  },
+  {
+    "id": "88784efc-035f-479f-9c9c-821ddc9a2b8b",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Sex Determination",
+    "created_at": "2026-06-22T17:15:48.355382+00:00"
+  },
+  {
+    "id": "184e1f6b-6ffc-409b-9dcc-038d48a3d985",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Mutations and Genetic Disorders",
+    "created_at": "2026-06-22T17:15:54.550842+00:00"
+  },
+  {
+    "id": "71f79001-32ce-4c95-aa01-8d8b570d6abb",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Pedigree Analysis",
+    "created_at": "2026-06-22T17:16:02.793303+00:00"
+  },
+  {
+    "id": "147fa3ca-84ea-4950-bc7b-339a56f35406",
+    "chapter_id": "60072be7-df0d-4550-9104-3cb81431d4d8",
+    "name": "Polygenic Inheritance and Pleiotropy",
+    "created_at": "2026-06-22T17:16:10.243435+00:00"
+  },
+  {
+    "id": "cee37ffc-6232-4894-bf15-2fe432b0c1c3",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "DNA and RNA – Structure and Packaging",
+    "created_at": "2026-06-22T17:17:56.799884+00:00"
+  },
+  {
+    "id": "61f8809e-0d8c-456e-a7e1-6c5e7a1ab94b",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "DNA Replication",
+    "created_at": "2026-06-22T17:18:13.228191+00:00"
+  },
+  {
+    "id": "696b759e-bf94-4d32-99fd-aada55eef2a4",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "Transcription",
+    "created_at": "2026-06-22T17:18:19.625189+00:00"
+  },
+  {
+    "id": "f1e67f17-ac0f-4c70-b159-3add6fdfd601",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "Genetic Code and Translation",
+    "created_at": "2026-06-22T17:18:31.539273+00:00"
+  },
+  {
+    "id": "dad87860-8852-430e-8f51-60f547f773ee",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "Regulation of Gene Expression (Lac Operon)",
+    "created_at": "2026-06-22T17:18:39.242164+00:00"
+  },
+  {
+    "id": "c5bc35b3-42f8-462d-b652-43703ea47930",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "Human Genome Project",
+    "created_at": "2026-06-22T17:18:45.596551+00:00"
+  },
+  {
+    "id": "380dd259-7f26-4927-87f0-13e234b0d494",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "DNA Fingerprinting",
+    "created_at": "2026-06-22T17:18:51.836914+00:00"
+  },
+  {
+    "id": "f091f9b2-bc28-4148-896b-5ba991cd0ca3",
+    "chapter_id": "d552e631-6cf7-4b56-9a0a-4d7ff5670d0c",
+    "name": "RNA Types, Mutations and Key NCERT Concepts",
+    "created_at": "2026-06-22T17:18:59.065604+00:00"
+  },
+  {
+    "id": "379ac572-7280-41c9-8d51-e66a2e74471f",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Origin of Life and Theories of Evolution",
+    "created_at": "2026-06-22T17:20:27.096961+00:00"
+  },
+  {
+    "id": "7a90ae8f-65bf-4dde-b8a1-e7e4ad1e786f",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Evidences for Evolution",
+    "created_at": "2026-06-22T17:20:34.972299+00:00"
+  },
+  {
+    "id": "4e612731-0c84-4374-ae0b-8f296594bbb4",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Darwinism and Natural Selection",
+    "created_at": "2026-06-22T17:20:42.367715+00:00"
+  },
+  {
+    "id": "a4892b55-91c0-437c-b04e-7a94d117cd07",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Modern Synthetic Theory and Hardy–Weinberg Principle",
+    "created_at": "2026-06-22T17:20:50.28124+00:00"
+  },
+  {
+    "id": "7159817f-43d5-4a8a-931b-4467f75fb86f",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Adaptive Radiation and Biological Evolution",
+    "created_at": "2026-06-22T17:20:58.143755+00:00"
+  },
+  {
+    "id": "31ec1cb3-2dae-4e2c-88cc-9ea8bc0b9606",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Human Evolution",
+    "created_at": "2026-06-22T17:21:04.960466+00:00"
+  },
+  {
+    "id": "f356d1dc-af46-402c-93c9-4a400f68b8ba",
+    "chapter_id": "a80225a5-6ba8-43ce-8df4-6a49d78e3299",
+    "name": "Key NCERT Examples and Evolutionary Concepts",
+    "created_at": "2026-06-22T17:21:12.715843+00:00"
+  },
+  {
+    "id": "97513a8b-9911-4402-a48e-35a7f81945d0",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Human Health, Immunity and Immune System",
+    "created_at": "2026-06-22T17:22:10.854978+00:00"
+  },
+  {
+    "id": "92ebb618-fe4f-4904-9808-d306dcc1aa20",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Innate and Acquired Immunity",
+    "created_at": "2026-06-22T17:22:18.805054+00:00"
+  },
+  {
+    "id": "4bb9180e-fb5e-460c-9e45-d44b037f9547",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Common Infectious Diseases (Bacterial, Viral, Protozoan & Fungal Diseases)",
+    "created_at": "2026-06-22T17:22:28.870953+00:00"
+  },
+  {
+    "id": "fa667b08-2bf9-45ee-96d0-9cba316b9b30",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Allergy, Autoimmunity and Immunodeficiency (AIDS)",
+    "created_at": "2026-06-22T17:22:37.74627+00:00"
+  },
+  {
+    "id": "e486a92b-23c1-4633-bcd7-0849bc9eca39",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Cancer and Carcinogens",
+    "created_at": "2026-06-22T17:22:45.442566+00:00"
+  },
+  {
+    "id": "e9ef1a6e-be38-490e-8590-384b69a312dc",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Drug and Alcohol Abuse",
+    "created_at": "2026-06-22T17:22:54.818285+00:00"
+  },
+  {
+    "id": "16cb157b-3d97-4b69-8a8b-9830472ee821",
+    "chapter_id": "0fc8b075-35bd-43c3-a42d-16c49fb5f909",
+    "name": "Vaccination, Antibodies and Key NCERT Concepts",
+    "created_at": "2026-06-22T17:23:03.199547+00:00"
+  },
+  {
+    "id": "03f79e8c-f35c-4b8b-9ffe-99c00034f72b",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Microbes in Household Products",
+    "created_at": "2026-06-22T17:24:11.950749+00:00"
+  },
+  {
+    "id": "6274b430-d21b-4e33-9738-c4d3d52ddd17",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Microbes in Industrial Products",
+    "created_at": "2026-06-22T17:24:21.034705+00:00"
+  },
+  {
+    "id": "3bc7608f-3e06-4f18-b9a9-98810cfd1c63",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Microbes in Sewage Treatment and Biogas Production",
+    "created_at": "2026-06-22T17:24:29.405788+00:00"
+  },
+  {
+    "id": "1ef7e33e-8149-4b22-a947-f53742d1ddf2",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Microbes as Biocontrol Agents",
+    "created_at": "2026-06-22T17:24:37.549604+00:00"
+  },
+  {
+    "id": "97d958d9-81e5-4bbd-91d4-cd01446cbc77",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Microbes as Biofertilisers",
+    "created_at": "2026-06-22T17:24:45.229877+00:00"
+  },
+  {
+    "id": "1dc69611-8053-40ac-b627-9a41cf35dc24",
+    "chapter_id": "e72a732e-edf9-41fc-b3b2-67987a5eb56e",
+    "name": "Key NCERT Examples and Microorganisms",
+    "created_at": "2026-06-22T17:24:53.082546+00:00"
+  },
+  {
+    "id": "4024240a-0e45-41ba-9c12-8668db6c377f",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "Genetic Engineering and Recombinant DNA Technology",
+    "created_at": "2026-06-22T17:26:28.347799+00:00"
+  },
+  {
+    "id": "9d260be1-ae2c-4f12-8017-4b67f79f5124",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "Tools of Recombinant DNA Technology (Restriction Enzymes, Ligase, Vectors, Competent Cells)",
+    "created_at": "2026-06-22T17:26:39.619819+00:00"
+  },
+  {
+    "id": "6992f87e-79e0-49c6-b69f-ae9a54c3e8dc",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "Processes of Recombinant DNA Technology",
+    "created_at": "2026-06-22T17:26:47.856443+00:00"
+  },
+  {
+    "id": "14ca8465-6af1-4104-9295-5fc6eb644e58",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "PCR, Cloning and Gene Transfer Techniques",
+    "created_at": "2026-06-22T17:26:55.697657+00:00"
+  },
+  {
+    "id": "dd27dbfc-7f96-48c5-aa58-8e2aedd87242",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "Bioreactors and Downstream Processing",
+    "created_at": "2026-06-22T17:27:03.773497+00:00"
+  },
+  {
+    "id": "89ab37a5-d1b9-4b9c-94a6-783ed79dee42",
+    "chapter_id": "d220220a-0ec6-4f38-8cf8-e16ee225a045",
+    "name": "Key NCERT Tools, Enzymes and Examples",
+    "created_at": "2026-06-22T17:27:12.104923+00:00"
+  },
+  {
+    "id": "255f1f44-b46a-47ea-b445-73234be92f3e",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Biotechnological Applications in Agriculture",
+    "created_at": "2026-06-22T17:28:16.732554+00:00"
+  },
+  {
+    "id": "13bf2f0f-a9f0-40a0-8d3d-4904cf4fca95",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Biotechnological Applications in Medicine",
+    "created_at": "2026-06-22T17:28:24.738672+00:00"
+  },
+  {
+    "id": "76660cdb-d564-4068-a9e0-66c809e6e4e1",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Transgenic Animals",
+    "created_at": "2026-06-22T17:28:32.898262+00:00"
+  },
+  {
+    "id": "1c55cd47-bd6a-4b06-8500-ce09764f3692",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Gene Therapy and Molecular Diagnosis",
+    "created_at": "2026-06-22T17:28:40.617395+00:00"
+  },
+  {
+    "id": "a470d399-a4e2-44f5-af80-26268e34de66",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Ethical Issues in Biotechnology (Biopatent & Biopiracy)",
+    "created_at": "2026-06-22T17:28:48.821596+00:00"
+  },
+  {
+    "id": "873c29fd-bd41-4d4c-b47f-a98f9386101f",
+    "chapter_id": "6eb9a686-377c-4e61-b9ed-9a161464868f",
+    "name": "Key NCERT Applications and Examples",
+    "created_at": "2026-06-22T17:28:57.342962+00:00"
+  },
+  {
+    "id": "632ca5df-ef72-406a-8f3d-13814e4dbeb0",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Organism and Environment",
+    "created_at": "2026-06-22T17:29:56.575504+00:00"
+  },
+  {
+    "id": "5a8f1e07-dc17-4d47-a056-dfbceaa35412",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Life History Variations and Population Interactions",
+    "created_at": "2026-06-22T17:30:39.025112+00:00"
+  },
+  {
+    "id": "1c613d67-8039-4808-823e-c1902badfe76",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Adaptations",
+    "created_at": "2026-06-22T17:30:48.07856+00:00"
+  },
+  {
+    "id": "df546854-8c5f-4952-bb94-35a564921ac4",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Types of Population Interactions",
+    "created_at": "2026-06-22T17:30:56.261198+00:00"
+  },
+  {
+    "id": "c1de544d-814a-47f9-9094-d4ebae12df2e",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Types of Population Interactions (Mutualism, Predation, Competition, Parasitism, Commensalism, Amensalism)",
+    "created_at": "2026-06-22T17:32:27.511038+00:00"
+  },
+  {
+    "id": "c7534628-0f24-4fe1-b084-f613368b265c",
+    "chapter_id": "669b14b7-cc49-4b39-8508-c76e79ef6c2c",
+    "name": "Key NCERT Graphs, Examples and Gause's Principle",
+    "created_at": "2026-06-22T17:32:38.354703+00:00"
+  },
+  {
+    "id": "f8fe378d-b5ba-4184-bcb7-51f6870054de",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Ecosystem – Structure and Components",
+    "created_at": "2026-06-22T17:33:25.114391+00:00"
+  },
+  {
+    "id": "b576ddf1-2001-45e1-b266-bd6725969f68",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Productivity and Decomposition",
+    "created_at": "2026-06-22T17:33:33.853717+00:00"
+  },
+  {
+    "id": "d0af2e9a-17d0-493b-b897-7883ea39121f",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Ecosystem Services",
+    "created_at": "2026-06-22T17:34:10.550244+00:00"
+  },
+  {
+    "id": "38c8e3ea-c183-4ac8-b12f-f76aa4a730b1",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Energy Flow and Ecological Pyramids",
+    "created_at": "2026-06-22T17:33:42.071252+00:00"
+  },
+  {
+    "id": "5503e7e7-b42a-4868-bdf0-c83481ac33b6",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Food Chain, Food Web and Ecological Succession",
+    "created_at": "2026-06-22T17:33:50.893688+00:00"
+  },
+  {
+    "id": "10672de9-ccb8-4554-8b5d-f4f17f77a058",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Nutrient Cycling (Carbon & Phosphorus Cycles)",
+    "created_at": "2026-06-22T17:34:02.939312+00:00"
+  },
+  {
+    "id": "3ad56c93-12cb-4e70-b6af-66bf56f14eae",
+    "chapter_id": "57a8d598-22f4-49b8-9980-4ffbc34dc109",
+    "name": "Key NCERT Examples, Diagrams and Facts",
+    "created_at": "2026-06-22T17:34:18.817965+00:00"
+  },
+  {
+    "id": "1a20de7d-a97d-4517-b77c-75b0f224664d",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "Biodiversity – Levels and Patterns",
+    "created_at": "2026-06-22T17:35:16.208874+00:00"
+  },
+  {
+    "id": "c418eb06-1322-4f04-bed5-069bb1924ad9",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "Biodiversity Loss and Threats",
+    "created_at": "2026-06-22T17:35:24.453829+00:00"
+  },
+  {
+    "id": "e835ae9a-b8c5-4488-a931-dee6de7db8d0",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "Biodiversity Conservation",
+    "created_at": "2026-06-22T17:35:31.90127+00:00"
+  },
+  {
+    "id": "44874e78-7559-447e-a6a2-4e90a08eaf71",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "Biodiversity Hotspots and Protected Areas",
+    "created_at": "2026-06-22T17:35:39.541798+00:00"
+  },
+  {
+    "id": "9fe47b24-1220-4c69-a781-27d1bbfdbab0",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "IUCN Categories and Red Data Book",
+    "created_at": "2026-06-22T17:35:48.90827+00:00"
+  },
+  {
+    "id": "f0637c50-dfd9-4888-b5c2-28035db7dd8f",
+    "chapter_id": "05a49601-4caa-4c96-92ef-588e004c9cff",
+    "name": "Key NCERT Examples, Species and Facts",
+    "created_at": "2026-06-22T17:35:56.893802+00:00"
+  },
+  {
+    "id": "acbef68d-f62c-44f4-9696-74fc8bfdce61",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Air Pollution and Its Control",
+    "created_at": "2026-06-22T17:36:55.400962+00:00"
+  },
+  {
+    "id": "425310ac-76c0-4f58-b45f-c44e4d30aea9",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Water Pollution and Solid Waste Management",
+    "created_at": "2026-06-22T17:37:03.053706+00:00"
+  },
+  {
+    "id": "c08ec699-19b7-4f60-bd53-9a9a03a37162",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Greenhouse Effect, Global Warming and Climate Change",
+    "created_at": "2026-06-22T17:38:01.447643+00:00"
+  },
+  {
+    "id": "0c822b48-a333-4363-a547-56219f16bfde",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Ozone Depletion and Acid Rain",
+    "created_at": "2026-06-22T17:38:09.166709+00:00"
+  },
+  {
+    "id": "9f5f4e75-98bd-4716-9ec4-103b8078c63b",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Deforestation and Environmental Conservation",
+    "created_at": "2026-06-22T17:38:18.756169+00:00"
+  },
+  {
+    "id": "610f135b-7576-49ad-bd03-c55026ed1ae0",
+    "chapter_id": "0f6c9e27-f28a-4e43-b9de-46b198e82fc2",
+    "name": "Key NCERT Acts, Protocols, Diagrams and Facts",
+    "created_at": "2026-06-22T17:38:26.49142+00:00"
+  },
+  {
+    "id": "4cfb71fc-748d-45f5-951c-307580ee16f6",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Introduction to Electromagnetic Induction",
+    "created_at": "2026-06-23T16:42:53.052483+00:00"
+  },
+  {
+    "id": "b2b74956-5882-4f79-ace2-915096b81287",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Magnetic Flux",
+    "created_at": "2026-06-23T16:43:20.363678+00:00"
+  },
+  {
+    "id": "2ce595f2-0831-46c6-a246-6f391cdc173f",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Faraday's Laws of Electromagnetic Induction",
+    "created_at": "2026-06-23T16:43:35.997092+00:00"
+  },
+  {
+    "id": "16c9024f-39b7-4583-a09b-0a6144462557",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Lenz's Law",
+    "created_at": "2026-06-23T16:44:22.422486+00:00"
+  },
+  {
+    "id": "bd3a7a20-f737-49b1-9d99-48025a7455fb",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Motional EMF",
+    "created_at": "2026-06-23T16:44:55.31206+00:00"
+  },
+  {
+    "id": "872e9b6f-0a6a-4780-8c20-dcd7f532d18a",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Dynamically Induced EMF",
+    "created_at": "2026-06-23T16:45:12.580099+00:00"
+  },
+  {
+    "id": "e3a895f9-869f-445e-aa94-aca63ef1399b",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Statically Induced EMF",
+    "created_at": "2026-06-23T16:45:25.502553+00:00"
+  },
+  {
+    "id": "c8adaf3c-4418-4e53-b5ad-b37d7126f112",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Self Induction",
+    "created_at": "2026-06-23T16:45:31.707417+00:00"
+  },
+  {
+    "id": "dfa40ee5-c501-4540-8945-bfd735836848",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Mutual Induction",
+    "created_at": "2026-06-23T16:45:38.637592+00:00"
+  },
+  {
+    "id": "ad527df3-617a-4344-9cd4-62a8a78a99a4",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Inductance (Self & Mutual)",
+    "created_at": "2026-06-23T16:45:45.440239+00:00"
+  },
+  {
+    "id": "0f71f277-3561-4119-b311-be34fa9c6162",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Energy Stored in an Inductor",
+    "created_at": "2026-06-23T16:45:51.423661+00:00"
+  },
+  {
+    "id": "7a3a7fb7-2541-498c-8a76-f3f0405977cb",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "AC Generator (Elementary Idea)",
+    "created_at": "2026-06-23T16:45:58.683781+00:00"
+  },
+  {
+    "id": "86b48725-1225-46f0-8032-8776b0254f90",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Eddy Currents and Their Applications",
+    "created_at": "2026-06-23T16:46:12.497605+00:00"
+  },
+  {
+    "id": "6bb2dbd0-1046-4d08-97c8-781862b41872",
+    "chapter_id": "af60a6ab-e977-4ad4-94e4-85a0b118d99f",
+    "name": "Key NCERT Examples & Formula-Based Applications",
+    "created_at": "2026-06-23T16:46:17.944078+00:00"
+  },
+  {
+    "id": "e76ba2b0-bcdf-4b15-b080-b09efcb3d405",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Alternating Current – Basic Concepts",
+    "created_at": "2026-06-23T16:56:10.018581+00:00"
+  },
+  {
+    "id": "dc2e3714-4783-4ab7-a769-98090513b177",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Peak Value, RMS Value and Average Value",
+    "created_at": "2026-06-23T16:56:21.225297+00:00"
+  },
+  {
+    "id": "10cb50b8-736b-4b9b-809f-03731c2b1922",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Phasors and Phasor Diagram",
+    "created_at": "2026-06-23T16:56:31.870952+00:00"
+  },
+  {
+    "id": "d447d34b-8a36-49f8-b934-caec0fdc8cf3",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "AC Through Pure Resistor",
+    "created_at": "2026-06-23T16:56:49.056036+00:00"
+  },
+  {
+    "id": "e3045c57-e0fe-48cc-9931-a526467bc71f",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "AC Through Pure Inductor",
+    "created_at": "2026-06-23T16:57:00.624735+00:00"
+  },
+  {
+    "id": "f3143974-5e15-42b0-b24a-86e6eb0c034a",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "AC Through Pure Capacitor",
+    "created_at": "2026-06-23T16:57:25.198644+00:00"
+  },
+  {
+    "id": "f9f005c8-ecca-45d1-8ba7-88f3d49ec949",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "LCR Series Circuit",
+    "created_at": "2026-06-23T16:57:31.158288+00:00"
+  },
+  {
+    "id": "241d1436-cd3a-422b-bd09-6069653047e9",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Resonance in LCR Circuit",
+    "created_at": "2026-06-23T16:57:39.863196+00:00"
+  },
+  {
+    "id": "40bf0259-124b-4e47-a58b-ac155fc5f8b1",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Power in AC Circuit",
+    "created_at": "2026-06-23T16:57:45.567415+00:00"
+  },
+  {
+    "id": "12dca07c-8455-4751-9d26-8e68bc4f2752",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Power Factor",
+    "created_at": "2026-06-23T16:57:51.81406+00:00"
+  },
+  {
+    "id": "72d3f4fa-f1fe-4c68-8343-ea9f6c29e4d8",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "LC Oscillations (Basic Idea)",
+    "created_at": "2026-06-23T16:58:03.624752+00:00"
+  },
+  {
+    "id": "ad8b8185-0a35-417c-8b07-5be4006246bf",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Transformer – Construction and Principle",
+    "created_at": "2026-06-23T16:58:10.005933+00:00"
+  },
+  {
+    "id": "7eae3f50-d1cd-4b2a-b76a-5dd320b74769",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Step-up and Step-down Transformer",
+    "created_at": "2026-06-23T16:58:17.951115+00:00"
+  },
+  {
+    "id": "c9b6acea-b0c7-4f8e-aea1-ea2f43fd880e",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Transformer Efficiency and Energy Losses",
+    "created_at": "2026-06-23T16:58:24.854445+00:00"
+  },
+  {
+    "id": "1371de52-eb46-44c3-af29-efc9ba084038",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "Transmission of Electrical Energy",
+    "created_at": "2026-06-23T16:58:32.621273+00:00"
+  },
+  {
+    "id": "e7ad50cd-eb26-4dba-bee9-b6f852403da3",
+    "chapter_id": "6d1cb8d8-4e9c-435f-a2c1-1217f9bc63f1",
+    "name": "NCERT Formula-Based & Graph-Based Applications",
+    "created_at": "2026-06-23T16:58:39.193946+00:00"
+  },
+  {
+    "id": "f326f0a6-fd4d-4fbf-b755-483c2370228f",
+    "chapter_id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "name": "Displacement Current",
+    "created_at": "2026-06-23T17:20:34.843372+00:00"
+  },
+  {
+    "id": "72f5d7f2-f466-42e0-beb4-3cc079655703",
+    "chapter_id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "name": "Electromagnetic Waves",
+    "created_at": "2026-06-23T17:20:42.806355+00:00"
+  },
+  {
+    "id": "7a6f0e3d-3f10-439e-9bdc-33f23c8046ee",
+    "chapter_id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "name": "Characteristics of EM Waves",
+    "created_at": "2026-06-23T17:20:48.795008+00:00"
+  },
+  {
+    "id": "f078bfc0-143c-43ef-b9e9-1f4bac1adc89",
+    "chapter_id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "name": "Electromagnetic Spectrum",
+    "created_at": "2026-06-23T17:20:59.773138+00:00"
+  },
+  {
+    "id": "f2477767-a776-4089-8ea0-4fb0c2bb35ee",
+    "chapter_id": "c2605631-5c45-451e-bdba-379c8a1b721a",
+    "name": "Uses of Electromagnetic Waves",
+    "created_at": "2026-06-23T17:21:42.156705+00:00"
+  },
+  {
+    "id": "1d80444a-ad6d-4ec4-86b7-16a47d6d5708",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Reflection by Spherical Mirrors",
+    "created_at": "2026-06-23T18:14:27.976786+00:00"
+  },
+  {
+    "id": "816a3346-541f-4d73-a970-1f985f7aab3e",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Mirror Formula & Magnification",
+    "created_at": "2026-06-23T18:14:35.565422+00:00"
+  },
+  {
+    "id": "abda95b0-0ae5-4dd2-a2f9-48aff69a7ea1",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Refraction at Plane Surfaces",
+    "created_at": "2026-06-23T18:14:41.877445+00:00"
+  },
+  {
+    "id": "a25fd542-30b9-4913-b4b3-5423cd429934",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Refraction at Spherical Surfaces",
+    "created_at": "2026-06-23T18:14:51.995183+00:00"
+  },
+  {
+    "id": "29968374-1cd0-4903-988c-88c7511efdd3",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Total Internal Reflection (TIR)",
+    "created_at": "2026-06-23T18:14:58.090789+00:00"
+  },
+  {
+    "id": "e640be86-b154-477a-81a8-76f12cc775ec",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Optical Fibres",
+    "created_at": "2026-06-23T18:15:04.51871+00:00"
+  },
+  {
+    "id": "b4f832e1-5983-432a-a39d-cb7ab3bd690f",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Refraction Through a Prism",
+    "created_at": "2026-06-23T18:15:14.098429+00:00"
+  },
+  {
+    "id": "12171dc6-80a3-498d-8997-a81ef84cccef",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Dispersion by a Prism",
+    "created_at": "2026-06-23T18:15:19.852791+00:00"
+  },
+  {
+    "id": "c993d712-97e1-4965-a152-80f957c11112",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Thin Lens Formula",
+    "created_at": "2026-06-23T18:15:25.19814+00:00"
+  },
+  {
+    "id": "96d6ea5a-ece8-45f4-b8ba-06f541d8f8ab",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Power of a Lens",
+    "created_at": "2026-06-23T18:15:31.964495+00:00"
+  },
+  {
+    "id": "93b30823-25f8-4e41-986b-67a88bab5794",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Combination of Thin Lenses",
+    "created_at": "2026-06-23T18:15:38.733695+00:00"
+  },
+  {
+    "id": "ae6cf49d-4f4c-4238-af61-15a53f65fc24",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Lens Maker's Formula",
+    "created_at": "2026-06-23T18:15:44.507281+00:00"
+  },
+  {
+    "id": "a2ca8301-59be-4927-b7c0-6af04a8034c2",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Microscope",
+    "created_at": "2026-06-23T18:15:49.708204+00:00"
+  },
+  {
+    "id": "fffce289-6041-4cc4-a736-9a264d6ae46f",
+    "chapter_id": "aa3447e8-9f93-48ff-8db4-30f837c934bd",
+    "name": "Astronomical Telescope",
+    "created_at": "2026-06-23T18:15:54.915479+00:00"
+  },
+  {
+    "id": "c8f73c5f-b16a-44b7-9a8c-66ba9663fc44",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Huygens' Principle",
+    "created_at": "2026-06-23T18:16:49.777414+00:00"
+  },
+  {
+    "id": "362a7eaf-5995-42cd-a25d-48b604f2c149",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Wavefront and Wavefront Construction",
+    "created_at": "2026-06-23T18:16:57.610877+00:00"
+  },
+  {
+    "id": "e7d835af-efc5-40d2-9699-f13777609340",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Reflection and Refraction using Huygens' Principle",
+    "created_at": "2026-06-23T18:17:18.795318+00:00"
+  },
+  {
+    "id": "20b4753c-07ee-45ed-85c1-dc785e54f5d1",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Interference of Light",
+    "created_at": "2026-06-23T18:17:26.606056+00:00"
+  },
+  {
+    "id": "f047950e-6a86-48d5-98b7-b4f20b063fe0",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Young's Double Slit Experiment (YDSE)",
+    "created_at": "2026-06-23T18:17:33.271425+00:00"
+  },
+  {
+    "id": "ea966d72-d7cf-49fd-af84-4e0923e00893",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Fringe Width & YDSE Numericals",
+    "created_at": "2026-06-23T18:17:38.865116+00:00"
+  },
+  {
+    "id": "44640826-8bc6-4afc-8587-c1a05b1bef50",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Diffraction of Light",
+    "created_at": "2026-06-23T18:17:44.968194+00:00"
+  },
+  {
+    "id": "cba81a91-e88c-498f-9290-a4ca5b07687c",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Resolving Power (Basic Idea)",
+    "created_at": "2026-06-23T18:17:52.331214+00:00"
+  },
+  {
+    "id": "087f15d7-78eb-470f-a36c-19cf8c93b84f",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Polarisation of Light",
+    "created_at": "2026-06-23T18:17:57.872717+00:00"
+  },
+  {
+    "id": "7f94fa49-ee6a-4941-ac11-c4b795ac0fd6",
+    "chapter_id": "fd1c8b94-9b44-455f-8251-3b96f0ab2b4c",
+    "name": "Applications of Polarisation",
+    "created_at": "2026-06-23T18:18:03.399556+00:00"
+  },
+  {
+    "id": "e1d13ef1-0974-401b-a56f-c3e2929545ed",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Photoelectric Effect",
+    "created_at": "2026-06-23T18:18:55.53675+00:00"
+  },
+  {
+    "id": "8a9ac4aa-c0f7-4460-9e70-d5ce00748081",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Einstein's Photoelectric Equation",
+    "created_at": "2026-06-23T18:19:04.02196+00:00"
+  },
+  {
+    "id": "d1c24272-9304-41db-b4ee-6ab9270c24f1",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Photoelectric Graphs & Characteristics",
+    "created_at": "2026-06-23T18:19:09.556763+00:00"
+  },
+  {
+    "id": "6ef6126e-d4ee-4302-a0e3-b161efb35e7f",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "de Broglie Hypothesis",
+    "created_at": "2026-06-23T18:19:15.14778+00:00"
+  },
+  {
+    "id": "3191197e-d46d-480a-a3a9-56e76d3ffd45",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "de Broglie Wavelength",
+    "created_at": "2026-06-23T18:19:21.349018+00:00"
+  },
+  {
+    "id": "fd970b4d-611e-4d64-94dd-c97f003a4d88",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Davisson–Germer Experiment",
+    "created_at": "2026-06-23T18:19:28.171162+00:00"
+  },
+  {
+    "id": "5981ca62-51cd-4a52-9eda-8591eb94879a",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Wave Nature of Matter",
+    "created_at": "2026-06-23T18:19:35.428271+00:00"
+  },
+  {
+    "id": "158fec26-5e72-4a60-a0c0-c3545cfa631b",
+    "chapter_id": "704c4e56-f1ee-44d4-806f-3f9906008f95",
+    "name": "Applications & NCERT Conceptual Questions",
+    "created_at": "2026-06-23T18:19:44.822611+00:00"
+  },
+  {
+    "id": "215323b3-d189-4035-b0bd-da2522c01194",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Alpha Particle Scattering Experiment",
+    "created_at": "2026-06-23T18:23:21.227953+00:00"
+  },
+  {
+    "id": "1f76fc29-8e95-44fb-b2bf-82ce055cd0a6",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Rutherford's Nuclear Model",
+    "created_at": "2026-06-23T18:23:29.00862+00:00"
+  },
+  {
+    "id": "cdc72604-5a45-4827-8d09-76263b1ccb14",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Bohr's Model of Hydrogen Atom",
+    "created_at": "2026-06-23T18:23:35.281252+00:00"
+  },
+  {
+    "id": "2f032d46-0b86-4914-8b41-1bb39360cdf7",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Bohr's Postulates",
+    "created_at": "2026-06-23T18:23:42.092628+00:00"
+  },
+  {
+    "id": "391df3ed-5841-4f3a-b95f-217bec00b0ca",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Radius, Velocity & Energy of Electron",
+    "created_at": "2026-06-23T18:23:47.489157+00:00"
+  },
+  {
+    "id": "2a2502fc-94c0-4f14-83a5-b6a8ff59bd97",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Excitation & Ionisation Energy",
+    "created_at": "2026-06-23T18:23:59.7292+00:00"
+  },
+  {
+    "id": "26dcd699-73bb-4485-9d6b-429f470b5cf6",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Energy Level Diagram & Spectral Lines",
+    "created_at": "2026-06-23T18:24:06.79459+00:00"
+  },
+  {
+    "id": "5656405a-cfa0-450a-a4fd-c81cbbf6bd4e",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Limitations of Bohr's Model",
+    "created_at": "2026-06-23T18:24:12.453528+00:00"
+  },
+  {
+    "id": "236cd703-931d-4a34-986e-80abded3dc8a",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "NCERT Applications & Formula-Based Questions",
+    "created_at": "2026-06-23T18:24:18.24147+00:00"
+  },
+  {
+    "id": "3fb8c3a6-f9ee-4b19-9eb9-38b7e90e9a53",
+    "chapter_id": "ae1c5eaa-bffe-4975-84bc-dbe4bf5f7534",
+    "name": "Hydrogen Spectrum (Lyman, Balmer, Paschen Series)",
+    "created_at": "2026-06-23T18:23:54.632672+00:00"
+  },
+  {
+    "id": "a4c8113a-52eb-4682-9288-b039a38783b3",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Atomic Nucleus & Nuclear Properties",
+    "created_at": "2026-06-23T18:25:27.692386+00:00"
+  },
+  {
+    "id": "94e9cf1d-eaf8-4225-a939-47f834be92f9",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Nuclear Radius & Density",
+    "created_at": "2026-06-23T18:25:33.832894+00:00"
+  },
+  {
+    "id": "2f1cce9b-9261-44fa-9ce6-6a44eb02dfcf",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Mass Defect",
+    "created_at": "2026-06-23T18:25:47.039793+00:00"
+  },
+  {
+    "id": "c43bfe5f-9f40-434c-8367-c355b2d4471c",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Binding Energy",
+    "created_at": "2026-06-23T18:25:52.933103+00:00"
+  },
+  {
+    "id": "157cd1b4-5c3a-4730-ba55-32b2e75c5864",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Binding Energy Curve",
+    "created_at": "2026-06-23T18:25:58.522642+00:00"
+  },
+  {
+    "id": "a496f9e0-0c0b-4cb4-a72e-118ced710c3f",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Nuclear Stability",
+    "created_at": "2026-06-23T18:26:03.503643+00:00"
+  },
+  {
+    "id": "78a8f54f-2d88-4477-8cce-0fc54adf32e3",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Radioactivity",
+    "created_at": "2026-06-23T18:26:08.829974+00:00"
+  },
+  {
+    "id": "f4a811d8-9e88-4b0a-bf81-a2fbb10bfabe",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Alpha, Beta & Gamma Decay",
+    "created_at": "2026-06-23T18:26:27.557178+00:00"
+  },
+  {
+    "id": "55b64ae9-f852-46f7-9d11-940f039b24a3",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Nuclear Fission",
+    "created_at": "2026-06-23T18:26:33.576266+00:00"
+  },
+  {
+    "id": "8da3eaf6-b14b-4d18-8ae0-33d8481a6743",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Nuclear Fusion",
+    "created_at": "2026-06-23T18:29:37.177291+00:00"
+  },
+  {
+    "id": "b2118ab8-b2f5-4e0f-82e2-2206b6a9f4ee",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Applications & NCERT Conceptual Questions",
+    "created_at": "2026-06-23T18:29:44.716195+00:00"
+  },
+  {
+    "id": "4528ba73-3330-43be-9a35-341351076b02",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Intrinsic & Extrinsic Semiconductors",
+    "created_at": "2026-06-23T18:36:47.344561+00:00"
+  },
+  {
+    "id": "e805bd17-5d07-4276-af3c-b89777dbea9e",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "P-type & N-type Semiconductors",
+    "created_at": "2026-06-23T18:37:00.052078+00:00"
+  },
+  {
+    "id": "d9585d47-3579-4f42-ad90-db31347e6e42",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "PN Junction Diode",
+    "created_at": "2026-06-23T18:37:08.199279+00:00"
+  },
+  {
+    "id": "7909ca6f-3376-4b3e-9125-e118f1e28fe0",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Diode Characteristics",
+    "created_at": "2026-06-23T18:37:23.336822+00:00"
+  },
+  {
+    "id": "42d423bd-7e9d-4cf8-9745-b531765a84bb",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Diode as a Rectifier",
+    "created_at": "2026-06-23T18:37:33.974398+00:00"
+  },
+  {
+    "id": "95868091-98d0-4962-8e24-b41367994fab",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Zener Diode",
+    "created_at": "2026-06-23T18:37:41.022159+00:00"
+  },
+  {
+    "id": "9c8e72ae-b833-4c76-8f24-ed4b6a03fad0",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Zener Diode as Voltage Regulator",
+    "created_at": "2026-06-23T18:37:49.20317+00:00"
+  },
+  {
+    "id": "ea53e85d-c2f0-4216-9da4-42c138be14dd",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Logic Gates",
+    "created_at": "2026-06-23T18:37:58.846907+00:00"
+  },
+  {
+    "id": "2e654315-d464-4113-b3f3-d3ae96c8d2ef",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Truth Tables & Boolean Expressions",
+    "created_at": "2026-06-23T18:38:11.250212+00:00"
+  },
+  {
+    "id": "2d4a3264-4e47-425f-89d1-076cb5411c27",
+    "chapter_id": "fdd4975c-ae04-4205-8970-4f78d862aa8b",
+    "name": "Integrated Circuits (Basic Idea)",
+    "created_at": "2026-06-23T18:38:19.67693+00:00"
+  },
+  {
+    "id": "393be1fa-a199-4bec-a35f-8b18a7a9f247",
+    "chapter_id": "b028a7bc-95dd-40ff-b12d-1ab4b622b611",
+    "name": "Radioactive Decay Law & Half-life",
+    "created_at": "2026-06-23T18:26:17.552099+00:00"
+  },
+  {
+    "id": "627af762-4e9f-4144-899e-b96cda5643c7",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Flower Structure & Functions",
+    "created_at": "2026-06-24T11:50:04.359192+00:00"
+  },
+  {
+    "id": "8c33b470-2ced-45d4-a84f-c8fa66f1de1d",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Microsporogenesis",
+    "created_at": "2026-06-24T11:50:12.082878+00:00"
+  },
+  {
+    "id": "ea997f5c-b3b4-49f5-86b1-fd61da15b646",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Male Gametophyte (Pollen Grain)",
+    "created_at": "2026-06-24T11:50:22.150172+00:00"
+  },
+  {
+    "id": "b116505b-b3db-41a2-a09a-2f52770e03ff",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Megasporogenesis",
+    "created_at": "2026-06-24T11:50:27.218102+00:00"
+  },
+  {
+    "id": "4dc0ed58-bc3c-405d-9079-ed57d0822e1e",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Female Gametophyte (Embryo Sac)",
+    "created_at": "2026-06-24T11:50:34.365188+00:00"
+  },
+  {
+    "id": "1d7d633e-0b90-4091-9ba4-0fe6f2e4ed8e",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Pollination (Types, Agents & Adaptations)",
+    "created_at": "2026-06-24T11:50:40.108012+00:00"
+  },
+  {
+    "id": "7efbabc4-e6b7-45a9-8b79-782b817fac62",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Double Fertilization",
+    "created_at": "2026-06-24T11:50:53.635936+00:00"
+  },
+  {
+    "id": "ab0fd3d4-c34f-4458-bf00-99852c50655d",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Post-fertilization Events (Endosperm, Embryo & Seed Formation)",
+    "created_at": "2026-06-24T11:51:00.36599+00:00"
+  },
+  {
+    "id": "d9b492fc-1bac-43cd-b807-f645533b5912",
+    "chapter_id": "162e23a5-5fc5-4932-ac80-abb66fe2f2a6",
+    "name": "Apomixis & Polyembryony",
+    "created_at": "2026-06-24T11:51:05.559622+00:00"
+  },
+  {
+    "id": "8de87dbd-a76a-4ac1-bf91-b10b70a28d4a",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Types of Solutions",
+    "created_at": "2026-06-30T16:27:16.029017+00:00"
+  },
+  {
+    "id": "24e6f566-2403-45f0-94c4-7e8ce3e0b9ac",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Concentration Terms",
+    "created_at": "2026-06-30T16:27:22.48351+00:00"
+  },
+  {
+    "id": "5dd0ef1a-24ec-4b90-8d85-bdeeb2b62dda",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Solubility",
+    "created_at": "2026-06-30T16:27:28.786004+00:00"
+  },
+  {
+    "id": "455a04b7-bf64-45e0-90c3-bc6d17062716",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Henry's Law",
+    "created_at": "2026-06-30T16:27:35.794073+00:00"
+  },
+  {
+    "id": "46311c56-be9f-4f27-8f4f-7e5d79e09d5d",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Vapour Pressure",
+    "created_at": "2026-06-30T16:27:43.872899+00:00"
+  },
+  {
+    "id": "48398c89-464d-4e10-a6d0-eb28b6212cca",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Raoult's Law",
+    "created_at": "2026-06-30T16:27:50.345869+00:00"
+  },
+  {
+    "id": "802e299f-5ce0-4694-bea7-e6172e5db87c",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Ideal and Non-Ideal Solutions",
+    "created_at": "2026-06-30T16:27:57.290487+00:00"
+  },
+  {
+    "id": "5d698ee8-56f3-4161-a2ef-394fb7c4a7fb",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Colligative Properties",
+    "created_at": "2026-06-30T16:28:03.821165+00:00"
+  },
+  {
+    "id": "6f736c16-ab96-4064-9eb3-9cd292f7d153",
+    "chapter_id": "a2ff97db-a8a0-45f9-a839-355dde9ba27c",
+    "name": "Abnormal Molar Mass",
+    "created_at": "2026-06-30T16:28:10.303719+00:00"
+  },
+  {
+    "id": "7e2dbb89-0b0e-4093-afcb-f7516651f8f1",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Conductance",
+    "created_at": "2026-06-30T16:28:36.759598+00:00"
+  },
+  {
+    "id": "7c832767-80a0-45c2-8b48-9ff884b78097",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Kohlrausch's Law",
+    "created_at": "2026-06-30T16:28:43.484255+00:00"
+  },
+  {
+    "id": "85187d11-3724-447a-bcf4-0b1aca380ed5",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Electrolytic Cells",
+    "created_at": "2026-06-30T16:28:52.548269+00:00"
+  },
+  {
+    "id": "9e305ff6-ee8b-4260-b975-39c7066ac8b4",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Galvanic Cells",
+    "created_at": "2026-06-30T16:28:58.793867+00:00"
+  },
+  {
+    "id": "66c111b2-78fb-4b5b-8378-2e850a02a6f5",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Nernst Equation",
+    "created_at": "2026-06-30T16:29:05.34072+00:00"
+  },
+  {
+    "id": "f30fe5ef-b346-4a76-8ac2-eef9548549d3",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "EMF of Cell",
+    "created_at": "2026-06-30T16:29:12.078324+00:00"
+  },
+  {
+    "id": "d88e2163-e7e6-46c3-9675-67b937b2abd6",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Batteries",
+    "created_at": "2026-06-30T16:29:17.494127+00:00"
+  },
+  {
+    "id": "0934c624-17bc-4e59-9ab3-f7a09803d393",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Fuel Cells",
+    "created_at": "2026-06-30T16:29:25.650807+00:00"
+  },
+  {
+    "id": "c7370673-1af4-464c-b540-be9c0ff97003",
+    "chapter_id": "c0f2d9ed-dde5-429f-b5d2-0e29979e64f0",
+    "name": "Corrosion",
+    "created_at": "2026-06-30T16:29:30.700607+00:00"
+  },
+  {
+    "id": "0c463e9b-1a53-4e22-993a-f62a9ca03eb7",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Rate of Reaction",
+    "created_at": "2026-06-30T16:29:56.141748+00:00"
+  },
+  {
+    "id": "8c83a269-0332-402a-a235-ce439ea74a08",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Rate Law",
+    "created_at": "2026-06-30T16:30:04.683948+00:00"
+  },
+  {
+    "id": "9ad1fc3a-f54d-43c6-babd-fe0cbc0f2090",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Order of Reaction",
+    "created_at": "2026-06-30T16:30:10.424381+00:00"
+  },
+  {
+    "id": "dfdd1ccc-987a-4f04-9ae7-12c4bfb724cc",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Molecularity",
+    "created_at": "2026-06-30T16:30:15.969196+00:00"
+  },
+  {
+    "id": "fe65d726-69b7-45a7-9a67-df2b38200921",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Integrated Rate Equations",
+    "created_at": "2026-06-30T16:30:22.50841+00:00"
+  },
+  {
+    "id": "07fcd7b6-b6dc-47c2-b50e-26808156f1bb",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Half-life",
+    "created_at": "2026-06-30T16:30:28.286265+00:00"
+  },
+  {
+    "id": "00e988d8-1204-4722-96bd-7ec9ea89cf98",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Arrhenius Equation",
+    "created_at": "2026-06-30T16:30:35.314529+00:00"
+  },
+  {
+    "id": "f0831c5e-e7e2-4058-9004-d789a2e52d59",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Collision Theory",
+    "created_at": "2026-06-30T16:30:41.247928+00:00"
+  },
+  {
+    "id": "e1ca1152-6e80-4c0c-9886-595758a59644",
+    "chapter_id": "fa990e29-083d-483a-a7e8-09684bf2f5b7",
+    "name": "Activation Energy",
+    "created_at": "2026-06-30T16:30:46.95118+00:00"
+  },
+  {
+    "id": "dedaab3f-16f3-4c0e-9061-77f6c2cc28d6",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "General Characteristics",
+    "created_at": "2026-06-30T16:31:16.861182+00:00"
+  },
+  {
+    "id": "0adb846f-a72e-4702-95c6-44454c11be39",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Electronic Configuration",
+    "created_at": "2026-06-30T16:31:23.070771+00:00"
+  },
+  {
+    "id": "037686bf-158c-4bb4-987c-2473c4fc4cd0",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Oxidation States",
+    "created_at": "2026-06-30T16:31:29.151351+00:00"
+  },
+  {
+    "id": "033f2ae0-af3f-4b57-9a14-5a861dbb43bf",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Magnetic Properties",
+    "created_at": "2026-06-30T16:31:35.006736+00:00"
+  },
+  {
+    "id": "46459224-0a0c-4679-bf4d-e144662c539b",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Colour",
+    "created_at": "2026-06-30T16:31:43.257764+00:00"
+  },
+  {
+    "id": "32c58ed3-46c4-49f9-a246-cc5003ada568",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Catalytic Properties",
+    "created_at": "2026-06-30T16:31:49.265584+00:00"
+  },
+  {
+    "id": "8fac4a0c-f0b6-420a-8166-8ff25711e26b",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Lanthanoids",
+    "created_at": "2026-06-30T16:31:54.647293+00:00"
+  },
+  {
+    "id": "061b8387-51da-4756-a3d2-9c6869734794",
+    "chapter_id": "a566bb0f-de7e-4155-ab6c-d18bbabb1acd",
+    "name": "Actinoids",
+    "created_at": "2026-06-30T16:31:59.218806+00:00"
+  },
+  {
+    "id": "ea70dc43-3797-494a-9cef-66ffbdc62671",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Werner's Theory",
+    "created_at": "2026-06-30T16:32:27.844567+00:00"
+  },
+  {
+    "id": "8ea61d13-68d5-4f54-a25d-f92ef5da86d2",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Ligands",
+    "created_at": "2026-06-30T16:32:33.029919+00:00"
+  },
+  {
+    "id": "2c303144-527d-48d9-a8dd-0d54987b9792",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Nomenclature",
+    "created_at": "2026-06-30T16:32:37.995714+00:00"
+  },
+  {
+    "id": "78ae72b4-c7b2-448b-ac33-1c63f051808c",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Isomerism",
+    "created_at": "2026-06-30T16:32:43.162056+00:00"
+  },
+  {
+    "id": "5b5820b1-7be0-48e6-86f8-072275bf861f",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Bonding (VBT)",
+    "created_at": "2026-06-30T16:32:49.348184+00:00"
+  },
+  {
+    "id": "b9f1d783-24e1-4d5e-a68c-c20e8d729c6a",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Crystal Field Theory",
+    "created_at": "2026-06-30T16:32:55.188105+00:00"
+  },
+  {
+    "id": "55df5860-5d78-4263-848a-c0291e0590d0",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Stability Constant",
+    "created_at": "2026-06-30T16:33:03.763275+00:00"
+  },
+  {
+    "id": "d0a7e0e6-db18-4f18-b0d5-621605b201d3",
+    "chapter_id": "ea037f82-c47c-4fc8-a28c-913b0e2b3a9a",
+    "name": "Applications",
+    "created_at": "2026-06-30T16:33:08.515989+00:00"
+  },
+  {
+    "id": "07bb6c97-18a7-405e-8d17-7181a0f55d5b",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Classification",
+    "created_at": "2026-06-30T16:33:33.266673+00:00"
+  },
+  {
+    "id": "a19503a3-b2ba-4aec-925a-a59db3e88657",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Nomenclature",
+    "created_at": "2026-06-30T16:33:38.829809+00:00"
+  },
+  {
+    "id": "696af671-b705-42b7-81a2-1f930cf30fc2",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Preparation",
+    "created_at": "2026-06-30T16:33:43.694392+00:00"
+  },
+  {
+    "id": "bca2e0b2-f97c-49e6-b7d3-1926f69c6e40",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Physical Properties",
+    "created_at": "2026-06-30T16:33:53.434048+00:00"
+  },
+  {
+    "id": "3eec58ff-bcfd-465c-b258-69f774ca513d",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Chemical Properties",
+    "created_at": "2026-06-30T16:33:59.142721+00:00"
+  },
+  {
+    "id": "0dde1194-ef4a-488a-be37-60a74809812d",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Nucleophilic Substitution",
+    "created_at": "2026-06-30T16:34:09.280245+00:00"
+  },
+  {
+    "id": "682201c7-4ff3-4fa0-ba63-575b3335de4c",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Elimination Reactions",
+    "created_at": "2026-06-30T16:34:17.778553+00:00"
+  },
+  {
+    "id": "bebbdb86-37bf-4680-a95d-6c68ea7ae03f",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Haloarenes",
+    "created_at": "2026-06-30T16:34:23.800393+00:00"
+  },
+  {
+    "id": "4984d58e-434e-4431-ba04-f82144f77038",
+    "chapter_id": "4be904f7-2433-43b0-8125-2f90b6601793",
+    "name": "Environmental Effects",
+    "created_at": "2026-06-30T16:34:28.968899+00:00"
+  },
+  {
+    "id": "ebe75e4b-f906-46c7-aa82-2948bf57873f",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Alcohols",
+    "created_at": "2026-06-30T16:35:02.240153+00:00"
+  },
+  {
+    "id": "375c4516-5470-4643-aa2e-dd08dd45db01",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Phenols",
+    "created_at": "2026-06-30T16:35:07.801708+00:00"
+  },
+  {
+    "id": "2fe9b9bd-1f31-4bb8-a32b-63d3ee8ee2d9",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Ethers",
+    "created_at": "2026-06-30T16:35:12.969269+00:00"
+  },
+  {
+    "id": "0ecc448f-1469-4c43-9deb-11e6adf6eeaa",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Preparation",
+    "created_at": "2026-06-30T16:35:21.781438+00:00"
+  },
+  {
+    "id": "6af29b70-877a-4a3d-8883-790465b1218d",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Physical Properties",
+    "created_at": "2026-06-30T16:35:27.394805+00:00"
+  },
+  {
+    "id": "34148eda-2308-4971-aa6d-abffba4365a2",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Chemical Reactions",
+    "created_at": "2026-06-30T16:35:33.009277+00:00"
+  },
+  {
+    "id": "ff39eb50-23cd-4671-bdc4-f6a14f0564e4",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Uses",
+    "created_at": "2026-06-30T16:35:42.845523+00:00"
+  },
+  {
+    "id": "f4f5e0b2-c7cc-403b-882e-314c7608c846",
+    "chapter_id": "14827d16-802c-4aa2-8be3-7809178dbd4c",
+    "name": "Acidity and Basicity",
+    "created_at": "2026-06-30T16:35:37.967288+00:00"
+  },
+  {
+    "id": "9b87ade0-c5d8-4447-8b46-c7dc415cad53",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Nomenclature",
+    "created_at": "2026-06-30T16:36:10.102477+00:00"
+  },
+  {
+    "id": "6468d399-229e-4f2a-9469-efedda3043d9",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Physical Properties",
+    "created_at": "2026-06-30T16:36:22.374608+00:00"
+  },
+  {
+    "id": "db9428c8-0077-444d-910e-06537a7d14fb",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Oxidation and Reduction",
+    "created_at": "2026-06-30T16:36:34.120468+00:00"
+  },
+  {
+    "id": "7c081e82-c43c-4a63-ba0b-89fa6ec153e4",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Chemical Properties",
+    "created_at": "2026-06-30T16:36:45.755197+00:00"
+  },
+  {
+    "id": "05595a35-427c-46b4-a780-c59b31fbe02a",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Preparation",
+    "created_at": "2026-06-30T16:36:15.49341+00:00"
+  },
+  {
+    "id": "ec1ecb81-06c0-484c-9b95-1e5d78e642df",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Nucleophilic Addition",
+    "created_at": "2026-06-30T16:36:28.710592+00:00"
+  },
+  {
+    "id": "dbbdc053-c24f-4453-aa1a-4177c1825439",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Carboxylic Acids",
+    "created_at": "2026-06-30T16:36:39.935048+00:00"
+  },
+  {
+    "id": "49196eff-03e2-48f1-935d-b25a00337ec2",
+    "chapter_id": "3b99d367-84e9-4b6d-854b-694a51262215",
+    "name": "Named Reactions",
+    "created_at": "2026-06-30T16:36:51.442482+00:00"
+  },
+  {
+    "id": "f6c1d977-0042-4c28-8ffc-c98a75bdff81",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Nomenclature",
+    "created_at": "2026-06-30T16:37:19.939823+00:00"
+  },
+  {
+    "id": "486ade8b-259e-4e05-88d9-02fa88a29820",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Physical Properties",
+    "created_at": "2026-06-30T16:37:32.145548+00:00"
+  },
+  {
+    "id": "5408654e-78e9-49c9-98d5-bb09923a4dab",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Chemical Reactions",
+    "created_at": "2026-06-30T16:37:43.744989+00:00"
+  },
+  {
+    "id": "39fea275-7060-4e7a-8a70-e32191aef39d",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Uses",
+    "created_at": "2026-06-30T16:37:54.296059+00:00"
+  },
+  {
+    "id": "eecdb92c-f194-4ba5-a150-125ffe173301",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Proteins",
+    "created_at": "2026-06-30T16:38:49.226668+00:00"
+  },
+  {
+    "id": "1c514d61-f93a-44fd-8068-04d86faf5fba",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Enzymes",
+    "created_at": "2026-06-30T16:39:02.488845+00:00"
+  },
+  {
+    "id": "0d97972f-186f-44f3-931c-9822750c64f1",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Nucleic Acids",
+    "created_at": "2026-06-30T16:39:13.125009+00:00"
+  },
+  {
+    "id": "1d09ff4a-3604-48fa-aad1-8b9560dee20c",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Classification",
+    "created_at": "2026-06-30T16:37:15.060675+00:00"
+  },
+  {
+    "id": "f5733ef4-f2b8-4d4d-95d6-c3af5312892c",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Preparation",
+    "created_at": "2026-06-30T16:37:26.528661+00:00"
+  },
+  {
+    "id": "1fb099c6-5312-4396-be6e-70eb91aeb691",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Basic Character",
+    "created_at": "2026-06-30T16:37:37.805727+00:00"
+  },
+  {
+    "id": "cba4daf1-b984-4ae7-a39a-22b5b3ec87e1",
+    "chapter_id": "598fe2b3-e865-4dc5-a89a-061f20a82cf9",
+    "name": "Diazonium Salts",
+    "created_at": "2026-06-30T16:37:49.478242+00:00"
+  },
+  {
+    "id": "b9410b6e-b73d-4251-a69f-7dca6a7c8b0d",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Carbohydrates",
+    "created_at": "2026-06-30T16:38:44.089493+00:00"
+  },
+  {
+    "id": "8884dad0-90d4-425a-92a7-3ed3b35de1db",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Amino Acids",
+    "created_at": "2026-06-30T16:38:57.48576+00:00"
+  },
+  {
+    "id": "32af7031-e00e-4bca-bfad-7ae41b7f44ae",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Vitamins",
+    "created_at": "2026-06-30T16:39:07.243264+00:00"
+  },
+  {
+    "id": "b57778c9-b6bc-449d-bc79-18ce84874c1b",
+    "chapter_id": "c1ca13c8-2b88-4d07-a80d-5a398999f616",
+    "name": "Hormones",
+    "created_at": "2026-06-30T16:39:18.453045+00:00"
+  },
+  {
+    "id": "802eae98-cdb4-4e05-9560-63c37d18f99e",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Classification",
+    "created_at": "2026-06-30T16:40:26.81012+00:00"
+  },
+  {
+    "id": "738042d1-d8fe-4360-97d4-a2704c65f30e",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Polymerisation",
+    "created_at": "2026-06-30T16:40:32.882014+00:00"
+  },
+  {
+    "id": "b6f750d8-5dd9-4256-a4dc-3c5f4df21444",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Addition Polymers",
+    "created_at": "2026-06-30T16:40:38.954111+00:00"
+  },
+  {
+    "id": "7c21aa42-40fb-448e-8046-77b04ac0e7b9",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Condensation Polymers",
+    "created_at": "2026-06-30T16:40:49.942245+00:00"
+  },
+  {
+    "id": "e773fd86-25fc-46f2-b8ae-030cead6a726",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Natural Polymers",
+    "created_at": "2026-06-30T16:40:58.905413+00:00"
+  },
+  {
+    "id": "58c4455d-7925-48c8-9f87-fbc2bf2af48b",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Synthetic Polymers",
+    "created_at": "2026-06-30T16:41:07.061421+00:00"
+  },
+  {
+    "id": "a11c566a-5f6b-4788-96f3-45e177a83bdf",
+    "chapter_id": "39482fe1-7f43-416c-8047-465dde0ee309",
+    "name": "Biodegradable Polymers",
+    "created_at": "2026-06-30T16:41:13.27533+00:00"
+  }
+]
