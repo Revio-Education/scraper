@@ -1,0 +1,3650 @@
+{
+  "notes": [
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 1: Anaesthesia Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch1_p1.png",
+        "anaesthesia_ch1_p2.png",
+        "anaesthesia_ch1_p3.png",
+        "anaesthesia_ch1_p4.png",
+        "anaesthesia_ch1_p5.png",
+        "anaesthesia_ch1_p6.png"
+      ]
+    },
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 2: Anaesthesia Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch2_p7.png",
+        "anaesthesia_ch2_p8.png",
+        "anaesthesia_ch2_p9.png",
+        "anaesthesia_ch2_p10.png",
+        "anaesthesia_ch2_p11.png",
+        "anaesthesia_ch2_p12.png",
+        "anaesthesia_ch2_p13.png",
+        "anaesthesia_ch2_p14.png",
+        "anaesthesia_ch2_p15.png",
+        "anaesthesia_ch2_p16.png",
+        "anaesthesia_ch2_p17.png"
+      ]
+    },
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 3: Anaesthesia Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch3_p18.png",
+        "anaesthesia_ch3_p19.png",
+        "anaesthesia_ch3_p20.png",
+        "anaesthesia_ch3_p21.png",
+        "anaesthesia_ch3_p22.png"
+      ]
+    },
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 4: Anaesthesia Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch4_p23.png",
+        "anaesthesia_ch4_p24.png",
+        "anaesthesia_ch4_p25.png",
+        "anaesthesia_ch4_p26.png"
+      ]
+    },
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 5: Anaesthesia Revision - 5",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch5_p27.png",
+        "anaesthesia_ch5_p28.png",
+        "anaesthesia_ch5_p29.png",
+        "anaesthesia_ch5_p30.png",
+        "anaesthesia_ch5_p31.png",
+        "anaesthesia_ch5_p32.png",
+        "anaesthesia_ch5_p33.png"
+      ]
+    },
+    {
+      "subject": "Anaesthesia",
+      "chapter": "Chapter 6: Anaesthesia Revision - 6",
+      "type": "image_based",
+      "pages": [
+        "anaesthesia_ch6_p34.png",
+        "anaesthesia_ch6_p35.png",
+        "anaesthesia_ch6_p36.png",
+        "anaesthesia_ch6_p37.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 1: Embryology",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch1_p1.png",
+        "anatomy_ch1_p2.png",
+        "anatomy_ch1_p3.png",
+        "anatomy_ch1_p4.png",
+        "anatomy_ch1_p5.png",
+        "anatomy_ch1_p6.png",
+        "anatomy_ch1_p7.png",
+        "anatomy_ch1_p8.png",
+        "anatomy_ch1_p9.png",
+        "anatomy_ch1_p10.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 2: Thorax",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch2_p11.png",
+        "anatomy_ch2_p12.png",
+        "anatomy_ch2_p13.png",
+        "anatomy_ch2_p14.png",
+        "anatomy_ch2_p15.png",
+        "anatomy_ch3_p16.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 3: Abdomen",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch3_p17.png",
+        "anatomy_ch3_p18.png",
+        "anatomy_ch3_p19.png",
+        "anatomy_ch3_p20.png",
+        "anatomy_ch3_p21.png",
+        "anatomy_ch4_p22.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 4: Head, Neck and Face",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch4_p23.png",
+        "anatomy_ch4_p24.png",
+        "anatomy_ch4_p25.png",
+        "anatomy_ch4_p26.png",
+        "anatomy_ch4_p27.png",
+        "anatomy_ch4_p28.png",
+        "anatomy_ch4_p29.png",
+        "anatomy_ch5_p30.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 5: Neuroanatomy : Part 1",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch5_p31.png",
+        "anatomy_ch5_p32.png",
+        "anatomy_ch5_p33.png",
+        "anatomy_ch5_p34.png",
+        "anatomy_ch5_p35.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 6: Neuroanatomy : Part 2",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch6_p36.png",
+        "anatomy_ch6_p37.png",
+        "anatomy_ch6_p38.png",
+        "anatomy_ch6_p39.png",
+        "anatomy_ch6_p40.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 7: Upper Limb : Part 1",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch7_p41.png",
+        "anatomy_ch7_p42.png",
+        "anatomy_ch7_p43.png",
+        "anatomy_ch7_p44.png",
+        "anatomy_ch7_p45.png",
+        "anatomy_ch7_p46.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 8: Upper Limb : Part 2",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch8_p47.png",
+        "anatomy_ch8_p48.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 9: Lower Limb : Part 1",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch9_p49.png",
+        "anatomy_ch9_p50.png",
+        "anatomy_ch9_p51.png",
+        "anatomy_ch9_p52.png",
+        "anatomy_ch9_p53.png",
+        "anatomy_ch9_p54.png"
+      ]
+    },
+    {
+      "subject": "Anatomy",
+      "chapter": "Chapter 10: Lower Limb : Part 2",
+      "type": "image_based",
+      "pages": [
+        "anatomy_ch10_p55.png",
+        "anatomy_ch10_p56.png",
+        "anatomy_ch10_p57.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 1: Enzymes : Part 1",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch1_p1.png",
+        "biochemistry_ch1_p2.png",
+        "biochemistry_ch1_p3.png",
+        "biochemistry_ch1_p4.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 2: Enzymes : Part 2",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch2_p5.png",
+        "biochemistry_ch2_p6.png",
+        "biochemistry_ch2_p7.png",
+        "biochemistry_ch2_p8.png",
+        "biochemistry_ch2_p9.png",
+        "biochemistry_ch2_p10.png",
+        "biochemistry_ch2_p11.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 3: Carbohydrates : Introduction",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch3_p12.png",
+        "biochemistry_ch3_p13.png",
+        "biochemistry_ch3_p14.png",
+        "biochemistry_ch3_p15.png",
+        "biochemistry_ch3_p16.png",
+        "biochemistry_ch3_p17.png",
+        "biochemistry_ch3_p18.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 4: Metabolism of Carbohydrates : Part 1",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch4_p19.png",
+        "biochemistry_ch4_p20.png",
+        "biochemistry_ch4_p21.png",
+        "biochemistry_ch4_p22.png",
+        "biochemistry_ch4_p23.png",
+        "biochemistry_ch4_p24.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 5: Metabolism of Carbohydrates : Part 2",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch5_p25.png",
+        "biochemistry_ch5_p26.png",
+        "biochemistry_ch5_p27.png",
+        "biochemistry_ch5_p28.png",
+        "biochemistry_ch5_p29.png",
+        "biochemistry_ch5_p30.png",
+        "biochemistry_ch5_p31.png",
+        "biochemistry_ch5_p32.png",
+        "biochemistry_ch5_p33.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 6: Chemistry of Lipids and Phospholipids",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch6_p34.png",
+        "biochemistry_ch6_p35.png",
+        "biochemistry_ch6_p36.png",
+        "biochemistry_ch6_p37.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 7: Metabolism of Lipids",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch7_p38.png",
+        "biochemistry_ch7_p39.png",
+        "biochemistry_ch7_p40.png",
+        "biochemistry_ch7_p41.png",
+        "biochemistry_ch7_p42.png",
+        "biochemistry_ch7_p43.png",
+        "biochemistry_ch7_p44.png",
+        "biochemistry_ch7_p45.png",
+        "biochemistry_ch7_p46.png",
+        "biochemistry_ch7_p47.png",
+        "biochemistry_ch7_p48.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 8: Amino Acids : Part 1",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch8_p49.png",
+        "biochemistry_ch8_p50.png",
+        "biochemistry_ch8_p51.png",
+        "biochemistry_ch8_p52.png",
+        "biochemistry_ch8_p53.png",
+        "biochemistry_ch8_p54.png",
+        "biochemistry_ch8_p55.png",
+        "biochemistry_ch8_p56.png",
+        "biochemistry_ch8_p57.png",
+        "biochemistry_ch8_p58.png",
+        "biochemistry_ch8_p59.png",
+        "biochemistry_ch8_p60.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 9: Amino Acids : Part 2",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch9_p61.png",
+        "biochemistry_ch9_p62.png",
+        "biochemistry_ch9_p63.png",
+        "biochemistry_ch9_p64.png",
+        "biochemistry_ch9_p65.png",
+        "biochemistry_ch9_p66.png",
+        "biochemistry_ch9_p67.png",
+        "biochemistry_ch9_p68.png",
+        "biochemistry_ch9_p69.png",
+        "biochemistry_ch9_p70.png",
+        "biochemistry_ch9_p71.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 10: Molecular Biology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch10_p72.png",
+        "biochemistry_ch10_p73.png",
+        "biochemistry_ch10_p74.png",
+        "biochemistry_ch10_p75.png",
+        "biochemistry_ch10_p76.png",
+        "biochemistry_ch10_p77.png",
+        "biochemistry_ch10_p78.png",
+        "biochemistry_ch10_p79.png",
+        "biochemistry_ch10_p80.png",
+        "biochemistry_ch10_p81.png",
+        "biochemistry_ch10_p82.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 11: Molecular Biology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch11_p83.png",
+        "biochemistry_ch11_p84.png",
+        "biochemistry_ch11_p85.png",
+        "biochemistry_ch11_p86.png",
+        "biochemistry_ch11_p87.png",
+        "biochemistry_ch11_p88.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 12: Micronutrients: Vitamins and Minerals",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch12_p89.png",
+        "biochemistry_ch12_p90.png",
+        "biochemistry_ch12_p91.png",
+        "biochemistry_ch12_p92.png",
+        "biochemistry_ch12_p93.png",
+        "biochemistry_ch12_p94.png",
+        "biochemistry_ch12_p95.png",
+        "biochemistry_ch12_p96.png",
+        "biochemistry_ch12_p97.png",
+        "biochemistry_ch12_p98.png",
+        "biochemistry_ch12_p99.png"
+      ]
+    },
+    {
+      "subject": "Biochemistry",
+      "chapter": "Chapter 13: Miscellaneous Topics in Biochemistry",
+      "type": "image_based",
+      "pages": [
+        "biochemistry_ch13_p100.png",
+        "biochemistry_ch13_p101.png",
+        "biochemistry_ch13_p102.png",
+        "biochemistry_ch13_p103.png",
+        "biochemistry_ch13_p104.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 1: Demography",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch1_p1.png",
+        "community_medicine_ch1_p2.png",
+        "community_medicine_ch1_p3.png",
+        "community_medicine_ch1_p4.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 2: Family Planning",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch2_p5.png",
+        "community_medicine_ch2_p6.png",
+        "community_medicine_ch2_p7.png",
+        "community_medicine_ch2_p8.png",
+        "community_medicine_ch2_p9.png",
+        "community_medicine_ch2_p10.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 3: Health Care System in India",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch3_p11.png",
+        "community_medicine_ch3_p12.png",
+        "community_medicine_ch3_p13.png",
+        "community_medicine_ch3_p14.png",
+        "community_medicine_ch3_p15.png",
+        "community_medicine_ch3_p16.png",
+        "community_medicine_ch3_p17.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 4: Maternal and Child Health",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch4_p18.png",
+        "community_medicine_ch4_p19.png",
+        "community_medicine_ch4_p20.png",
+        "community_medicine_ch4_p21.png",
+        "community_medicine_ch4_p22.png",
+        "community_medicine_ch4_p23.png",
+        "community_medicine_ch4_p24.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 5: Preventive Paediatrics",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch5_p25.png",
+        "community_medicine_ch5_p26.png",
+        "community_medicine_ch5_p27.png",
+        "community_medicine_ch5_p28.png",
+        "community_medicine_ch5_p29.png",
+        "community_medicine_ch5_p30.png",
+        "community_medicine_ch5_p31.png",
+        "community_medicine_ch5_p32.png",
+        "community_medicine_ch5_p33.png",
+        "community_medicine_ch5_p34.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 6: NTEP and NACP",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch6_p35.png",
+        "community_medicine_ch6_p36.png",
+        "community_medicine_ch6_p37.png",
+        "community_medicine_ch6_p38.png",
+        "community_medicine_ch6_p39.png",
+        "community_medicine_ch6_p40.png",
+        "community_medicine_ch6_p41.png",
+        "community_medicine_ch6_p42.png",
+        "community_medicine_ch6_p43.png",
+        "community_medicine_ch6_p44.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 7: National Vector Borne Disease Control Programme",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch7_p45.png",
+        "community_medicine_ch7_p46.png",
+        "community_medicine_ch7_p47.png",
+        "community_medicine_ch7_p48.png",
+        "community_medicine_ch7_p49.png",
+        "community_medicine_ch7_p50.png",
+        "community_medicine_ch7_p51.png",
+        "community_medicine_ch7_p52.png",
+        "community_medicine_ch7_p53.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 8: Other National Health Programmes",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch8_p54.png",
+        "community_medicine_ch8_p55.png",
+        "community_medicine_ch8_p56.png",
+        "community_medicine_ch8_p57.png",
+        "community_medicine_ch8_p58.png",
+        "community_medicine_ch8_p59.png",
+        "community_medicine_ch8_p60.png",
+        "community_medicine_ch8_p61.png",
+        "community_medicine_ch8_p62.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 9: Epidemiology",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch9_p63.png",
+        "community_medicine_ch9_p64.png",
+        "community_medicine_ch9_p65.png",
+        "community_medicine_ch9_p66.png",
+        "community_medicine_ch9_p67.png",
+        "community_medicine_ch9_p68.png",
+        "community_medicine_ch9_p69.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 10: Screening of Disease",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch10_p70.png",
+        "community_medicine_ch10_p71.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 11: Biostatistics",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch11_p72.png",
+        "community_medicine_ch11_p73.png",
+        "community_medicine_ch11_p74.png",
+        "community_medicine_ch11_p75.png",
+        "community_medicine_ch11_p76.png",
+        "community_medicine_ch11_p77.png",
+        "community_medicine_ch11_p78.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 12: Infectious Disease Epidemiology",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch12_p79.png",
+        "community_medicine_ch12_p80.png",
+        "community_medicine_ch12_p81.png",
+        "community_medicine_ch12_p82.png",
+        "community_medicine_ch12_p83.png",
+        "community_medicine_ch12_p84.png",
+        "community_medicine_ch12_p85.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 13: Communicable Diseases",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch13_p86.png",
+        "community_medicine_ch13_p87.png",
+        "community_medicine_ch13_p88.png",
+        "community_medicine_ch13_p89.png",
+        "community_medicine_ch13_p90.png",
+        "community_medicine_ch13_p91.png",
+        "community_medicine_ch13_p92.png",
+        "community_medicine_ch13_p93.png",
+        "community_medicine_ch13_p94.png",
+        "community_medicine_ch13_p95.png",
+        "community_medicine_ch13_p96.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 14: Nutrition",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch14_p97.png",
+        "community_medicine_ch14_p98.png",
+        "community_medicine_ch14_p99.png",
+        "community_medicine_ch14_p100.png",
+        "community_medicine_ch14_p101.png",
+        "community_medicine_ch14_p102.png",
+        "community_medicine_ch14_p103.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 15: Environment",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch15_p104.png",
+        "community_medicine_ch15_p105.png",
+        "community_medicine_ch15_p106.png",
+        "community_medicine_ch15_p107.png",
+        "community_medicine_ch15_p108.png",
+        "community_medicine_ch15_p109.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 16: Miscellaneous Topics in Community Medicine",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch16_p110.png",
+        "community_medicine_ch16_p111.png",
+        "community_medicine_ch16_p112.png",
+        "community_medicine_ch16_p113.png",
+        "community_medicine_ch16_p114.png",
+        "community_medicine_ch16_p115.png",
+        "community_medicine_ch16_p116.png",
+        "community_medicine_ch16_p117.png",
+        "community_medicine_ch16_p118.png",
+        "community_medicine_ch16_p119.png",
+        "community_medicine_ch16_p120.png"
+      ]
+    },
+    {
+      "subject": "Community Medicine",
+      "chapter": "Chapter 17: Recent Updates in Community Medicine, and ESI Scheme",
+      "type": "image_based",
+      "pages": [
+        "community_medicine_ch17_p121.png",
+        "community_medicine_ch17_p122.png",
+        "community_medicine_ch17_p123.png",
+        "community_medicine_ch17_p124.png",
+        "community_medicine_ch17_p125.png",
+        "community_medicine_ch17_p126.png"
+      ]
+    },
+    {
+      "subject": "Dermatology",
+      "chapter": "Chapter 1: Dermatology Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "dermatology_ch1_p1.png",
+        "dermatology_ch1_p2.png",
+        "dermatology_ch1_p3.png",
+        "dermatology_ch1_p4.png",
+        "dermatology_ch1_p5.png",
+        "dermatology_ch1_p6.png",
+        "dermatology_ch1_p7.png",
+        "dermatology_ch1_p8.png",
+        "dermatology_ch1_p9.png",
+        "dermatology_ch1_p10.png",
+        "dermatology_ch1_p11.png",
+        "dermatology_ch1_p12.png",
+        "dermatology_ch1_p13.png"
+      ]
+    },
+    {
+      "subject": "Dermatology",
+      "chapter": "Chapter 2: Dermatology Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "dermatology_ch2_p14.png",
+        "dermatology_ch2_p15.png",
+        "dermatology_ch2_p16.png",
+        "dermatology_ch2_p17.png",
+        "dermatology_ch2_p18.png",
+        "dermatology_ch2_p19.png",
+        "dermatology_ch2_p20.png",
+        "dermatology_ch2_p21.png",
+        "dermatology_ch2_p22.png",
+        "dermatology_ch2_p23.png",
+        "dermatology_ch2_p24.png",
+        "dermatology_ch2_p25.png"
+      ]
+    },
+    {
+      "subject": "Dermatology",
+      "chapter": "Chapter 3: Dermatology Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "dermatology_ch3_p26.png",
+        "dermatology_ch3_p27.png",
+        "dermatology_ch3_p28.png",
+        "dermatology_ch3_p29.png",
+        "dermatology_ch3_p30.png",
+        "dermatology_ch3_p31.png",
+        "dermatology_ch3_p32.png",
+        "dermatology_ch3_p33.png",
+        "dermatology_ch3_p34.png",
+        "dermatology_ch3_p35.png",
+        "dermatology_ch3_p36.png",
+        "dermatology_ch3_p37.png"
+      ]
+    },
+    {
+      "subject": "Dermatology",
+      "chapter": "Chapter 4: Dermatology Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "dermatology_ch4_p38.png",
+        "dermatology_ch4_p39.png",
+        "dermatology_ch4_p40.png",
+        "dermatology_ch4_p41.png",
+        "dermatology_ch4_p42.png",
+        "dermatology_ch4_p43.png",
+        "dermatology_ch4_p44.png",
+        "dermatology_ch4_p45.png",
+        "dermatology_ch4_p46.png",
+        "dermatology_ch4_p47.png"
+      ]
+    },
+    {
+      "subject": "Dermatology",
+      "chapter": "Chapter 5: Dermatology Revision - 5",
+      "type": "image_based",
+      "pages": [
+        "dermatology_ch5_p48.png",
+        "dermatology_ch5_p49.png",
+        "dermatology_ch5_p50.png",
+        "dermatology_ch5_p51.png",
+        "dermatology_ch5_p52.png",
+        "dermatology_ch5_p53.png",
+        "dermatology_ch5_p54.png",
+        "dermatology_ch5_p55.png",
+        "dermatology_ch5_p56.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 1: Ear : Part 1",
+      "type": "image_based",
+      "pages": [
+        "ent_ch1_p1.png",
+        "ent_ch1_p2.png",
+        "ent_ch1_p3.png",
+        "ent_ch1_p4.png",
+        "ent_ch1_p5.png",
+        "ent_ch1_p6.png",
+        "ent_ch1_p7.png",
+        "ent_ch1_p8.png",
+        "ent_ch1_p9.png",
+        "ent_ch1_p10.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 2: Ear : Part 2",
+      "type": "image_based",
+      "pages": [
+        "ent_ch2_p11.png",
+        "ent_ch2_p12.png",
+        "ent_ch2_p13.png",
+        "ent_ch2_p14.png",
+        "ent_ch2_p15.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 3: Ear : Part 3",
+      "type": "image_based",
+      "pages": [
+        "ent_ch3_p16.png",
+        "ent_ch3_p17.png",
+        "ent_ch3_p18.png",
+        "ent_ch3_p19.png",
+        "ent_ch3_p20.png",
+        "ent_ch3_p21.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 4: Ear : Part 4",
+      "type": "image_based",
+      "pages": [
+        "ent_ch4_p22.png",
+        "ent_ch4_p23.png",
+        "ent_ch4_p24.png",
+        "ent_ch4_p25.png",
+        "ent_ch4_p26.png",
+        "ent_ch4_p27.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 5: Ear : Part 5",
+      "type": "image_based",
+      "pages": [
+        "ent_ch5_p28.png",
+        "ent_ch5_p29.png",
+        "ent_ch5_p30.png",
+        "ent_ch5_p31.png",
+        "ent_ch5_p32.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 6: Ear : Part 6",
+      "type": "image_based",
+      "pages": [
+        "ent_ch6_p33.png",
+        "ent_ch6_p34.png",
+        "ent_ch6_p35.png",
+        "ent_ch6_p36.png",
+        "ent_ch6_p37.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 7: Ear : Part 7",
+      "type": "image_based",
+      "pages": [
+        "ent_ch7_p38.png",
+        "ent_ch7_p39.png",
+        "ent_ch7_p40.png",
+        "ent_ch7_p41.png",
+        "ent_ch7_p42.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 8: Ear : Part 8",
+      "type": "image_based",
+      "pages": [
+        "ent_ch8_p43.png",
+        "ent_ch8_p44.png",
+        "ent_ch8_p45.png",
+        "ent_ch8_p46.png",
+        "ent_ch8_p47.png",
+        "ent_ch8_p48.png",
+        "ent_ch8_p49.png",
+        "ent_ch8_p50.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 9: Nose : Part 1",
+      "type": "image_based",
+      "pages": [
+        "ent_ch9_p51.png",
+        "ent_ch9_p52.png",
+        "ent_ch9_p53.png",
+        "ent_ch9_p54.png",
+        "ent_ch9_p55.png",
+        "ent_ch9_p56.png",
+        "ent_ch9_p57.png",
+        "ent_ch9_p58.png",
+        "ent_ch9_p59.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 10: Nose : Part 2",
+      "type": "image_based",
+      "pages": [
+        "ent_ch10_p60.png",
+        "ent_ch10_p61.png",
+        "ent_ch10_p62.png",
+        "ent_ch10_p63.png",
+        "ent_ch10_p64.png",
+        "ent_ch10_p65.png",
+        "ent_ch10_p66.png",
+        "ent_ch10_p67.png",
+        "ent_ch10_p68.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 11: Nose : Part 3",
+      "type": "image_based",
+      "pages": [
+        "ent_ch11_p69.png",
+        "ent_ch11_p70.png",
+        "ent_ch11_p71.png",
+        "ent_ch11_p72.png",
+        "ent_ch11_p73.png",
+        "ent_ch11_p74.png",
+        "ent_ch11_p75.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 12: Nose : Part 4",
+      "type": "image_based",
+      "pages": [
+        "ent_ch12_p76.png",
+        "ent_ch12_p77.png",
+        "ent_ch12_p78.png",
+        "ent_ch12_p79.png",
+        "ent_ch12_p80.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 13: Pharynx : Part 1",
+      "type": "image_based",
+      "pages": [
+        "ent_ch13_p81.png",
+        "ent_ch13_p82.png",
+        "ent_ch13_p83.png",
+        "ent_ch13_p84.png",
+        "ent_ch13_p85.png",
+        "ent_ch13_p86.png",
+        "ent_ch13_p87.png",
+        "ent_ch13_p88.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 14: Pharynx : Part 2",
+      "type": "image_based",
+      "pages": [
+        "ent_ch14_p89.png",
+        "ent_ch14_p90.png",
+        "ent_ch14_p91.png",
+        "ent_ch14_p92.png",
+        "ent_ch14_p93.png",
+        "ent_ch14_p94.png",
+        "ent_ch14_p95.png",
+        "ent_ch14_p96.png",
+        "ent_ch14_p97.png",
+        "ent_ch14_p98.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 15: Larynx : Part 1",
+      "type": "image_based",
+      "pages": [
+        "ent_ch15_p99.png",
+        "ent_ch15_p100.png",
+        "ent_ch15_p101.png",
+        "ent_ch15_p102.png",
+        "ent_ch15_p103.png",
+        "ent_ch15_p104.png",
+        "ent_ch15_p105.png",
+        "ent_ch15_p106.png",
+        "ent_ch15_p107.png"
+      ]
+    },
+    {
+      "subject": "ENT",
+      "chapter": "Chapter 16: Larynx : Part 2",
+      "type": "image_based",
+      "pages": [
+        "ent_ch16_p108.png",
+        "ent_ch16_p109.png",
+        "ent_ch16_p110.png",
+        "ent_ch16_p111.png",
+        "ent_ch16_p112.png",
+        "ent_ch16_p113.png",
+        "ent_ch16_p114.png",
+        "ent_ch16_p115.png",
+        "ent_ch16_p116.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 1: Traumatology : Mechanical and Regional Injuries",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch1_p1.png",
+        "fmt_ch1_p2.png",
+        "fmt_ch1_p3.png",
+        "fmt_ch1_p4.png",
+        "fmt_ch1_p5.png",
+        "fmt_ch1_p6.png",
+        "fmt_ch1_p7.png",
+        "fmt_ch1_p8.png",
+        "fmt_ch1_p9.png",
+        "fmt_ch1_p10.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 2: Traumatology : Thermal Injuries and Miscellaneous",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch2_p11.png",
+        "fmt_ch2_p12.png",
+        "fmt_ch2_p13.png",
+        "fmt_ch2_p14.png",
+        "fmt_ch2_p15.png",
+        "fmt_ch2_p16.png",
+        "fmt_ch2_p17.png",
+        "fmt_ch2_p18.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 3: Forensic Ballistics",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch3_p19.png",
+        "fmt_ch3_p20.png",
+        "fmt_ch3_p21.png",
+        "fmt_ch3_p22.png",
+        "fmt_ch3_p23.png",
+        "fmt_ch3_p24.png",
+        "fmt_ch3_p25.png",
+        "fmt_ch3_p26.png",
+        "fmt_ch3_p27.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 4: Medical Jurisprudence",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch4_p28.png",
+        "fmt_ch4_p29.png",
+        "fmt_ch4_p30.png",
+        "fmt_ch4_p31.png",
+        "fmt_ch4_p32.png",
+        "fmt_ch4_p33.png",
+        "fmt_ch4_p34.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 5: Autopsy Procedures and Thanatology",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch5_p35.png",
+        "fmt_ch5_p36.png",
+        "fmt_ch5_p37.png",
+        "fmt_ch5_p38.png",
+        "fmt_ch5_p39.png",
+        "fmt_ch5_p40.png",
+        "fmt_ch5_p41.png",
+        "fmt_ch5_p42.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 6: Human Identification",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch6_p43.png",
+        "fmt_ch6_p44.png",
+        "fmt_ch6_p45.png",
+        "fmt_ch6_p46.png",
+        "fmt_ch6_p47.png",
+        "fmt_ch6_p48.png",
+        "fmt_ch6_p49.png",
+        "fmt_ch6_p50.png",
+        "fmt_ch6_p51.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 7: Asphyxial Deaths",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch7_p52.png",
+        "fmt_ch7_p53.png",
+        "fmt_ch7_p54.png",
+        "fmt_ch7_p55.png",
+        "fmt_ch7_p56.png",
+        "fmt_ch7_p57.png",
+        "fmt_ch7_p58.png",
+        "fmt_ch7_p59.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 8: Sexual Jurisprudence and Trace Evidence",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch8_p60.png",
+        "fmt_ch8_p61.png",
+        "fmt_ch8_p62.png",
+        "fmt_ch8_p63.png",
+        "fmt_ch8_p64.png",
+        "fmt_ch8_p65.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 9: Toxicology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch9_p66.png",
+        "fmt_ch9_p67.png",
+        "fmt_ch9_p68.png",
+        "fmt_ch9_p69.png",
+        "fmt_ch9_p70.png",
+        "fmt_ch9_p71.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 10: Toxicology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch10_p72.png",
+        "fmt_ch10_p73.png",
+        "fmt_ch10_p74.png",
+        "fmt_ch10_p75.png",
+        "fmt_ch10_p76.png",
+        "fmt_ch10_p77.png",
+        "fmt_ch10_p78.png",
+        "fmt_ch10_p79.png",
+        "fmt_ch10_p80.png"
+      ]
+    },
+    {
+      "subject": "FMT",
+      "chapter": "Chapter 11: Legal Sections",
+      "type": "image_based",
+      "pages": [
+        "fmt_ch11_p81.png",
+        "fmt_ch11_p82.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 1: Integrated Medicine : Part 1",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch1_p1.png",
+        "integrated_medicine_ch1_p2.png",
+        "integrated_medicine_ch1_p3.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 2: Integrated Medicine : Part 2",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch2_p4.png",
+        "integrated_medicine_ch2_p5.png",
+        "integrated_medicine_ch2_p6.png",
+        "integrated_medicine_ch2_p7.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 3: Integrated Medicine : Part 3",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch3_p8.png",
+        "integrated_medicine_ch3_p9.png",
+        "integrated_medicine_ch3_p10.png",
+        "integrated_medicine_ch3_p11.png",
+        "integrated_medicine_ch3_p12.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 4: Integrated Medicine : Part 4",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch4_p13.png",
+        "integrated_medicine_ch4_p14.png",
+        "integrated_medicine_ch4_p15.png",
+        "integrated_medicine_ch4_p16.png",
+        "integrated_medicine_ch4_p17.png",
+        "integrated_medicine_ch4_p18.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 5: Integrated Medicine : Part 5",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch5_p19.png",
+        "integrated_medicine_ch5_p20.png",
+        "integrated_medicine_ch5_p21.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 6: Integrated Medicine : Part 6",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch6_p22.png",
+        "integrated_medicine_ch6_p23.png",
+        "integrated_medicine_ch6_p24.png",
+        "integrated_medicine_ch6_p25.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 7: Integrated Medicine : Part 7",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch7_p26.png",
+        "integrated_medicine_ch7_p27.png",
+        "integrated_medicine_ch7_p28.png",
+        "integrated_medicine_ch7_p29.png"
+      ]
+    },
+    {
+      "subject": "Integrated Medicine",
+      "chapter": "Chapter 8: Integrated Medicine : Part 8",
+      "type": "image_based",
+      "pages": [
+        "integrated_medicine_ch8_p30.png",
+        "integrated_medicine_ch8_p31.png",
+        "integrated_medicine_ch8_p32.png",
+        "integrated_medicine_ch8_p33.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 1: CVS Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch1_p1.png",
+        "medicine_ch1_p2.png",
+        "medicine_ch1_p3.png",
+        "medicine_ch1_p4.png",
+        "medicine_ch1_p5.png",
+        "medicine_ch1_p6.png",
+        "medicine_ch1_p7.png",
+        "medicine_ch1_p8.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 2: CVS Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch2_p9.png",
+        "medicine_ch2_p10.png",
+        "medicine_ch2_p11.png",
+        "medicine_ch2_p12.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 3: CVS Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch3_p13.png",
+        "medicine_ch3_p14.png",
+        "medicine_ch3_p15.png",
+        "medicine_ch3_p16.png",
+        "medicine_ch3_p17.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 4: CVS Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch4_p18.png",
+        "medicine_ch4_p19.png",
+        "medicine_ch4_p20.png",
+        "medicine_ch4_p21.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 5: CVS Revision - 5",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch5_p22.png",
+        "medicine_ch5_p23.png",
+        "medicine_ch5_p24.png",
+        "medicine_ch5_p25.png",
+        "medicine_ch5_p26.png",
+        "medicine_ch5_p27.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 6: RS Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch6_p28.png",
+        "medicine_ch6_p29.png",
+        "medicine_ch6_p30.png",
+        "medicine_ch6_p31.png",
+        "medicine_ch6_p32.png",
+        "medicine_ch6_p33.png",
+        "medicine_ch6_p34.png",
+        "medicine_ch6_p35.png",
+        "medicine_ch6_p36.png",
+        "medicine_ch6_p37.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 7: RS Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch7_p38.png",
+        "medicine_ch7_p39.png",
+        "medicine_ch7_p40.png",
+        "medicine_ch7_p41.png",
+        "medicine_ch7_p42.png",
+        "medicine_ch7_p43.png",
+        "medicine_ch7_p44.png",
+        "medicine_ch7_p45.png",
+        "medicine_ch7_p46.png",
+        "medicine_ch7_p47.png",
+        "medicine_ch7_p48.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 8: RS Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch8_p49.png",
+        "medicine_ch8_p50.png",
+        "medicine_ch8_p51.png",
+        "medicine_ch8_p52.png",
+        "medicine_ch8_p53.png",
+        "medicine_ch8_p54.png",
+        "medicine_ch8_p55.png",
+        "medicine_ch8_p56.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 9: Rheumatology Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch9_p57.png",
+        "medicine_ch9_p58.png",
+        "medicine_ch9_p59.png",
+        "medicine_ch9_p60.png",
+        "medicine_ch9_p61.png",
+        "medicine_ch9_p62.png",
+        "medicine_ch9_p63.png",
+        "medicine_ch9_p64.png",
+        "medicine_ch9_p65.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 10: Rheumatology Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch10_p66.png",
+        "medicine_ch10_p67.png",
+        "medicine_ch10_p68.png",
+        "medicine_ch10_p69.png",
+        "medicine_ch10_p70.png",
+        "medicine_ch10_p71.png",
+        "medicine_ch10_p72.png",
+        "medicine_ch10_p73.png",
+        "medicine_ch10_p74.png",
+        "medicine_ch10_p75.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 11: Rheumatology Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch11_p76.png",
+        "medicine_ch11_p77.png",
+        "medicine_ch11_p78.png",
+        "medicine_ch11_p79.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 12: Rheumatology Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch12_p80.png",
+        "medicine_ch12_p81.png",
+        "medicine_ch12_p82.png",
+        "medicine_ch12_p83.png",
+        "medicine_ch12_p84.png",
+        "medicine_ch12_p85.png",
+        "medicine_ch12_p86.png",
+        "medicine_ch12_p87.png",
+        "medicine_ch12_p88.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 13: Haematology Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch13_p89.png",
+        "medicine_ch13_p90.png",
+        "medicine_ch13_p91.png",
+        "medicine_ch13_p92.png",
+        "medicine_ch13_p93.png",
+        "medicine_ch13_p94.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 14: Haematology Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch14_p95.png",
+        "medicine_ch14_p96.png",
+        "medicine_ch14_p97.png",
+        "medicine_ch14_p98.png",
+        "medicine_ch14_p99.png",
+        "medicine_ch14_p100.png",
+        "medicine_ch14_p101.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 15: Haematology Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch15_p102.png",
+        "medicine_ch15_p103.png",
+        "medicine_ch15_p104.png",
+        "medicine_ch15_p105.png",
+        "medicine_ch15_p106.png",
+        "medicine_ch15_p107.png",
+        "medicine_ch15_p108.png",
+        "medicine_ch15_p109.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 16: Haematology Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch16_p110.png",
+        "medicine_ch16_p111.png",
+        "medicine_ch16_p112.png",
+        "medicine_ch16_p113.png",
+        "medicine_ch16_p114.png",
+        "medicine_ch16_p115.png",
+        "medicine_ch16_p116.png",
+        "medicine_ch16_p117.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 17: Endocrinology Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch17_p118.png",
+        "medicine_ch17_p119.png",
+        "medicine_ch17_p120.png",
+        "medicine_ch17_p121.png",
+        "medicine_ch17_p122.png",
+        "medicine_ch17_p123.png",
+        "medicine_ch17_p124.png",
+        "medicine_ch17_p125.png",
+        "medicine_ch17_p126.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 18: Endocrinology Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch18_p127.png",
+        "medicine_ch18_p128.png",
+        "medicine_ch18_p129.png",
+        "medicine_ch18_p130.png",
+        "medicine_ch18_p131.png",
+        "medicine_ch18_p132.png",
+        "medicine_ch18_p133.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 19: Endocrinology Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch19_p134.png",
+        "medicine_ch19_p135.png",
+        "medicine_ch19_p136.png",
+        "medicine_ch19_p137.png",
+        "medicine_ch19_p138.png",
+        "medicine_ch19_p139.png",
+        "medicine_ch19_p140.png",
+        "medicine_ch19_p141.png",
+        "medicine_ch19_p142.png",
+        "medicine_ch19_p143.png",
+        "medicine_ch19_p144.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 20: Endocrinology Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch20_p145.png",
+        "medicine_ch20_p146.png",
+        "medicine_ch20_p147.png",
+        "medicine_ch20_p148.png",
+        "medicine_ch20_p149.png",
+        "medicine_ch20_p150.png",
+        "medicine_ch20_p151.png",
+        "medicine_ch20_p152.png",
+        "medicine_ch20_p153.png",
+        "medicine_ch20_p154.png",
+        "medicine_ch20_p155.png",
+        "medicine_ch20_p156.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 21: CNS Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch21_p157.png",
+        "medicine_ch21_p158.png",
+        "medicine_ch21_p159.png",
+        "medicine_ch21_p160.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 22: CNS Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch22_p161.png",
+        "medicine_ch22_p162.png",
+        "medicine_ch22_p163.png",
+        "medicine_ch22_p164.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 23: CNS Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch23_p165.png",
+        "medicine_ch23_p166.png",
+        "medicine_ch23_p167.png",
+        "medicine_ch23_p168.png",
+        "medicine_ch23_p169.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 24: CNS Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch24_p170.png",
+        "medicine_ch24_p171.png",
+        "medicine_ch24_p172.png",
+        "medicine_ch24_p173.png",
+        "medicine_ch24_p174.png",
+        "medicine_ch24_p175.png"
+      ]
+    },
+    {
+      "subject": "Medicine",
+      "chapter": "Chapter 25: CNS Revision - 5",
+      "type": "image_based",
+      "pages": [
+        "medicine_ch25_p176.png",
+        "medicine_ch25_p177.png",
+        "medicine_ch25_p178.png",
+        "medicine_ch25_p179.png",
+        "medicine_ch25_p180.png",
+        "medicine_ch25_p181.png",
+        "medicine_ch25_p182.png",
+        "medicine_ch25_p183.png",
+        "medicine_ch25_p184.png",
+        "medicine_ch25_p185.png",
+        "medicine_ch25_p186.png",
+        "medicine_ch25_p187.png",
+        "medicine_ch25_p188.png",
+        "medicine_ch25_p189.png",
+        "medicine_ch25_p190.png",
+        "medicine_ch25_p191.png",
+        "medicine_ch25_p192.png",
+        "medicine_ch25_p193.png",
+        "medicine_ch25_p194.png",
+        "medicine_ch25_p195.png",
+        "medicine_ch25_p196.png",
+        "medicine_ch25_p197.png",
+        "medicine_ch25_p198.png",
+        "medicine_ch25_p199.png",
+        "medicine_ch25_p200.png",
+        "medicine_ch25_p201.png",
+        "medicine_ch25_p202.png",
+        "medicine_ch25_p203.png",
+        "medicine_ch25_p204.png",
+        "medicine_ch25_p205.png",
+        "medicine_ch25_p206.png",
+        "medicine_ch25_p207.png",
+        "medicine_ch25_p208.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 1: General Microbiology",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch1_p1.png",
+        "microbiology_ch1_p2.png",
+        "microbiology_ch1_p3.png",
+        "microbiology_ch1_p4.png",
+        "microbiology_ch1_p5.png",
+        "microbiology_ch1_p6.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 2: Hospital Infection Control",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch2_p7.png",
+        "microbiology_ch2_p8.png",
+        "microbiology_ch2_p9.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 3: Immunology",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch3_p10.png",
+        "microbiology_ch3_p11.png",
+        "microbiology_ch3_p12.png",
+        "microbiology_ch3_p13.png",
+        "microbiology_ch3_p14.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 4: Laboratory Diagnosis of Infections : Bacterial and Fungal",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch4_p15.png",
+        "microbiology_ch4_p16.png",
+        "microbiology_ch4_p17.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 5: Laboratory Diagnosis of Infections : Viral and Parasitic",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch5_p18.png",
+        "microbiology_ch5_p19.png",
+        "microbiology_ch5_p20.png",
+        "microbiology_ch5_p21.png",
+        "microbiology_ch5_p22.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 6: Central Nervous System",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch6_p23.png",
+        "microbiology_ch6_p24.png",
+        "microbiology_ch6_p25.png",
+        "microbiology_ch6_p26.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 7: Cardiovascular System : Infections of Heart",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch7_p27.png",
+        "microbiology_ch7_p28.png",
+        "microbiology_ch7_p29.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 8: Cardiovascular System : Bloodstream and Lymphatic Infections",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch8_p30.png",
+        "microbiology_ch8_p31.png",
+        "microbiology_ch8_p32.png",
+        "microbiology_ch8_p33.png",
+        "microbiology_ch8_p34.png",
+        "microbiology_ch8_p35.png",
+        "microbiology_ch8_p36.png",
+        "microbiology_ch8_p37.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 9: Respiratory System",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch9_p38.png",
+        "microbiology_ch9_p39.png",
+        "microbiology_ch9_p40.png",
+        "microbiology_ch9_p41.png",
+        "microbiology_ch9_p42.png",
+        "microbiology_ch9_p43.png",
+        "microbiology_ch9_p44.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 10: Gastrointestinal and Hepatobiliary System",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch10_p45.png",
+        "microbiology_ch10_p46.png",
+        "microbiology_ch10_p47.png",
+        "microbiology_ch10_p48.png",
+        "microbiology_ch10_p49.png",
+        "microbiology_ch10_p50.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 11: Genitourinary System",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch11_p51.png",
+        "microbiology_ch11_p52.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 12: Skin, Subcutaneous and Musculoskeletal System",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch12_p53.png",
+        "microbiology_ch12_p54.png",
+        "microbiology_ch12_p55.png",
+        "microbiology_ch12_p56.png",
+        "microbiology_ch12_p57.png",
+        "microbiology_ch12_p58.png",
+        "microbiology_ch12_p59.png"
+      ]
+    },
+    {
+      "subject": "Microbiology",
+      "chapter": "Chapter 13: Miscellaneous Infections",
+      "type": "image_based",
+      "pages": [
+        "microbiology_ch13_p60.png",
+        "microbiology_ch13_p61.png",
+        "microbiology_ch13_p62.png",
+        "microbiology_ch13_p63.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 1: Gynaecology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch1_p1.png",
+        "obgy_ch1_p2.png",
+        "obgy_ch1_p3.png",
+        "obgy_ch1_p4.png",
+        "obgy_ch1_p5.png",
+        "obgy_ch1_p6.png",
+        "obgy_ch1_p7.png",
+        "obgy_ch1_p8.png",
+        "obgy_ch1_p9.png",
+        "obgy_ch1_p10.png",
+        "obgy_ch1_p11.png",
+        "obgy_ch1_p12.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 2: Gynaecology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch2_p13.png",
+        "obgy_ch2_p14.png",
+        "obgy_ch2_p15.png",
+        "obgy_ch2_p16.png",
+        "obgy_ch2_p17.png",
+        "obgy_ch2_p18.png",
+        "obgy_ch2_p19.png",
+        "obgy_ch2_p20.png",
+        "obgy_ch2_p21.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 3: Gynaecology : Part 3",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch3_p22.png",
+        "obgy_ch3_p23.png",
+        "obgy_ch3_p24.png",
+        "obgy_ch3_p25.png",
+        "obgy_ch3_p26.png",
+        "obgy_ch3_p27.png",
+        "obgy_ch3_p28.png",
+        "obgy_ch3_p29.png",
+        "obgy_ch3_p30.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 4: Gynaecology : Part 4",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch4_p31.png",
+        "obgy_ch4_p32.png",
+        "obgy_ch4_p33.png",
+        "obgy_ch4_p34.png",
+        "obgy_ch4_p35.png",
+        "obgy_ch4_p36.png",
+        "obgy_ch4_p37.png",
+        "obgy_ch4_p38.png",
+        "obgy_ch4_p39.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 5: Gynaecology : Part 5",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch5_p40.png",
+        "obgy_ch5_p41.png",
+        "obgy_ch5_p42.png",
+        "obgy_ch5_p43.png",
+        "obgy_ch5_p44.png",
+        "obgy_ch5_p45.png",
+        "obgy_ch5_p46.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 6: Gynaecology : Part 6",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch6_p47.png",
+        "obgy_ch6_p48.png",
+        "obgy_ch6_p49.png",
+        "obgy_ch6_p50.png",
+        "obgy_ch6_p51.png",
+        "obgy_ch6_p52.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 7: Gynaecology : Part 7",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch7_p53.png",
+        "obgy_ch7_p54.png",
+        "obgy_ch7_p55.png",
+        "obgy_ch7_p56.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 8: Gynaecology : Part 8",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch8_p57.png",
+        "obgy_ch8_p58.png",
+        "obgy_ch8_p59.png",
+        "obgy_ch8_p60.png",
+        "obgy_ch8_p61.png",
+        "obgy_ch8_p62.png",
+        "obgy_ch8_p63.png",
+        "obgy_ch8_p64.png",
+        "obgy_ch8_p65.png",
+        "obgy_ch8_p66.png",
+        "obgy_ch8_p67.png",
+        "obgy_ch8_p68.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 9: Gynaecology : Part 9",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch9_p69.png",
+        "obgy_ch9_p70.png",
+        "obgy_ch9_p71.png",
+        "obgy_ch9_p72.png",
+        "obgy_ch9_p73.png",
+        "obgy_ch9_p74.png",
+        "obgy_ch9_p75.png",
+        "obgy_ch9_p76.png",
+        "obgy_ch9_p77.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 10: Gynaecology : Part 10",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch10_p78.png",
+        "obgy_ch10_p79.png",
+        "obgy_ch10_p80.png",
+        "obgy_ch10_p81.png",
+        "obgy_ch10_p82.png",
+        "obgy_ch10_p83.png",
+        "obgy_ch10_p84.png",
+        "obgy_ch10_p85.png",
+        "obgy_ch10_p86.png",
+        "obgy_ch10_p87.png",
+        "obgy_ch10_p88.png",
+        "obgy_ch10_p89.png",
+        "obgy_ch10_p90.png",
+        "obgy_ch10_p91.png",
+        "obgy_ch10_p92.png",
+        "obgy_ch10_p93.png",
+        "obgy_ch10_p94.png",
+        "obgy_ch10_p95.png",
+        "obgy_ch10_p96.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 11: Obstetrics : Part 1",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch11_p97.png",
+        "obgy_ch11_p98.png",
+        "obgy_ch11_p99.png",
+        "obgy_ch11_p100.png",
+        "obgy_ch11_p101.png",
+        "obgy_ch11_p102.png",
+        "obgy_ch11_p103.png",
+        "obgy_ch11_p104.png",
+        "obgy_ch11_p105.png",
+        "obgy_ch11_p106.png",
+        "obgy_ch11_p107.png",
+        "obgy_ch11_p108.png",
+        "obgy_ch11_p109.png",
+        "obgy_ch11_p110.png",
+        "obgy_ch11_p111.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 12: Obstetrics : Part 2",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch12_p112.png",
+        "obgy_ch12_p113.png",
+        "obgy_ch12_p114.png",
+        "obgy_ch12_p115.png",
+        "obgy_ch12_p116.png",
+        "obgy_ch12_p117.png",
+        "obgy_ch12_p118.png",
+        "obgy_ch12_p119.png",
+        "obgy_ch12_p120.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 13: Obstetrics : Part 3",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch13_p121.png",
+        "obgy_ch13_p122.png",
+        "obgy_ch13_p123.png",
+        "obgy_ch13_p124.png",
+        "obgy_ch13_p125.png",
+        "obgy_ch13_p126.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 14: Obstetrics : Part 4",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch14_p127.png",
+        "obgy_ch14_p128.png",
+        "obgy_ch14_p129.png",
+        "obgy_ch14_p130.png",
+        "obgy_ch14_p131.png",
+        "obgy_ch14_p132.png",
+        "obgy_ch14_p133.png",
+        "obgy_ch14_p134.png",
+        "obgy_ch14_p135.png",
+        "obgy_ch14_p136.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 15: Obstetrics : Part 5",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch15_p137.png",
+        "obgy_ch15_p138.png",
+        "obgy_ch15_p139.png",
+        "obgy_ch15_p140.png",
+        "obgy_ch15_p141.png",
+        "obgy_ch15_p142.png",
+        "obgy_ch15_p143.png",
+        "obgy_ch15_p144.png",
+        "obgy_ch15_p145.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 16: Obstetrics : Part 6",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch16_p146.png",
+        "obgy_ch16_p147.png",
+        "obgy_ch16_p148.png",
+        "obgy_ch16_p149.png",
+        "obgy_ch16_p150.png",
+        "obgy_ch16_p151.png",
+        "obgy_ch16_p152.png",
+        "obgy_ch16_p153.png",
+        "obgy_ch16_p154.png",
+        "obgy_ch16_p155.png",
+        "obgy_ch16_p156.png",
+        "obgy_ch16_p157.png",
+        "obgy_ch16_p158.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 17: Obstetrics : Part 7",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch17_p159.png",
+        "obgy_ch17_p160.png",
+        "obgy_ch17_p161.png",
+        "obgy_ch17_p162.png",
+        "obgy_ch17_p163.png",
+        "obgy_ch17_p164.png",
+        "obgy_ch17_p165.png",
+        "obgy_ch17_p166.png",
+        "obgy_ch17_p167.png",
+        "obgy_ch17_p168.png",
+        "obgy_ch17_p169.png",
+        "obgy_ch17_p170.png",
+        "obgy_ch17_p171.png",
+        "obgy_ch17_p172.png",
+        "obgy_ch17_p173.png",
+        "obgy_ch17_p174.png",
+        "obgy_ch17_p175.png",
+        "obgy_ch17_p176.png",
+        "obgy_ch17_p177.png"
+      ]
+    },
+    {
+      "subject": "OBGY",
+      "chapter": "Chapter 18: Obstetrics : Part 8",
+      "type": "image_based",
+      "pages": [
+        "obgy_ch18_p178.png",
+        "obgy_ch18_p179.png",
+        "obgy_ch18_p180.png",
+        "obgy_ch18_p181.png",
+        "obgy_ch18_p182.png",
+        "obgy_ch18_p183.png",
+        "obgy_ch18_p184.png",
+        "obgy_ch18_p185.png",
+        "obgy_ch18_p186.png",
+        "obgy_ch18_p187.png",
+        "obgy_ch18_p188.png",
+        "obgy_ch18_p189.png",
+        "obgy_ch18_p190.png",
+        "obgy_ch18_p191.png",
+        "obgy_ch18_p192.png",
+        "obgy_ch18_p193.png",
+        "obgy_ch18_p194.png",
+        "obgy_ch18_p195.png",
+        "obgy_ch18_p196.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 1: Basic Anatomy of the Eye",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch1_p1.png",
+        "ophthalmology_ch1_p2.png",
+        "ophthalmology_ch1_p3.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 2: Cornea and Sclera",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch2_p4.png",
+        "ophthalmology_ch2_p5.png",
+        "ophthalmology_ch2_p6.png",
+        "ophthalmology_ch2_p7.png",
+        "ophthalmology_ch2_p8.png",
+        "ophthalmology_ch2_p9.png",
+        "ophthalmology_ch2_p10.png",
+        "ophthalmology_ch2_p11.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 3: Neuro-ophthalmology",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch3_p12.png",
+        "ophthalmology_ch3_p13.png",
+        "ophthalmology_ch3_p14.png",
+        "ophthalmology_ch3_p15.png",
+        "ophthalmology_ch3_p16.png",
+        "ophthalmology_ch3_p17.png",
+        "ophthalmology_ch3_p18.png",
+        "ophthalmology_ch3_p19.png",
+        "ophthalmology_ch3_p20.png",
+        "ophthalmology_ch3_p21.png",
+        "ophthalmology_ch3_p22.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 4: Squint",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch4_p23.png",
+        "ophthalmology_ch4_p24.png",
+        "ophthalmology_ch4_p25.png",
+        "ophthalmology_ch4_p26.png",
+        "ophthalmology_ch4_p27.png",
+        "ophthalmology_ch4_p28.png",
+        "ophthalmology_ch4_p29.png",
+        "ophthalmology_ch4_p30.png",
+        "ophthalmology_ch4_p31.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 5: Lens",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch5_p32.png",
+        "ophthalmology_ch5_p33.png",
+        "ophthalmology_ch5_p34.png",
+        "ophthalmology_ch5_p35.png",
+        "ophthalmology_ch5_p36.png",
+        "ophthalmology_ch5_p37.png",
+        "ophthalmology_ch5_p38.png",
+        "ophthalmology_ch5_p39.png",
+        "ophthalmology_ch5_p40.png",
+        "ophthalmology_ch5_p41.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 6: Glaucoma",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch6_p42.png",
+        "ophthalmology_ch6_p43.png",
+        "ophthalmology_ch6_p44.png",
+        "ophthalmology_ch6_p45.png",
+        "ophthalmology_ch6_p46.png",
+        "ophthalmology_ch6_p47.png",
+        "ophthalmology_ch6_p48.png",
+        "ophthalmology_ch6_p49.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 7: Optics and Refraction",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch7_p50.png",
+        "ophthalmology_ch7_p51.png",
+        "ophthalmology_ch7_p52.png",
+        "ophthalmology_ch7_p53.png",
+        "ophthalmology_ch7_p54.png",
+        "ophthalmology_ch7_p55.png",
+        "ophthalmology_ch7_p56.png",
+        "ophthalmology_ch7_p57.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 8: Retina",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch8_p58.png",
+        "ophthalmology_ch8_p59.png",
+        "ophthalmology_ch8_p60.png",
+        "ophthalmology_ch8_p61.png",
+        "ophthalmology_ch8_p62.png",
+        "ophthalmology_ch8_p63.png",
+        "ophthalmology_ch8_p64.png",
+        "ophthalmology_ch8_p65.png",
+        "ophthalmology_ch8_p66.png",
+        "ophthalmology_ch8_p67.png",
+        "ophthalmology_ch8_p68.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 9: Eyelids and Orbit",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch9_p69.png",
+        "ophthalmology_ch9_p70.png",
+        "ophthalmology_ch9_p71.png",
+        "ophthalmology_ch9_p72.png"
+      ]
+    },
+    {
+      "subject": "Ophthalmology",
+      "chapter": "Chapter 10: Conjunctiva and Community Ophthalmology",
+      "type": "image_based",
+      "pages": [
+        "ophthalmology_ch10_p73.png",
+        "ophthalmology_ch10_p74.png",
+        "ophthalmology_ch10_p75.png",
+        "ophthalmology_ch10_p76.png",
+        "ophthalmology_ch10_p77.png",
+        "ophthalmology_ch10_p78.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 1: Basics and General Concepts of Trauma",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch1_p1.png",
+        "orthopaedics_ch1_p2.png",
+        "orthopaedics_ch1_p3.png",
+        "orthopaedics_ch1_p4.png",
+        "orthopaedics_ch1_p5.png",
+        "orthopaedics_ch1_p6.png",
+        "orthopaedics_ch1_p7.png",
+        "orthopaedics_ch1_p8.png",
+        "orthopaedics_ch1_p9.png",
+        "orthopaedics_ch1_p10.png",
+        "orthopaedics_ch1_p11.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 2: Upper Limb Trauma",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch2_p12.png",
+        "orthopaedics_ch2_p13.png",
+        "orthopaedics_ch2_p14.png",
+        "orthopaedics_ch2_p15.png",
+        "orthopaedics_ch2_p16.png",
+        "orthopaedics_ch2_p17.png",
+        "orthopaedics_ch2_p18.png",
+        "orthopaedics_ch2_p19.png",
+        "orthopaedics_ch2_p20.png",
+        "orthopaedics_ch2_p21.png",
+        "orthopaedics_ch2_p22.png",
+        "orthopaedics_ch2_p23.png",
+        "orthopaedics_ch2_p24.png",
+        "orthopaedics_ch2_p25.png",
+        "orthopaedics_ch2_p26.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 3: Lower Limb Trauma",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch3_p27.png",
+        "orthopaedics_ch3_p28.png",
+        "orthopaedics_ch3_p29.png",
+        "orthopaedics_ch3_p30.png",
+        "orthopaedics_ch3_p31.png",
+        "orthopaedics_ch3_p32.png",
+        "orthopaedics_ch3_p33.png",
+        "orthopaedics_ch3_p34.png",
+        "orthopaedics_ch3_p35.png",
+        "orthopaedics_ch3_p36.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 4: Cumulative Trauma Disorders",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch4_p37.png",
+        "orthopaedics_ch4_p38.png",
+        "orthopaedics_ch4_p39.png",
+        "orthopaedics_ch4_p40.png",
+        "orthopaedics_ch4_p41.png",
+        "orthopaedics_ch4_p42.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 5: Orthopaedic Oncology",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch5_p43.png",
+        "orthopaedics_ch5_p44.png",
+        "orthopaedics_ch5_p45.png",
+        "orthopaedics_ch5_p46.png",
+        "orthopaedics_ch5_p47.png",
+        "orthopaedics_ch5_p48.png",
+        "orthopaedics_ch5_p49.png",
+        "orthopaedics_ch5_p50.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 6: Nerve Injuries",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch6_p51.png",
+        "orthopaedics_ch6_p52.png",
+        "orthopaedics_ch6_p53.png",
+        "orthopaedics_ch6_p54.png",
+        "orthopaedics_ch6_p55.png",
+        "orthopaedics_ch6_p56.png",
+        "orthopaedics_ch6_p57.png",
+        "orthopaedics_ch6_p58.png",
+        "orthopaedics_ch6_p59.png",
+        "orthopaedics_ch6_p60.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 7: Metabolic Diseases of Bone",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch7_p61.png",
+        "orthopaedics_ch7_p62.png",
+        "orthopaedics_ch7_p63.png",
+        "orthopaedics_ch7_p64.png",
+        "orthopaedics_ch7_p65.png",
+        "orthopaedics_ch7_p66.png",
+        "orthopaedics_ch7_p67.png",
+        "orthopaedics_ch7_p68.png",
+        "orthopaedics_ch7_p69.png",
+        "orthopaedics_ch7_p70.png",
+        "orthopaedics_ch7_p71.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 8: Orthopaedic Infections",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch8_p72.png",
+        "orthopaedics_ch8_p73.png",
+        "orthopaedics_ch8_p74.png",
+        "orthopaedics_ch8_p75.png",
+        "orthopaedics_ch8_p76.png",
+        "orthopaedics_ch8_p77.png",
+        "orthopaedics_ch8_p78.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 9: Spine : Injuries and Disorders",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch9_p79.png",
+        "orthopaedics_ch9_p80.png",
+        "orthopaedics_ch9_p81.png",
+        "orthopaedics_ch9_p82.png",
+        "orthopaedics_ch9_p83.png",
+        "orthopaedics_ch9_p84.png",
+        "orthopaedics_ch9_p85.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 10: Joint Disorders",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch10_p86.png",
+        "orthopaedics_ch10_p87.png",
+        "orthopaedics_ch10_p88.png",
+        "orthopaedics_ch10_p89.png",
+        "orthopaedics_ch10_p90.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 11: Paediatric Orthopaedics",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch11_p91.png",
+        "orthopaedics_ch11_p92.png",
+        "orthopaedics_ch11_p93.png",
+        "orthopaedics_ch11_p94.png",
+        "orthopaedics_ch11_p95.png",
+        "orthopaedics_ch11_p96.png"
+      ]
+    },
+    {
+      "subject": "Orthopaedics",
+      "chapter": "Chapter 12: Sports Injuries",
+      "type": "image_based",
+      "pages": [
+        "orthopaedics_ch12_p97.png",
+        "orthopaedics_ch12_p98.png",
+        "orthopaedics_ch12_p99.png",
+        "orthopaedics_ch12_p100.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 1: General Paediatrics : Growth",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch1_p1.png",
+        "paediatrics_ch1_p2.png",
+        "paediatrics_ch1_p3.png",
+        "paediatrics_ch1_p4.png",
+        "paediatrics_ch1_p5.png",
+        "paediatrics_ch1_p6.png",
+        "paediatrics_ch1_p7.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 2: General Paediatrics : Development and Nutrition",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch2_p8.png",
+        "paediatrics_ch2_p9.png",
+        "paediatrics_ch2_p10.png",
+        "paediatrics_ch2_p11.png",
+        "paediatrics_ch2_p12.png",
+        "paediatrics_ch2_p13.png",
+        "paediatrics_ch2_p14.png",
+        "paediatrics_ch2_p15.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 3: General Paediatrics : Genetics, Infections and Metabolic Disorders",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch3_p16.png",
+        "paediatrics_ch3_p17.png",
+        "paediatrics_ch3_p18.png",
+        "paediatrics_ch3_p19.png",
+        "paediatrics_ch3_p20.png",
+        "paediatrics_ch3_p21.png",
+        "paediatrics_ch3_p22.png",
+        "paediatrics_ch3_p23.png",
+        "paediatrics_ch3_p24.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 4: Neonatology",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch4_p25.png",
+        "paediatrics_ch4_p26.png",
+        "paediatrics_ch4_p27.png",
+        "paediatrics_ch4_p28.png",
+        "paediatrics_ch4_p29.png",
+        "paediatrics_ch4_p30.png",
+        "paediatrics_ch4_p31.png",
+        "paediatrics_ch4_p32.png",
+        "paediatrics_ch4_p33.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 5: Systemic Paediatrics : Neurology",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch5_p34.png",
+        "paediatrics_ch5_p35.png",
+        "paediatrics_ch5_p36.png",
+        "paediatrics_ch5_p37.png",
+        "paediatrics_ch5_p38.png",
+        "paediatrics_ch5_p39.png",
+        "paediatrics_ch5_p40.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 6: Systemic Paediatrics : Pulmonology and Cardiology",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch6_p41.png",
+        "paediatrics_ch6_p42.png",
+        "paediatrics_ch6_p43.png",
+        "paediatrics_ch6_p44.png",
+        "paediatrics_ch6_p45.png",
+        "paediatrics_ch6_p46.png",
+        "paediatrics_ch6_p47.png",
+        "paediatrics_ch6_p48.png",
+        "paediatrics_ch6_p49.png"
+      ]
+    },
+    {
+      "subject": "Paediatrics",
+      "chapter": "Chapter 7: Systemic Paediatrics : Gastroenterology, Nephrology and Endocrinology",
+      "type": "image_based",
+      "pages": [
+        "paediatrics_ch7_p50.png",
+        "paediatrics_ch7_p51.png",
+        "paediatrics_ch7_p52.png",
+        "paediatrics_ch7_p53.png",
+        "paediatrics_ch7_p54.png",
+        "paediatrics_ch7_p55.png",
+        "paediatrics_ch7_p56.png",
+        "paediatrics_ch7_p57.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 1: Hematology : Introduction to WBC Disorders and Leukemias",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch1_p1.png",
+        "pathology_ch1_p2.png",
+        "pathology_ch1_p3.png",
+        "pathology_ch1_p4.png",
+        "pathology_ch1_p5.png",
+        "pathology_ch1_p6.png",
+        "pathology_ch1_p7.png",
+        "pathology_ch1_p8.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 2: Hematology : Myeloid Disorders, Lymphomas and Miscellaneous",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch2_p9.png",
+        "pathology_ch2_p10.png",
+        "pathology_ch2_p11.png",
+        "pathology_ch2_p12.png",
+        "pathology_ch2_p13.png",
+        "pathology_ch2_p14.png",
+        "pathology_ch2_p15.png",
+        "pathology_ch2_p16.png",
+        "pathology_ch2_p17.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 3: Hematology : RBC Disorders",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch3_p18.png",
+        "pathology_ch3_p19.png",
+        "pathology_ch3_p20.png",
+        "pathology_ch3_p21.png",
+        "pathology_ch3_p22.png",
+        "pathology_ch3_p23.png",
+        "pathology_ch3_p24.png",
+        "pathology_ch3_p25.png",
+        "pathology_ch3_p26.png",
+        "pathology_ch3_p27.png",
+        "pathology_ch3_p28.png",
+        "pathology_ch3_p29.png",
+        "pathology_ch3_p30.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 4: Hematology : Haemostasis, Blood Banking and Practical Hematology",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch4_p31.png",
+        "pathology_ch4_p32.png",
+        "pathology_ch4_p33.png",
+        "pathology_ch4_p34.png",
+        "pathology_ch4_p35.png",
+        "pathology_ch4_p36.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 5: General Pathology : Cell Adaptations and Cell Injury",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch5_p37.png",
+        "pathology_ch5_p38.png",
+        "pathology_ch5_p39.png",
+        "pathology_ch5_p40.png",
+        "pathology_ch5_p41.png",
+        "pathology_ch5_p42.png",
+        "pathology_ch5_p43.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 6: General Pathology : Inflammation and Neoplasia",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch6_p44.png",
+        "pathology_ch6_p45.png",
+        "pathology_ch6_p46.png",
+        "pathology_ch6_p47.png",
+        "pathology_ch6_p48.png",
+        "pathology_ch6_p49.png",
+        "pathology_ch6_p50.png",
+        "pathology_ch6_p51.png",
+        "pathology_ch6_p52.png",
+        "pathology_ch6_p53.png",
+        "pathology_ch6_p54.png",
+        "pathology_ch6_p55.png",
+        "pathology_ch6_p56.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 7: General Pathology : Immunity",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch7_p57.png",
+        "pathology_ch7_p58.png",
+        "pathology_ch7_p59.png",
+        "pathology_ch7_p60.png",
+        "pathology_ch7_p61.png",
+        "pathology_ch7_p62.png",
+        "pathology_ch7_p63.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 8: General Pathology : Genetics",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch8_p64.png",
+        "pathology_ch8_p65.png",
+        "pathology_ch8_p66.png",
+        "pathology_ch8_p67.png",
+        "pathology_ch8_p68.png",
+        "pathology_ch8_p69.png",
+        "pathology_ch8_p70.png",
+        "pathology_ch8_p71.png",
+        "pathology_ch8_p72.png",
+        "pathology_ch8_p73.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 9: Systemic Pathology : Blood Vessels and Heart",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch9_p74.png",
+        "pathology_ch9_p75.png",
+        "pathology_ch9_p76.png",
+        "pathology_ch9_p77.png",
+        "pathology_ch9_p78.png",
+        "pathology_ch9_p79.png",
+        "pathology_ch9_p80.png",
+        "pathology_ch9_p81.png",
+        "pathology_ch9_p82.png",
+        "pathology_ch9_p83.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 10: Systemic Pathology : CNS and Dermapathology",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch10_p84.png",
+        "pathology_ch10_p85.png",
+        "pathology_ch10_p86.png",
+        "pathology_ch10_p87.png",
+        "pathology_ch10_p88.png",
+        "pathology_ch10_p89.png",
+        "pathology_ch10_p90.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 11: Systemic Pathology : Respiratory System",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch11_p91.png",
+        "pathology_ch11_p92.png",
+        "pathology_ch11_p93.png",
+        "pathology_ch11_p94.png",
+        "pathology_ch11_p95.png",
+        "pathology_ch11_p96.png",
+        "pathology_ch11_p97.png",
+        "pathology_ch11_p98.png",
+        "pathology_ch11_p99.png",
+        "pathology_ch11_p100.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 12: Systemic Pathology : Genital System and Breast",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch12_p101.png",
+        "pathology_ch12_p102.png",
+        "pathology_ch12_p103.png",
+        "pathology_ch12_p104.png",
+        "pathology_ch12_p105.png",
+        "pathology_ch12_p106.png",
+        "pathology_ch12_p107.png",
+        "pathology_ch12_p108.png",
+        "pathology_ch12_p109.png",
+        "pathology_ch12_p110.png",
+        "pathology_ch12_p111.png",
+        "pathology_ch12_p112.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 13: Systemic Pathology : Gastrointestinal, Endocrine and Musculoskeletal System",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch13_p113.png",
+        "pathology_ch13_p114.png",
+        "pathology_ch13_p115.png",
+        "pathology_ch13_p116.png",
+        "pathology_ch13_p117.png",
+        "pathology_ch13_p118.png",
+        "pathology_ch13_p119.png",
+        "pathology_ch13_p120.png",
+        "pathology_ch13_p121.png",
+        "pathology_ch13_p122.png",
+        "pathology_ch13_p123.png",
+        "pathology_ch13_p124.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 14: Systemic Pathology : Kidney and Liver",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch14_p125.png",
+        "pathology_ch14_p126.png",
+        "pathology_ch14_p127.png",
+        "pathology_ch14_p128.png",
+        "pathology_ch14_p129.png",
+        "pathology_ch14_p130.png",
+        "pathology_ch14_p131.png",
+        "pathology_ch14_p132.png",
+        "pathology_ch14_p133.png",
+        "pathology_ch14_p134.png",
+        "pathology_ch14_p135.png"
+      ]
+    },
+    {
+      "subject": "Pathology",
+      "chapter": "Chapter 15: Annexure",
+      "type": "image_based",
+      "pages": [
+        "pathology_ch15_p136.png",
+        "pathology_ch15_p137.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 1: General Pharmacology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch1_p1.png",
+        "pharmacology_ch1_p2.png",
+        "pharmacology_ch1_p3.png",
+        "pharmacology_ch1_p4.png",
+        "pharmacology_ch1_p5.png",
+        "pharmacology_ch1_p6.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 2: General Pharmacology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch2_p7.png",
+        "pharmacology_ch2_p8.png",
+        "pharmacology_ch2_p9.png",
+        "pharmacology_ch2_p10.png",
+        "pharmacology_ch2_p11.png",
+        "pharmacology_ch2_p12.png",
+        "pharmacology_ch2_p13.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 3: Drugs Acting on Autonomic Nervous System",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch3_p14.png",
+        "pharmacology_ch3_p15.png",
+        "pharmacology_ch3_p16.png",
+        "pharmacology_ch3_p17.png",
+        "pharmacology_ch3_p18.png",
+        "pharmacology_ch3_p19.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 4: Drugs acting on Cardiovascular System : Part 1",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch4_p20.png",
+        "pharmacology_ch4_p21.png",
+        "pharmacology_ch4_p22.png",
+        "pharmacology_ch4_p23.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 5: Drugs acting on Cardiovascular System : Part 2",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch5_p24.png",
+        "pharmacology_ch5_p25.png",
+        "pharmacology_ch5_p26.png",
+        "pharmacology_ch5_p27.png",
+        "pharmacology_ch5_p28.png",
+        "pharmacology_ch5_p29.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 6: Drugs Acting on Kidney",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch6_p30.png",
+        "pharmacology_ch6_p31.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 7: Drugs Acting on Central Nervous System",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch7_p32.png",
+        "pharmacology_ch7_p33.png",
+        "pharmacology_ch7_p34.png",
+        "pharmacology_ch7_p35.png",
+        "pharmacology_ch7_p36.png",
+        "pharmacology_ch7_p37.png",
+        "pharmacology_ch7_p38.png",
+        "pharmacology_ch7_p39.png",
+        "pharmacology_ch7_p40.png",
+        "pharmacology_ch7_p41.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 8: Antibiotics : Part 1",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch8_p42.png",
+        "pharmacology_ch8_p43.png",
+        "pharmacology_ch8_p44.png",
+        "pharmacology_ch8_p45.png",
+        "pharmacology_ch8_p46.png",
+        "pharmacology_ch8_p47.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 9: Antibiotics : Part 2",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch9_p48.png",
+        "pharmacology_ch9_p49.png",
+        "pharmacology_ch9_p50.png",
+        "pharmacology_ch9_p51.png",
+        "pharmacology_ch9_p52.png",
+        "pharmacology_ch9_p53.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 10: Drugs Acting on Endocrine System",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch10_p54.png",
+        "pharmacology_ch10_p55.png",
+        "pharmacology_ch10_p56.png",
+        "pharmacology_ch10_p57.png",
+        "pharmacology_ch10_p58.png",
+        "pharmacology_ch10_p59.png",
+        "pharmacology_ch10_p60.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 11: Autacoids",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch11_p61.png",
+        "pharmacology_ch11_p62.png",
+        "pharmacology_ch11_p63.png",
+        "pharmacology_ch11_p64.png",
+        "pharmacology_ch11_p65.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 12: Drugs Acting on Respiratory System, GIT and Blood",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch12_p66.png",
+        "pharmacology_ch12_p67.png",
+        "pharmacology_ch12_p68.png",
+        "pharmacology_ch12_p69.png",
+        "pharmacology_ch12_p70.png",
+        "pharmacology_ch12_p71.png",
+        "pharmacology_ch12_p72.png"
+      ]
+    },
+    {
+      "subject": "Pharmacology",
+      "chapter": "Chapter 13: Anti Neoplastic agents and Immunomodulators",
+      "type": "image_based",
+      "pages": [
+        "pharmacology_ch13_p73.png",
+        "pharmacology_ch13_p74.png",
+        "pharmacology_ch13_p75.png",
+        "pharmacology_ch13_p76.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 1: General and Cellular Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch1_p1.png",
+        "physiology_ch1_p2.png",
+        "physiology_ch1_p3.png",
+        "physiology_ch1_p4.png",
+        "physiology_ch1_p5.png",
+        "physiology_ch1_p6.png",
+        "physiology_ch1_p7.png",
+        "physiology_ch1_p8.png",
+        "physiology_ch1_p9.png",
+        "physiology_ch1_p10.png",
+        "physiology_ch1_p11.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 2: Nerve Muscle Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch2_p12.png",
+        "physiology_ch2_p13.png",
+        "physiology_ch2_p14.png",
+        "physiology_ch2_p15.png",
+        "physiology_ch2_p16.png",
+        "physiology_ch2_p17.png",
+        "physiology_ch2_p18.png",
+        "physiology_ch2_p19.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 3: Neurophysiology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch3_p20.png",
+        "physiology_ch3_p21.png",
+        "physiology_ch3_p22.png",
+        "physiology_ch3_p23.png",
+        "physiology_ch3_p24.png",
+        "physiology_ch3_p25.png",
+        "physiology_ch3_p26.png",
+        "physiology_ch3_p27.png",
+        "physiology_ch3_p28.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 4: Neurophysiology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch4_p29.png",
+        "physiology_ch4_p30.png",
+        "physiology_ch4_p31.png",
+        "physiology_ch4_p32.png",
+        "physiology_ch4_p33.png",
+        "physiology_ch4_p34.png",
+        "physiology_ch4_p35.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 5: Respiratory Physiology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch5_p36.png",
+        "physiology_ch5_p37.png",
+        "physiology_ch5_p38.png",
+        "physiology_ch5_p39.png",
+        "physiology_ch5_p40.png",
+        "physiology_ch5_p41.png",
+        "physiology_ch5_p42.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 6: Respiratory Physiology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch6_p43.png",
+        "physiology_ch6_p44.png",
+        "physiology_ch6_p45.png",
+        "physiology_ch6_p46.png",
+        "physiology_ch6_p47.png",
+        "physiology_ch6_p48.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 7: Cardiovascular Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch7_p49.png",
+        "physiology_ch7_p50.png",
+        "physiology_ch7_p51.png",
+        "physiology_ch7_p52.png",
+        "physiology_ch7_p53.png",
+        "physiology_ch7_p54.png",
+        "physiology_ch7_p55.png",
+        "physiology_ch7_p56.png",
+        "physiology_ch7_p57.png",
+        "physiology_ch7_p58.png",
+        "physiology_ch7_p59.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 8: Gastrointestinal Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch8_p60.png",
+        "physiology_ch8_p61.png",
+        "physiology_ch8_p62.png",
+        "physiology_ch8_p63.png",
+        "physiology_ch8_p64.png",
+        "physiology_ch8_p65.png",
+        "physiology_ch8_p66.png",
+        "physiology_ch8_p67.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 9: Renal Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch9_p68.png",
+        "physiology_ch9_p69.png",
+        "physiology_ch9_p70.png",
+        "physiology_ch9_p71.png",
+        "physiology_ch9_p72.png",
+        "physiology_ch9_p73.png",
+        "physiology_ch9_p74.png",
+        "physiology_ch9_p75.png",
+        "physiology_ch9_p76.png",
+        "physiology_ch9_p77.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 10: Endocrine Physiology",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch10_p78.png",
+        "physiology_ch10_p79.png",
+        "physiology_ch10_p80.png",
+        "physiology_ch10_p81.png",
+        "physiology_ch10_p82.png",
+        "physiology_ch10_p83.png",
+        "physiology_ch10_p84.png",
+        "physiology_ch10_p85.png",
+        "physiology_ch10_p86.png",
+        "physiology_ch10_p87.png"
+      ]
+    },
+    {
+      "subject": "Physiology",
+      "chapter": "Chapter 11: Reproductive & Exercise Physiology, Regulation of Body Temperature",
+      "type": "image_based",
+      "pages": [
+        "physiology_ch11_p88.png",
+        "physiology_ch11_p89.png",
+        "physiology_ch11_p90.png",
+        "physiology_ch11_p91.png",
+        "physiology_ch11_p92.png",
+        "physiology_ch11_p93.png",
+        "physiology_ch11_p94.png",
+        "physiology_ch11_p95.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 1: Psychiatry Revision - 1",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch1_p1.png",
+        "psychiatry_ch1_p2.png",
+        "psychiatry_ch1_p3.png",
+        "psychiatry_ch1_p4.png",
+        "psychiatry_ch1_p5.png",
+        "psychiatry_ch1_p6.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 2: Psychiatry Revision - 2",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch2_p7.png",
+        "psychiatry_ch2_p8.png",
+        "psychiatry_ch2_p9.png",
+        "psychiatry_ch2_p10.png",
+        "psychiatry_ch2_p11.png",
+        "psychiatry_ch2_p12.png",
+        "psychiatry_ch2_p13.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 3: Psychiatry Revision - 3",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch3_p14.png",
+        "psychiatry_ch3_p15.png",
+        "psychiatry_ch3_p16.png",
+        "psychiatry_ch3_p17.png",
+        "psychiatry_ch3_p18.png",
+        "psychiatry_ch3_p19.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 4: Psychiatry Revision - 4",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch4_p20.png",
+        "psychiatry_ch4_p21.png",
+        "psychiatry_ch4_p22.png",
+        "psychiatry_ch4_p23.png",
+        "psychiatry_ch4_p24.png",
+        "psychiatry_ch4_p25.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 5: Psychiatry Revision - 5",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch5_p26.png",
+        "psychiatry_ch5_p27.png",
+        "psychiatry_ch5_p28.png",
+        "psychiatry_ch5_p29.png",
+        "psychiatry_ch5_p30.png",
+        "psychiatry_ch5_p31.png",
+        "psychiatry_ch5_p32.png",
+        "psychiatry_ch5_p33.png",
+        "psychiatry_ch5_p34.png"
+      ]
+    },
+    {
+      "subject": "Psychiatry",
+      "chapter": "Chapter 6: Psychiatry Revision - 6",
+      "type": "image_based",
+      "pages": [
+        "psychiatry_ch6_p35.png",
+        "psychiatry_ch6_p36.png",
+        "psychiatry_ch6_p37.png",
+        "psychiatry_ch6_p38.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 1: Fundamentals of Radiology",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch1_p1.png",
+        "radiology_ch1_p2.png",
+        "radiology_ch1_p3.png",
+        "radiology_ch1_p4.png",
+        "radiology_ch1_p5.png",
+        "radiology_ch1_p6.png",
+        "radiology_ch1_p7.png",
+        "radiology_ch1_p8.png",
+        "radiology_ch1_p9.png",
+        "radiology_ch1_p10.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 2: Radionuclide Imaging and Radiotherapy",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch2_p11.png",
+        "radiology_ch2_p12.png",
+        "radiology_ch2_p13.png",
+        "radiology_ch2_p14.png",
+        "radiology_ch2_p15.png",
+        "radiology_ch2_p16.png",
+        "radiology_ch2_p17.png",
+        "radiology_ch2_p18.png",
+        "radiology_ch2_p19.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 3: Respiratory Imaging : Part 1",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch3_p20.png",
+        "radiology_ch3_p21.png",
+        "radiology_ch3_p22.png",
+        "radiology_ch3_p23.png",
+        "radiology_ch3_p24.png",
+        "radiology_ch3_p25.png",
+        "radiology_ch3_p26.png",
+        "radiology_ch3_p27.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 4: Respiratory Imaging : Part 2",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch4_p28.png",
+        "radiology_ch4_p29.png",
+        "radiology_ch4_p30.png",
+        "radiology_ch4_p31.png",
+        "radiology_ch4_p32.png",
+        "radiology_ch4_p33.png",
+        "radiology_ch4_p34.png",
+        "radiology_ch4_p35.png",
+        "radiology_ch4_p36.png",
+        "radiology_ch4_p37.png",
+        "radiology_ch4_p38.png",
+        "radiology_ch4_p39.png",
+        "radiology_ch4_p40.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 5: Cardiovascular and Neurological Imaging",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch5_p41.png",
+        "radiology_ch5_p42.png",
+        "radiology_ch5_p43.png",
+        "radiology_ch5_p44.png",
+        "radiology_ch5_p45.png",
+        "radiology_ch5_p46.png",
+        "radiology_ch5_p47.png",
+        "radiology_ch5_p48.png",
+        "radiology_ch5_p49.png",
+        "radiology_ch5_p50.png",
+        "radiology_ch5_p51.png",
+        "radiology_ch5_p52.png",
+        "radiology_ch5_p53.png",
+        "radiology_ch5_p54.png",
+        "radiology_ch5_p55.png",
+        "radiology_ch5_p56.png",
+        "radiology_ch5_p57.png",
+        "radiology_ch5_p58.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 6: Gastrointestinal and Genitourinary Tract Imaging",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch6_p59.png",
+        "radiology_ch6_p60.png",
+        "radiology_ch6_p61.png",
+        "radiology_ch6_p62.png",
+        "radiology_ch6_p63.png",
+        "radiology_ch6_p64.png",
+        "radiology_ch6_p65.png",
+        "radiology_ch6_p66.png",
+        "radiology_ch6_p67.png",
+        "radiology_ch6_p68.png",
+        "radiology_ch6_p69.png",
+        "radiology_ch6_p70.png",
+        "radiology_ch6_p71.png",
+        "radiology_ch6_p72.png",
+        "radiology_ch6_p73.png",
+        "radiology_ch6_p74.png",
+        "radiology_ch6_p75.png",
+        "radiology_ch6_p76.png",
+        "radiology_ch6_p77.png",
+        "radiology_ch6_p78.png"
+      ]
+    },
+    {
+      "subject": "Radiology",
+      "chapter": "Chapter 7: Women and Musculoskeletal Imaging",
+      "type": "image_based",
+      "pages": [
+        "radiology_ch7_p79.png",
+        "radiology_ch7_p80.png",
+        "radiology_ch7_p81.png",
+        "radiology_ch7_p82.png",
+        "radiology_ch7_p83.png",
+        "radiology_ch7_p84.png",
+        "radiology_ch7_p85.png",
+        "radiology_ch7_p86.png",
+        "radiology_ch7_p87.png",
+        "radiology_ch7_p88.png",
+        "radiology_ch7_p89.png",
+        "radiology_ch7_p90.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 1: General Surgery : Part 1",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch1_p1.png",
+        "surgery_ch1_p2.png",
+        "surgery_ch1_p3.png",
+        "surgery_ch1_p4.png",
+        "surgery_ch1_p5.png",
+        "surgery_ch1_p6.png",
+        "surgery_ch1_p7.png",
+        "surgery_ch1_p8.png",
+        "surgery_ch1_p9.png",
+        "surgery_ch1_p10.png",
+        "surgery_ch1_p11.png",
+        "surgery_ch1_p12.png",
+        "surgery_ch1_p13.png",
+        "surgery_ch1_p14.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 2: General Surgery : Part 2",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch2_p15.png",
+        "surgery_ch2_p16.png",
+        "surgery_ch2_p17.png",
+        "surgery_ch2_p18.png",
+        "surgery_ch2_p19.png",
+        "surgery_ch2_p20.png",
+        "surgery_ch2_p21.png",
+        "surgery_ch2_p22.png",
+        "surgery_ch2_p23.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 3: Breast",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch3_p24.png",
+        "surgery_ch3_p25.png",
+        "surgery_ch3_p26.png",
+        "surgery_ch3_p27.png",
+        "surgery_ch3_p28.png",
+        "surgery_ch3_p29.png",
+        "surgery_ch3_p30.png",
+        "surgery_ch3_p31.png",
+        "surgery_ch3_p32.png",
+        "surgery_ch3_p33.png",
+        "surgery_ch3_p34.png",
+        "surgery_ch3_p35.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 4: Thyroid, Parathyroid and Adrenal Glands",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch4_p36.png",
+        "surgery_ch4_p37.png",
+        "surgery_ch4_p38.png",
+        "surgery_ch4_p39.png",
+        "surgery_ch4_p40.png",
+        "surgery_ch4_p41.png",
+        "surgery_ch4_p42.png",
+        "surgery_ch4_p43.png",
+        "surgery_ch4_p44.png",
+        "surgery_ch4_p45.png",
+        "surgery_ch4_p46.png",
+        "surgery_ch4_p47.png",
+        "surgery_ch4_p48.png",
+        "surgery_ch4_p49.png",
+        "surgery_ch4_p50.png",
+        "surgery_ch4_p51.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 5: Oral Cancer, Salivary Glands and Neck Swellings",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch5_p52.png",
+        "surgery_ch5_p53.png",
+        "surgery_ch5_p54.png",
+        "surgery_ch5_p55.png",
+        "surgery_ch5_p56.png",
+        "surgery_ch5_p57.png",
+        "surgery_ch5_p58.png",
+        "surgery_ch5_p59.png",
+        "surgery_ch5_p60.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 6: Gastrointestinal Surgery : Part 1",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch6_p61.png",
+        "surgery_ch6_p62.png",
+        "surgery_ch6_p63.png",
+        "surgery_ch6_p64.png",
+        "surgery_ch6_p65.png",
+        "surgery_ch6_p66.png",
+        "surgery_ch6_p67.png",
+        "surgery_ch6_p68.png",
+        "surgery_ch6_p69.png",
+        "surgery_ch6_p70.png",
+        "surgery_ch6_p71.png",
+        "surgery_ch6_p72.png",
+        "surgery_ch6_p73.png",
+        "surgery_ch6_p74.png",
+        "surgery_ch6_p75.png",
+        "surgery_ch6_p76.png",
+        "surgery_ch6_p77.png",
+        "surgery_ch6_p78.png",
+        "surgery_ch6_p79.png",
+        "surgery_ch6_p80.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 7: Gastrointestinal Surgery : Part 2",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch7_p81.png",
+        "surgery_ch7_p82.png",
+        "surgery_ch7_p83.png",
+        "surgery_ch7_p84.png",
+        "surgery_ch7_p85.png",
+        "surgery_ch7_p86.png",
+        "surgery_ch7_p87.png",
+        "surgery_ch7_p88.png",
+        "surgery_ch7_p89.png",
+        "surgery_ch7_p90.png",
+        "surgery_ch7_p91.png",
+        "surgery_ch7_p92.png",
+        "surgery_ch7_p93.png",
+        "surgery_ch7_p94.png",
+        "surgery_ch7_p95.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 8: Gastrointestinal Surgery : Part 3",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch8_p96.png",
+        "surgery_ch8_p97.png",
+        "surgery_ch8_p98.png",
+        "surgery_ch8_p99.png",
+        "surgery_ch8_p100.png",
+        "surgery_ch8_p101.png",
+        "surgery_ch8_p102.png",
+        "surgery_ch8_p103.png",
+        "surgery_ch8_p104.png",
+        "surgery_ch8_p105.png",
+        "surgery_ch8_p106.png",
+        "surgery_ch8_p107.png",
+        "surgery_ch8_p108.png",
+        "surgery_ch8_p109.png",
+        "surgery_ch8_p110.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 9: Hepatobiliary and Minimally Invasive Surgery",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch9_p111.png",
+        "surgery_ch9_p112.png",
+        "surgery_ch9_p113.png",
+        "surgery_ch9_p114.png",
+        "surgery_ch9_p115.png",
+        "surgery_ch9_p116.png",
+        "surgery_ch9_p117.png",
+        "surgery_ch9_p118.png",
+        "surgery_ch9_p119.png",
+        "surgery_ch9_p120.png",
+        "surgery_ch9_p121.png",
+        "surgery_ch9_p122.png",
+        "surgery_ch9_p123.png",
+        "surgery_ch9_p124.png",
+        "surgery_ch9_p125.png",
+        "surgery_ch9_p126.png",
+        "surgery_ch9_p127.png",
+        "surgery_ch9_p128.png",
+        "surgery_ch9_p129.png",
+        "surgery_ch9_p130.png",
+        "surgery_ch9_p131.png",
+        "surgery_ch9_p132.png",
+        "surgery_ch9_p133.png",
+        "surgery_ch9_p134.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 10: Urology : Part 1",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch10_p135.png",
+        "surgery_ch10_p136.png",
+        "surgery_ch10_p137.png",
+        "surgery_ch10_p138.png",
+        "surgery_ch10_p139.png",
+        "surgery_ch10_p140.png",
+        "surgery_ch10_p141.png",
+        "surgery_ch10_p142.png",
+        "surgery_ch10_p143.png",
+        "surgery_ch10_p144.png",
+        "surgery_ch10_p145.png",
+        "surgery_ch10_p146.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 11: Urology : Part 2",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch11_p147.png",
+        "surgery_ch11_p148.png",
+        "surgery_ch11_p149.png",
+        "surgery_ch11_p150.png",
+        "surgery_ch11_p151.png",
+        "surgery_ch11_p152.png",
+        "surgery_ch11_p153.png",
+        "surgery_ch11_p154.png",
+        "surgery_ch11_p155.png",
+        "surgery_ch11_p156.png",
+        "surgery_ch11_p157.png",
+        "surgery_ch11_p158.png",
+        "surgery_ch11_p159.png",
+        "surgery_ch11_p160.png",
+        "surgery_ch11_p161.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 12: Speciality Surgery",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch12_p162.png",
+        "surgery_ch12_p163.png",
+        "surgery_ch12_p164.png",
+        "surgery_ch12_p165.png",
+        "surgery_ch12_p166.png",
+        "surgery_ch12_p167.png",
+        "surgery_ch12_p168.png",
+        "surgery_ch12_p169.png",
+        "surgery_ch12_p170.png",
+        "surgery_ch12_p171.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 13: Trauma and Burns",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch13_p172.png",
+        "surgery_ch13_p173.png",
+        "surgery_ch13_p174.png",
+        "surgery_ch13_p175.png",
+        "surgery_ch13_p176.png",
+        "surgery_ch13_p177.png",
+        "surgery_ch13_p178.png",
+        "surgery_ch13_p179.png",
+        "surgery_ch13_p180.png",
+        "surgery_ch13_p181.png",
+        "surgery_ch13_p182.png",
+        "surgery_ch13_p183.png",
+        "surgery_ch13_p184.png",
+        "surgery_ch13_p185.png",
+        "surgery_ch13_p186.png",
+        "surgery_ch13_p187.png",
+        "surgery_ch13_p188.png",
+        "surgery_ch13_p189.png",
+        "surgery_ch13_p190.png",
+        "surgery_ch13_p191.png",
+        "surgery_ch13_p192.png",
+        "surgery_ch13_p193.png",
+        "surgery_ch13_p194.png",
+        "surgery_ch13_p195.png",
+        "surgery_ch13_p196.png",
+        "surgery_ch13_p197.png",
+        "surgery_ch13_p198.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 14: Hernia, Thorax and Skin",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch14_p199.png",
+        "surgery_ch14_p200.png",
+        "surgery_ch14_p201.png",
+        "surgery_ch14_p202.png",
+        "surgery_ch14_p203.png",
+        "surgery_ch14_p204.png",
+        "surgery_ch14_p205.png",
+        "surgery_ch14_p206.png",
+        "surgery_ch14_p207.png",
+        "surgery_ch14_p208.png",
+        "surgery_ch14_p209.png",
+        "surgery_ch14_p210.png",
+        "surgery_ch14_p211.png"
+      ]
+    },
+    {
+      "subject": "Surgery",
+      "chapter": "Chapter 15: Vascular Surgery",
+      "type": "image_based",
+      "pages": [
+        "surgery_ch15_p212.png",
+        "surgery_ch15_p213.png",
+        "surgery_ch15_p214.png",
+        "surgery_ch15_p215.png",
+        "surgery_ch15_p216.png",
+        "surgery_ch15_p217.png",
+        "surgery_ch15_p218.png",
+        "surgery_ch15_p219.png",
+        "surgery_ch15_p220.png",
+        "surgery_ch15_p221.png",
+        "surgery_ch15_p222.png",
+        "surgery_ch15_p223.png",
+        "surgery_ch15_p224.png",
+        "surgery_ch15_p225.png",
+        "surgery_ch15_p226.png",
+        "surgery_ch15_p227.png",
+        "surgery_ch15_p228.png",
+        "surgery_ch15_p229.png",
+        "surgery_ch15_p230.png"
+      ]
+    }
+  ],
+  "practice": []
+}
